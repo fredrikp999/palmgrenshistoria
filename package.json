@@ -1,0 +1,23 @@
+{
+  "name": "palmgrenshistoria",
+  "version": "1.0.0",
+  "description": "Palmgrens historia",
+  "main": "server.js",
+  "dependencies": {
+    "ol": "6.3.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredrikp999/palmgrenshistoria.git"
+  },
+  "author": "Fredrik Palmgren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fredrikp999/palmgrenshistoria/issues"
+  },
+  "homepage": "https://github.com/fredrikp999/palmgrenshistoria#readme"
+}

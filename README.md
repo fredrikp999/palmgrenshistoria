@@ -1,7 +1,8 @@
 # palmgrenshistoria
 Geo-mappad information on Släkten Palmgren
 
-Use: npm server.js
-(for now, you need to install npm and npm-libs)
+Usage: >npm start
+Webserver serving at localhost:3000 in test setup
 
-Will e.g. be using js/node library from https://openlayers.org/
+(for now, you need to install npm and npm-libs)
+Using using js/node library from https://openlayers.org/
