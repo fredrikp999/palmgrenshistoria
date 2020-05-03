@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="18Foq6QQ0z-jWFj2cgp1qb2YzKIB5E23E">
+	<name>Några platser med anknytningar</name>
+	<description>Tanken är att göra  några platser  med anknytning till Palmgren och kanske Högberg, kända och göra dessa lätt att hitta. Det kan vara roligt veta var  de bott . Man kan se hur det ser ut idag och fantisera sig tillbaks i tiden.
+
+Kanske  i samband med en promenad.
+Uppgifterna är resultat från en del släktforskarmöda under ett antal år.</description>
+	<gx:CascadingStyle kml:id="__managed_style_1F7D50E276130EAD7DBB">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.5</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2344&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0307A6433F130EAD7DBB">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1F7D50E276130EAD7DBB</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0ACA08ED2D130EAD7DBC</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_1F3B78D7F7130EAD7DBA">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>0.9</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2344&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_051F718CB5130EAD7DBA">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>0.75</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2344&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0CEB7DA727130EAD7DB9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_051F718CB5130EAD7DBA</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_1F3B78D7F7130EAD7DBA</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_1C843AC122130EAD7DB7">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2344&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.5</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_29D8ECBAFD130EAD7DB7">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2344&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.5</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_154A1F75ED130EAD7DB4">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=303f9f&amp;id=2344&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>fff9ca90</color>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0ACA08ED2D130EAD7DBC">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.8</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2344&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0DE76201ED130EAD7DB6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_14CD746A8D130EAD7DB6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2F5F9867E5130EAD7DB6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_2F5F9867E5130EAD7DB6">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/simple_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.8</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2344&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>fff9ca90</color>
+				<scale>1.5</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>panel</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0EE751A469130EAD7DAE">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1B35C95B2E130EAD7DAE</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_090267B480130EAD7DAF</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_1B35C95B2E130EAD7DAE">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=303f9f&amp;id=2344&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_22B9D08018130EAD7DB0">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2344&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0BA9378815130EAD7DB7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1C843AC122130EAD7DB7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_29D8ECBAFD130EAD7DB7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_14CD746A8D130EAD7DB6">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/simple_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.5</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2344&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>fff9ca90</color>
+				<scale>1.5</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>panel</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1E395AB769130EAD7DB0">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2344&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0435B44E94130EAD7DB5">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=303f9f&amp;id=2344&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>fff9ca90</color>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_02B37E4258130EAD7DB0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1E395AB769130EAD7DB0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_22B9D08018130EAD7DB0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_09B883DA20130EAD7DB4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_154A1F75ED130EAD7DB4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0435B44E94130EAD7DB5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_090267B480130EAD7DAF">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=303f9f&amp;id=2344&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<Placemark id="0F8149CBBD130B59AC49">
+		<name>Luntmakargatan 44 (febr 1868) nu 66</name>
+		<description><![CDATA[<div><div>Gustaf Gabriel Ljungqvist&nbsp; <br></div><div>född den 3 februari 1868 på adressen Luntmakargatan 44 (nuv nr 66)&nbsp;<br> Adolf Fredriks församl. kv Sjörån&nbsp; mellan&nbsp; Kungstensgatan - Rådmansgatan-</div><div>Fotografier visar Luntmakargatan söderut från Odengatan resp Rehnsgatan. Man <a href="https://goo.gl/maps/m4VTWHBhBFKmRRnK9">goo.gl/maps/m4VTWHBhBFKmRRnK9</a>kan skymta större stenhus några kvarter bort.</div></div><div><div>Oäkta barn, okända föräldrar <br></div><div>enl. födelseboken.<br></div></div><div><br></div>]]></description>
+		<gx:mid>/g/11csmj0gxy</gx:mid>
+		<gx:fid>0x465f9d6878bbf2c3:0xca97b33f5a65bb5d</gx:fid>
+		<LookAt>
+			<longitude>18.05971</longitude>
+			<latitude>59.341446</latitude>
+			<altitude>6.1357975</altitude>
+			<heading>8.537736462515939e-07</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>506.5211704244575</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EE751A469130EAD7DAE</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMclhBMitTNFRiRnFGOWw2R3RCa0NOSXVQZ2lhVk9lL09WVFJZOEhJYWttV3ZJbm1hY1pJU1lpSEtud2NPb1l0S3lKYWlxMDFiM0hTaXpXSGdiSEpEc3dzOUMxdUpSb1JCcml4LzRxeWloRGJNRlU2aFNPTzVUaEY2T2J5Wis2S2RTSkxHR1MzM0dZajhKQ1hZVXk5SnBpc2lPeFh4RncrSmU3Tmt4WFRXZ2lrQ1pRZFVvUGM3SGt5S3ZjbmNtSHRpSzV5dUVvUTZNL1g3SzRnRTZEMjFMaXVEUGZvdlVYTUNLc2pQS1pnS1RnYk94dDNsZjlOTlF6N1ZqUHdMM2I1VlhYbCt6RE10b09HQU53NS9uZmJSV1VLNDlEd3c9PQ">
+				<gx:ImageUrl>https://doc-14-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/878oud724stph62cjiv99u0gig/1588488105750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALpe0pwZK2WfK8X877xoL4gvpKTWK2Fpnl-mWCuylS6HfKFN86NfzM-mEJFou-GPkcy7HL6gC9GcklZxPLpRimSwCOUqSo0o-CVKMkji1SIXuUmdj5b50oI0iij2LoBVdAalEMNVR_ObNJKqH4Zns14A9z7NRNEDqwWF7iWYGRmWFT7lDG1UFf9et6K_S8dwXFKoYXrX1JzEDfkqGPUcwccydAwnfN33nHdYWQDiOgn7rwsaS_AyUxT3wLd2OyW1u7XkIVyOSnjFO2Odq81dBh5PXLQtXQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcndxTTU4eEE2Z2NsRUVGSE9PYUhmeTVnUXc0T1QrMzZCV1BjY2REWkdZME0yRlZRQ3U2ZldEWDhkcVN2NEl1ZEtxeDFCcG9FUUQ1cnpBNjVsWFFEaHRJUVFYNkNNdDg4bGlyOTFvcFFLbVpQRGtidnJHZ1lFeE80aWw4MytoTS9yNzRSSFdoaXdXa2JLbG9vVGVrTllVNEVBZ1A4eWZxNlNkTW9JMG1IdDkvRWJnczd0VkJISENLR1hlclY5Wis2QzN4T3hWUXJMNnNsOTJNSEFDRlhjbVNCRHpXM2w3SDNNcnlDdXlCWWx6SVFZb294YkRDbURISnZsdVpFREFJOTJ0T0pUcFRPOElMTWp3dEhVQjdHQ056Rks3ZUE9PQ_0">
+				<gx:ImageUrl>https://doc-0k-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/c5fd2t9rvbp0homus2fnn5cn5c/1588488105750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALrTpUrE9LkUuiD3FzGrM9AbvTOxFDW9CvQB--VZgocUS15Z_U_07UnHL2y1Ua0-QAoXZNO4p7cr8F65rkGtq0e5vTwfEk-ZOh5eoxd8YaDHOYfwIzA756DhS1YcWohqYuoJkh-9LxWqDiWsc4GqmqKieRurdSDUaziujzXe9dCoaA3-zINTkfJqiUBVIdxOPO-eoZWIPPlGycZt5VXV-Nh3wGhXIifS3jpVQwN9D9qJnxWTZt7hR5KsvOMgHFdssaTwTVcQG-QXn9uiW2Qb7Y6Zy_KDmQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcnJxeUVzVGVBZU1CTU4rbXFRWTgwOGV3YnpTcTU0SHVlT3pwODN6TDc2Z0F1d2I2THFPVW1LSGhGLzZQZmU2SWlBRUg2VWxucEZEeklBQlRhOEN4WFIyRzkvTXZTQzFYbmYxNTFvZGk2SDRXaitGaUU5akVEWWJGYlQ5U3pEUS9lNTRrSW8vNEd6ZnI2R0JCVVVxQ3pLMERLaElzS3R3ZmVhU1pwNlRFWDlydzJzaUczN2NPWkVDbm85Y1FTUFBRbzRQRU9ZaXZVUHR1RmNqUEZLbVFtV25CM2VLNElRU0MybnJXOTNKOXV6WGZaRzlsNTY1L2g5cU1td2lFUzltZ1lSNUtuazd0SVBYRGM2Zk1sS1JnbWpGTTNUU1E9PQ">
+				<gx:ImageUrl>https://doc-0c-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/qnne5082r9srh3vq8urlnev2fg/1588488105750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALpSYJLiKqTq6CofLIy0fqJKPOf--9XvnnR32xpfZ3CDrY6z2K4K_JIe0sWWfrQeQZUWdYPzqAiXNgR8OCdc6xKJrQn2_joREVSRDs0nKgxO7ESEBDqjKwTo9elDmN1e3AdUUkTYl7_qi0XYwLlQ3_SDkclmMFWNS4Qrj0nhcyihYTDCQoX221yWhQJqm1nGmBxwcuuovrUbB2Ie87v9KWM4voqxqkehWtGnSDIkrsJB5P9dSUoJnZ4fxweboS7y2PQanKWyCzfw4ALP06fZbXyg1uT0dg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcVNEbG0vSnhQM2VBZlFTejBwcENzUjFMZG5zTVdhM3R3WHVGU1FiQVRlbkk5dnpxVWlyY1ZaaDVWWUgrUXFqUENXc0RieUk4THZoc1ZKREdqMXphZ3NYZW1oRzdmSTN3TzUzYTExeVd6QlU0OStlbU5NTGdkTjRtMmluU2JCb3ZFMXRSVjg3aDFkNmx4N0hWVVNJOEIxYURMaW0yeGYzSkEvOU1aMENEK0xDRGZRNUJrcUQrK3kyVy9hOFM1U3pnaEwzZVRDUG9Xd0VxVkZaWE0zRjFhemIzSll5RDdpMGUrcXVWbUltQXYzRllRVHNlUmNzRENXNFJUeTRrM2RzYnFYQk1FY3hjK3IrQXAvZ1lsQVlZdlpRWkpWK2c9PQ_0">
+				<gx:ImageUrl>https://doc-0g-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/qhh5its721glubgfbidnuj106c/1588488105750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALqUU8dF5fyKFPpAaVJcDn1BazsaPPtTaITRaZYjZXJM8--hUdYQz8i7gALUtNaiC-dZ-4VtaGDhiv9TfF63f52od5wUdya94SP7SNu4cQtdLrNh1KKf1PTRNfYwUV54v9jG7bUEYqgcxCinJ8tIJxOD_oJmqWKd4yCXCUd5zk3sUYQYXU29f2MLyvst9X4rscla8cshPKGqqlK2bKN4fA-fXj4rqgra3SUvhyEX6vkG91MXCXz-S3cQqmEsS-DAZiV1cXBIFRmZOjrmBjXmbM9QOwUweQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMb1JkRkQ1RUhxOXgwR011T0ZDUEZHdlRGRE9GSUlBRXBJNGkrbjNvOERtVjBBU1gxNzV0eE5ocEVycU52Q21OclBRYU1yei9zazhFcEVlT29lek9MZ1cyU3dwbEhCREJzN21wNEp6SGkrc1NneEdRTXlmUXpIOStMdzhwMFdUVlBTVVRvY1JtaGdoVmdTbnlBQkxxT2JsQktGeXhpTStvVi9jK1ZXdEVIams1T0lJMjBSRjgrMmhqSGR3TTlLdVJqenN1TUJZZmFsbE4vNDZ4MzN1NHg3LzJlRGxncmZnNUZRM05lTTd1dlYvOFBKZlZpbjJlVlFVL000QXdITXhRN05LcFVhOGhJd0hha3lFaWVnYWVxVXhna3hsTkE9PQ">
+				<gx:ImageUrl>https://doc-0s-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/8mqhndjrd6cel5hp4cgmk5gip8/1588488105750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALos9_pTmAN_L-tZutTjlTXc0jMxoiDACG-NyquPPr72Hvs-zG-DZvczwyJTjLhHzliTrCEoGhAXARJawfEtTbqsVumMUjOWTCAARi66A0q__RYZlmP5RPAnleIjKDsgD6VgZ2KAGPE0YZuXVcN47VsHqCSNaUsYhziuYzrPo1q9Cef0mf8zGBivVXCT4cWPaLZGVqZ_qGQqYphGU7SaIzmej6MM7cmb4tphCn8vVs2PzwmdVom87-T_EXgYFtQkXEOYhIBzll8pcRG9hpgGJoaFvqYD0A?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>18.05978452590071,59.34128250834127,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0880C04575130B97E84A">
+		<name>Klara Folkskola (1875 - 1880)</name>
+		<description><![CDATA[<div><div>Fostersonen Gustaf Gabriel bor med sina fosterföräldrar i Klara&nbsp; i kv Lagerbärsträdet nr 2,&nbsp; &nbsp;adress Gamla Kungsholmsbrogata No&nbsp;50 som ligger på andra sidan järnvägsspåren ner mot Blekholmen och Klara sjö.<br></div><div> Gustaf G. börjar i Klara folkskola 1875&nbsp;(7 år) Skolan ligger&nbsp; på Vasagatan 11 i Kvarteret Pilen (karta 1885) nära bostaden.<br></div><div><span>&nbsp; Kvarteret&nbsp; delas och nytt namn på&nbsp; k<span>artan 1940</span> är Kortbyrån. Folkskolebyggnaderna&nbsp; vid Vasagatan finns kvar på 1960-talet&nbsp;<br>Skolhusen ersattes 1912 av en ny byggnad,&nbsp;i kvarteret Duvan vid Klara Västra
+Kyrkogata 14-16.&nbsp; Skolan upphörde och revs 1964.</span></div></div><div><br></div>]]></description>
+		<gx:mid>/g/11c2d2kqhm</gx:mid>
+		<gx:fid>0x465f9d60dc455453:0xe986413423c13468</gx:fid>
+		<LookAt>
+			<longitude>18.05915735681798</longitude>
+			<latitude>59.33227226106516</latitude>
+			<altitude>33.21791810818353</altitude>
+			<heading>-115.74208753528</heading>
+			<tilt>52.61921873809612</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>461.2085001241212</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02B37E4258130EAD7DB0</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMclpTMkhkUm1lQlFtRDJRVTVkTG53RTVHR2U1N2oydmMwS2I3UE9aOS95eVpNaklvNVhQNWc4WWdZQldkWUlKN1BTbFZHdGpSZnJ3VFhZSHUyTkRtM09CUDh2U2dYWHlQZ1FqQURJWnE5ZloycGVNNk93K3QxaU1Bbk5aS2hqT3Z6cU1oVDA1V2hLTmRwUWpCbnVYdm9UTnJ4dk9hcWQ3clJFMmJ2VnFIRkZwZnJrb0hxMWp1TlZvcTlFalpGK0k1YTFibE0rTnBlZUNESk11MkJLVXRTYXMvelFSRnQwSDRSMEl3V3ByYXFKa3ZDL2xJY3oxalNRY2lZZHNlWnZWOWpveU4xVmJmR0VXSm43SFpsR2Zad3duVXlWSmc9PQ_0">
+				<gx:ImageUrl>https://doc-0o-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/i0hh7md3q6d8uu10g9aa73fous/1588488105750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALruO6OgVzFBM5uy13xk3t9_fQfI83YUOBrAllEsRmw86KH7SB9sMOKioqAIGYm5U6tV8Awk0jrAUvAz2Qg1kRg4xZZYAy4qnLlyfRK_om6zYt12OLDSAz9BBF5KDFLrw1r3VzpUZVE24eb-VPje6DMzt_bQCBlKd392UZJ3a8QbsxJ7C4i0awsStjrzR15ZMpQks9bXOMN3eQhJ8DVDWFibHapHJxKyZ3QxHtaf_eWY1vFbZeZV-D7V0QxDVkI87mPjH_gwPDyIvfrs5Bg5AGMaoQTNYA?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcmdFbzdnRTNFbGtlY1JKaE9qajJtdjJCTHcwN1grQWJFeXFwekJ6OTZRV1JRNitHcHJ6MTMrdEZQckwrZk03OXJNNTlEZVRjZmNUVzQrcDVEeVluZzFNbnIzNmxvUG5ta2dDeFN6U2lYVm5kNjRhUnB5anNpL2xGbTBoQ1B0ZzJkcTRHUVJWMDZKTG1QUGROeXZOdTBEZHhVM1RzSWJ0dG1aYjdKeEg5Uys4SVhwNmw3UTZCVmdoZ3JEazdOTkxEeEVFVGhaeWo4Mk92UUkraUJ3azc3SWpDOWtvMkdmN0ovTXJJd1RpODF0aFFrY2Nicyt3Yms2YkJDSmErMnByd2xTY3J6ZEgwRUZTQUo0eHdialQxNWRUVnQvMlE9PQ">
+				<gx:ImageUrl>https://doc-04-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/ecn4di8tasj0eu1sfntb34mitk/1588488105750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALoMT_pgHPr_hrK_wd-1kErWaxFZ5LOsddel-D9XQaxLkwvX03419WpXerA2YaqwobToV9W4WQIZnyK-mFiBCftZ3dlEI70tcog1pXSYcfxM54G7D-opceu655J1dllIBbtFiU0umXSRXtdM5gXED5Kt56qSxR4_kmJwdQSK9TF0RNpgyD-2J2n0unuVJ34nxHtknhE9o82B2hAIbyGSmmtI3p9X2y8uTSZ53JGZXBzSNbgIbXEcqomD1UM0n_KDhezpYZ0fgzPoOLWagokaSRgkSV_IEg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMclJIRnNnYmExMVRyU3hIQVFJOHNSanpPNWc4MUlIV1Ivakw0K3VtQm13VFB2UXhaTGsvYkEvbkVROWZ2OG5GTVh3Y1VjMEI0NWkxYVdrcXhWNFVmSWw1cUdCbk5aY3dhTmtEOHpQWkZwcHF3c003cGhKMk81VS9NbStqam9XVTIwalVac21iT1pzNzlFN3NUdUJjTVRPbHZOSWljakh6RmNGZWlqU082V3VHRFI3SDRXeCs0WFVIK0xxL1NvQXorMnVwRFgwaHJnaXFTbjBwYzdXTCtxN2RPaWlGMFpVc0dNNStqa09PTW52MktnNFhVWHFBZ29xWFI2RWV2UlQxYnR0ZGdlbkl2Qi9RRnQ5QjZQaDBtRHJkN1pqVGc9PQ_0">
+				<gx:ImageUrl>https://doc-00-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/3nhv9p4ususaklckplekj6g71c/1588488105750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALozHzNoR8Lcp616PamLTVsi1MQxYjxuacd1YtP7OTrpEs1iCM4PljLGuyyAOR3-WrOKiJfxAZPZCWOw2VYAQsYVwJ1n45CW35wAGB2YTfNPjI39WiE2Owgmz12PdyipwavF5qW4zewHRLm2kf-Vi7kSVhTa6TXO2bdB4UrW3HYrxD0ccTmJafp9duEwBJaEeHgKgu8y5kGjwFOSu7RVF2JTBhz9J-aDj8b5kyVhUuCFyTr71UDW3_UVb9IMDE2V-DsPo3jaT71avGIojgkNNRYO3D6eQQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMb3RTQnhxNEh4bGUyaGR5RmN4YW5PaXFGQVcwRGVZZlAvSnhoTG4xYWRTWjBhVW8wbytlRTdQRSt4QVhRWTlSRTdVYnV2QmcxUzg1SVRWaFdLWHNUVzFzMEFHWFovUFY1bnVMTUhRVGwrdldFR25IUGtLQVd6UnREOWE0dFlPU1pFbHB4bmswQnlFLzV3WHplYVZDcmwwQlZMZ0cwaEhucTIwSW4zLzE4cllGcURQRG5wUGZJTzc1QWNDOXBDTW5XOVNpanNqK2JkUjFZejE0enJEcjdtb0R3ZHRRMElscEJ3UmxtV1hjOXVMTDVXQXAxS2xzL2IyVGFrNnd4SnFqNDlSNFJsZ2dqNlI0YXBrcDRGbG56ZUdVNnFjblE9PQ">
+				<gx:ImageUrl>https://doc-0s-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/1tde99kh3g7ai70msu872mshao/1588488105750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALo-EhXcP_CE4e-gD9IB5WHtitWioPwW8WtoWpsGcpouPone6jSGzajXhMZOSdK6Wmq1X-eTIcR9l9WTFJbW7qyYDYXl7ldZDpHsSllyqrc-xBRX3lRgO8W5CgLBWp4wQSjDRzSCbft1s4bqkNXu8wBGTTFct99zivZw_WsQ6v0hnBtg_-9Lgx4Qq9L1ppzJQML1EhGFJ_EGPpLUNav3Kofvup8F4VncgeAGf7Z5FaBvNm2EC4Y4Zx5ogw9Nx5H5IML1uhnJMin-ERbKM_6PQ9je0yxB7w?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>18.0569497,59.3327724,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08D5015D7413066B5021">
+		<name>Nytorgsgatan 15 (1893)</name>
+		<description><![CDATA[<div><div><div>Sjömannen Gustaf G. Palmgren bor på adress Nytorgsgatan 15, Kv Sandbacken Mindre 5,&nbsp; &nbsp;okt 1892 - 1893. <br></div><div>Han är&nbsp; inneboende hos&nbsp; en bagare Nilsson.&nbsp; &nbsp;<br></div></div><div><span>Bageri Oscar Nilsson &nbsp;låg på Nytorgsgatan 15&nbsp; och fanns på denna adress från 1880-talet fram till slutet av 1920-talet.<br><br></span>Skyltar från bageri Oscar Nilsson</div><dl><dt tabindex="0"><span>Tid&nbsp;&nbsp;</span>1880 - 1900<br></dt><dt tabindex="0">En är flätad, den andra slät. På bägge sidorna av kringlorna står det skrivet "Oscar Nilsson" med svarta bokstäver.&nbsp;&nbsp;<span>Skyltarna köptes in till Stadsmuseet 1935.</span><br></dt></dl><div><br></div></div><div><br></div>]]></description>
+		<gx:mid>/g/11b8ydh_0z</gx:mid>
+		<gx:fid>0x465f77f97ad77fe7:0xf6886bc071fbafc2</gx:fid>
+		<LookAt>
+			<longitude>18.0809198</longitude>
+			<latitude>59.31657509999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>507.4953450130026</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09B883DA20130EAD7DB4</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMclpzWVNWSnV2ZGhIOGNjYjhvY3REYVNQYlhwaVdkNkdQUEY4M21JbVptY2RzbzdDdkI5Tmc4SG9UbGZNNFZ3SHg5Uk1Wa1ViOTNDNGd5alZ5ZmM1d0tPWFFVMXlrQVAvemJLM0dKZzErV0tkVkdCVUtUTitTeHF0Z055UGQ1Rnhac09EcTdOMERqZHhBNXVldnJFN1Btbnl6cEVCMytEUEc1NEFnTmhtNDBlRGcwWXUrTGtZU1FUZ3pZS1ovRWU4K1NhYU1jYkUxVElBeFk1Ni9Wb0RoN1d4VlpJK05Xb3Y3YW90U0Fxb09LNitnRmNSWmdqRzJKUjgzWDVUSWNJcEg5SmNkenNRcEtES1RWL2ZHNDBqMTFsREhyS0E9PQ">
+				<gx:ImageUrl>https://doc-0o-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/ev32lmqu1bd0qgqjti40r15asg/1588488105750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALq-rjs-zKWn17nnMT9PRAFPo_10ga4NP5aUNq4drVrbOBDmVUlkvBvPMGrPbqpUqas41fs2D6HhId-WOakNOurt0h-Of3dqbLSo8IvLm_x7jBsW2Q88lOgnJ4pcnEg2OMeN5AixJAHRYX1vgqeQtteCUHLOacSRO7AeFGYhOQMRtXkvZ3EGEnGV-L8IlNOpr42qvxvEBQokuT7yNTcujBoAH3eiMLbXYcD5jAX42M0KiAKMmwwl43r4fjZ4mhjJqp6QT0UfADNrsqpCaYvYzHKCU5O6_g?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcFE3ZStKQkpob3daVVM3UzVqQU84TWJubGFQL2tUUUROSEcwclJSTGF3UnpwVFVCeEN5VFIxcmhkMGt0TytWNnlIL3JlV0JtbzBLVStPQmw3WW1uOXlBa3AxTUdCS1plNEwwRlNiUlB0Y1EweGsrc21DWGdjMWVTeXMzQjJzNks1TFlRNFFpQWxuVmtrRjhFNStyeE5FNkx3UjdFQzhtTk9XeFFpUUgzWlFqSFJWRDdUOWsyY3dpZG5RMVVXdFNudXpUdHpCQ1dSOWpFdzBFVXlvMWNoaEYyYTJCbmRyL2ExWTV4ZDdnbEhPZzZRK1BMMWJzY3FtQU90b3ZwOHJiRTBzckhpRWpnWHpOZkFIWWtvRFBYRFc0QWl2T3c9PQ_0">
+				<gx:ImageUrl>https://doc-04-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/nno4p996pt0pupu4pitji5i3eo/1588488105750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALqbFa8XTHjiFSElok1ZRAL27c0NU3YtEDcoQbViDNAuoVZoDIHjvZZT6SzjKJyUMas_T9O1AhH5JQtikgSfSvhFTy-rKKlqNDDdQCLDG13qW02T52aKqyd0sSXPu-OwNn3peuKx14spjRleKDdaEc_Ljx_z8kGAqZukMjzgPhknCBEJmjqJ7tlgYRhBYgC-I_1KmOp-rP3kGMlHTT3Qy5YtbM-3abpLkaiysbra4xtN6kUMd7q6gLg6lp2_mRddLWnEacp8geY2uUt-qVjjPirqzo0vDA?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcDlYWVQ4RDV2UTFPTDh5cUg1VUloUlNmbE1CbTJLdjU0cUc0aVNwOHNGOWZjaC92RUtHQUxUK25sVCs3RElkZEFsd1c2NEprOU45RW9OSTNnczVoRGk2OGdYQ3JTNDhiTlo1SmZqNUYwbmVGVkNVY09ON1NoV0NMdDdNVFdqeXRydmZnUmdVQzQwNzJyd1RuREVqdFZ4dWRKdHM4STE5R0pQaUdSWG9YZmc1OHp3UmVVTlpSZnBRanEyRmtxR2dheGdBSUNMOWpEREVRY3U1dkxtN2VUT2I3TVBYS08xQTlzRktJYTQ2enBESGU5SkVQYzhJbS9wTUtGRERDVjdvYXRoenZMVnJVcDZlK3FaaHhPL2lKYjgzOEpYWWc9PQ">
+				<gx:ImageUrl>https://doc-00-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/rbsvmj049c6b7nbkmhf0fqp4rc/1588488105750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALqRsW5zHQhAfeFAyT9qHB9P4Vsv_L3Km4bD3276rp6PGIWIHdSPOlRhFfNxVf9tULu1kUFgwfweYfi6byJrM0ErtK9KJjZN1uBdqNu1JdDrLPrSjOfB_sfsm0wRWm4nu_Itr20TYzJHTKUzHQtAgsxAKIN1ONLXRrr1FlPsgoVYOrdSq2zKMBBpMRmPvwFJ4nfktdsYGzHOqv9WVusw9660uH-f-XypKhVuQkBctpufnX8clsHrNPzuyVwyNE3y8AMuzeBwxXKsPOvce0qBbiErL6u9hw?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>18.0809198,59.31657509999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07FD2F257B1306588233">
+		<name>Fjällgatan 41 (1894 -1901)</name>
+		<description><![CDATA[<div>Kvarteret Stenbodarna Mindre<br></div><div><br></div><div>Gustaf Gabriel Palmgren bodde i huset Fjällgatan 41 1893 - 1901. Under den perioden läste Gustaf G. till Sjökapten på Navigationsskolan och tidvis gjorde han praktik till sjöss på flera olika fartyg.<br></div><div><div>Under några år bor även hans mamma Hanna Nilsson i samma lägenhet som sonen.&nbsp; Enl. notering vistas Gustaf i Stockholm våren 1895 sedan på Sjöresa<br></div><div><br></div><div>Flyttar 1901 som nygift till Folkungagatan 8b ( äldre numrering)<br></div></div><div><br></div><div>Fastigheten lämnar 1903 plats för&nbsp; den utvidgade Stadsgården och i dag finns inga spår kvar.</div><div><br></div><div><br></div><div><a href="https://stockholmskallan.stockholm.se/post/7045" target="_blank">stockholmskallan.stockholm.se/post/7045</a><br></div>]]></description>
+		<LookAt>
+			<longitude>18.08851612528878</longitude>
+			<latitude>59.31602410531226</latitude>
+			<altitude>44.2558291745482</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>821.1396985338069</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0DE76201ED130EAD7DB6</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcFduVHoxODU4Tkw4cFVKbnBwUTAvbzNXWVdvaDFWbkxTS3JZZjF1ODE4NFVybGVncFp4YVJQTG15U1Z1ZVlXbEM1dm0wTklkTFVLem1uY0dkN0tEQnYyMEd0NktRQktUZnoySkw2QTlRVU5zZzVtVmtQdDJiRDBPWE9aY3NwcUVpRTlnUVFJVDBEbXRaN1hNS2pWTkozVHBYUHBxNnEvU3MvQTZUTEc2REhIbHM3dCtFallzb3BORVVIc05PcmNHaFZhNjdDZnlEUDlBUVVIMk8xUnc1MlcvVVhEQmg4aEg4VFQ5aGRnQnAzQ2RLL3VXcFJVQ2Zyd2ZNd25pa0lYUFRWS0N5WFVNNDNLL2NJZVlGTTRtSXpDSDJtaGc9PQ">
+				<gx:ImageUrl>https://doc-14-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/33bhcf6pc1g4gmgkebb5n6mbfs/1588488105750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALqy6gU_2ibZKfYKZet6kIlFyKt3m7CxI8wurfqHQ8Sj6t75i67E1WePxvrBt0jcpheRQfTCu958C3iXS7cI1p7qf72QWlMUMq05rSXfKSjAKVu3j9-wGNZ9einWvSFEXPZ5nBXLNNJltzuhDXrqXEy75LP_jnGFvW7eu8yBU3iLsOCh349D4GDjM794lryyqCNK-zihcM690rTrSDXW9m9IJGB9nBnl3QI30fU9qPOJ13TO8N-geTI0WnLWTrLdVp7ItOPNzLrbQdKAdy_RCedZCBUHGw?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcHltRzUwYUZIMEtoTGQvYWQ2Y0E4OGpOQ3ptdkJvQlEyU3dOQUk1MllFQTFoOWp4L00vTlJHWTArb1orSVRIOEpoQUgzR3hpNTB2SGcxSVk3QWJ3UFhmQkZnZFlveDFZbWYvN3gvdHZzTjdrc0tVeCtudW04QnlHK08wcVFJZW9aUXkwaVpJSC9OQmVZUU5ZdHZLQW44em85L01PaTBRTWRaLytQVklSR0hpcTg0N3ltY2dNNkhUVFArUDBEby85ZXFLVTIyUVh4bUlZbGwrdG1ySGVjVnZ0OExhY1ZSVFFDbWZmUUZjK1JsM28xeUhUMWl2SExCQUtLVUphdVVzM0pUbXJLeENOTmVYTjhIWEFVb29sNVhHOXA0MEE9PQ_0">
+				<gx:ImageUrl>https://doc-0k-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/8v5n2e1qs0ktulsllb9jc55uug/1588488105750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALqyeag0ef7EUZzzwAphWXFQo9-TTZ6CdSHTaAR6LASXcOUaT3yob5qp7O-_pirTLbrTZH3N1FG6OrCOksv5qoU11Uh72lEN5gTzTWgwVubwUbYRhWs8bV1G4e85V-cKN9X95iAVwxlIPlLU3ppg0t3QOmRoIcwyHePnU0_ptGBJ7W594nm5p5_n6HUIuieGp3n1L82lCFygNd4s9b15Rr7detChhd_7Y_a-HrgBvUvatYOQJof2GS2oQ-_GdKw-xoI9Hh7yqK3ZKgZ9_idfTfxcN8IP9Q?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMclpiVkNzVGVxTkZyVVpMelNucHFxWUgyMzJiTTJOQlZhV01WQkMxcG8wd1FWbmxBbFA5NThVbHE4ZkYyc0RJNFlBS0l5T0Z5TEZvRVJWK0ZRYm1PT0FYTTFxeWw1bFEzOHRHYlZpWXN0clRXSWZxTW1mclNzeXR5bXFBcFVIUFdzQkRuSTVOaU9lTDVMVlpDU0FsUTRCRmtqZ0dVM0RzVGE2N0pEUXJXLzdtTjNobUpkejdMNTBZSUpmZGpzQlBaYUNTSTZscXB3R043emdrT216cytEU2xTdVNoWEpNMGRvNjBablE1TmV1ZXN5WU1kTWphbEJMNkp5bE1SYjk0U01xYzJhZEgvQ2YyanArK2FFcHZXV0llSmtXbHc9PQ">
+				<gx:ImageUrl>https://doc-0c-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/mctiorohtaf12s70p0itp0aoec/1588488105750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALqBxq-uU4V42cZl-ZSjJq5w3M78waRepBNJsmXzy30_rciXKsNAMAiK5Djie2eTrReEO35rZLenx6HFdX7IsLWcAeByFUlwIaaJXFo9AlaqPXTNT4hGd_-qlh9O2DBbG2qn7yMXrRdB_xynkddYQiJCRtC7Tp1Tf_vR_NiR5EdSOHyOkzqo9ZLJh6lPkOw8kAS3BH1TDxmwdK6LZALxiNh6L4vyCtc57iWQBs8oN7CvqVxpG-6NNCgiBN6EGkxdTeuuc19KWcY_YvYOcBkzyMmgosnTpQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>18.08939414290733,59.31718834763517,0.7844166105106314</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E13AB68A2130687A887">
+		<name>Fjällgatan 25 (1893)</name>
+		<description><![CDATA[<div>Gustaf Gabriel Palmgren hyr bostad med adress Fjällgatan 25 år 1893.<br></div>]]></description>
+		<gx:mid>/g/11csm8wdb7</gx:mid>
+		<gx:fid>0x465f77f93061b59d:0x2abecd9770b27469</gx:fid>
+		<LookAt>
+			<longitude>18.08737922048968</longitude>
+			<latitude>59.31837528407777</latitude>
+			<altitude>-0.4075676920270854</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1412.325255489995</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BA9378815130EAD7DB7</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcGd2QjZOeUtzR3lMZlhSQVdOQzNLVWt1LzVhckdMcE9qZ3NHL2t6RS9SNE5RbXhwYjducHRaQWpzSzJoSlMxWVZMOWM2T2dySlRudUJ2TjRkc2VnTStoQnVTblFoZ0phbVNyZVYvOU01NXBZVGR4ZU53eWJ6SnplMlpFTWg4VkVEbDJlZTVqT3d2dVpxYXJuNS9LYjRzVTNPcGpFcEFubXhkRXc1RmlvK0JKblAveHFhR1JiU1hmSkljVUZOL3FkQmZZVENGVXRjT0c1ZG1nS3VROWJxRHEyV0E2bFZyeTRzQnhBVys5eFhqbUc4V1FMamFUdXd2SXZ3a01nelBBTmNWK1RXOWlPc29lbHFmTUZzTUdVVG5PeTNwNkE9PQ">
+				<gx:ImageUrl>https://doc-0c-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/ac49jriicrif34d0hkgtnfbdjk/1588488105750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALqTrWeJsP1dmXJLICFMK_Ziqh60HLnBCrnfXQMInR9Ln8OlpcWTJlkLOo2rhTD_dIuhPSJGTbJt75Ea3-TjRvk9Ne_ob3sTnitd2dsrJVre167sGRuL14UFMFXmF46AFXEIM3GdTK3BIHN4Surpm3NfsZ0cG03huzz6PcWJj5DLO0R9PpShHqLZ_k4QY7bZE9UR1iZ7D9xBlWuSoi7UdyYYhzsmYgh39tbuIt5-vsJih_0jZgE5AxAT4uvhDbE26D8M-KDE7hlmKXSR1Nkjne9HDobspg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMbzhFZTZOb2RBOGsxbG43ZE5HQStENHlGSklDTE0xaDRYOXhVckx4T2FmWStUQkw0TXlEUEpWNkY0SEk1ZDVGYngvNERHVkpDUWRLRTBySzY3WU96VFlOMHM5ci9WWXBkMXMzNnA5dVd1V0l3Ty83NzZsMlBlTWJnTXNXY0tEbWR4Rzlmc0hPNHRKKzFSdzJlb0dSQmg4YkNMNlRUb3h1UEpUVys4clJYMEhjbU00SWc0Uk9kN2VwUEp3Z3hERXMyeVVGbytZc2FULzA1QkpZMUZiRk5CRWFsL3lhU3V2bW9CVWFDdWdJLzJXY1RWSEloZTVIaCthQ1dJQnBTbG5Fem5UR0kyT2JzOEJzamh4NmlCNS9qTU1QOGlZZUE9PQ_0">
+				<gx:ImageUrl>https://doc-0k-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/71l2hg36on03jinrsbndrp302c/1588488105750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALoMSRRfN9kfERz8Ql2t_soJf1II_KSDz5mtLDxVXER2MCD9dqVvem3tKPvYMeqtbccDThwX567qeu5GGez0giQI7rOWtRFyZGUbXqfJk3E9sCFvtjayZeqXlYNT6BAGtwzxjIDcN5aoAMvVWTrRciJN2iKUlClRLkMqA5Nk101Uo36znGob3hR0gQIBNrrnkkGXoKwE9CkHF5--14P3HaglCwfFOOjwrQ-lay9DyAJkXL9YlMmOx2K3Q6xJsUKllRrdQDMx4klsuPoQGzu1vvc87moWJg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcHZaRUFiajBJQmtxYXkxVWt1UW5PbHp2TTJwOGdnL1FSR2FjY1RSWEdjWHRJY1gxK1d4TFM4QkpBR0hKVXBkZkNWaThPM0Ntem9YSEdWVjJZVGJ5NjRRb24wTmtqZVgyREp2RkVDQnZSZ0o3ZlM2clZLekZzK2Rhb0FGU1h5ZDJORnJ5ZDMzNVpieDN0Z1dsVWJRL28zNFpGdFJiSHg1Vm5LUDlYOEdoZkc5NXRLS1VVRi9PalVlcGIvUU53WU9FOUQ4WTIxWjU3YjlQWjZBRUdGYURLS3Zxa25HWUthUHl2VHNydFk0cFBONDR0b1Q5aXRYc2pYamxOd0tlZ05QZTVvL3h1amRrTW5ZYUJIL3FYZE5LOWt3VXpmVkE9PQ">
+				<gx:ImageUrl>https://doc-0s-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/r3qfv69set864ja8mse2sn4v3s/1588488105750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALowmaoQofNrTwjLItBcJwiwsdvS4vdgn5Z7qUuDmS9NdyLDD-6ocgsuQ9DqsnOd2ceIPFp0CA1hAfXLR-CY_pfSGPiRF9DOSOBxafqC8RMD--EKreq-DKE-89QZ01J-2obkyY4KEXg0SXdddv55ndVtxXBtP8R73d1nAJGM_GP9yGu3mXA8yIBVloVO6WWsPRYFv7V8w0gqqoHL8-u-5-tI0fdtzUq6Z-L5tOSfD2C7Iq9UtrfzCUEl2aO3OMdkS14_Bf5GPzQcZxjx-xfwpT0oqt_-BA?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>18.0843969,59.31750299999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00C06355641306CB2782">
+		<name>Folkungagatan 70 (1901 - 1903)</name>
+		<description><![CDATA[Kvarteret Båtsmannen&nbsp; Större nr 19 = nr 8 B<br><div>Folkungagatan har idag ny numrering Gustaf Gabriel Palmgren och hans hustru Karolina Palmgren född Allard&nbsp; flyttar in 1901<br></div>]]></description>
+		<LookAt>
+			<longitude>18.0771200044476</longitude>
+			<latitude>59.31455156723457</latitude>
+			<altitude>42.98021679905862</altitude>
+			<heading>96.16632951529118</heading>
+			<tilt>44.99993979284628</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>498.0591216086033</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02B37E4258130EAD7DB0</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcjN0T0MxSy85ck13SVcvRnRxNkpzbnE3aW05NjlXek1FcGxpYUdkeDQyb0c0QVIvSGU0YjFvUDBwcHBPRVhSUENwM3hnSWQvU0VqZGxxS3NueXJGM1Areng2NFR1TDlVQXJ4QlRNU0JERkNSbGlZbVMyeU12cW5sWXhoTUVBa2QxRC9VZGtpNDRGb3Bhci8rTHpwNitJMkZXejgwT3loaHpaekEwaUs0cHJWenZoSUpUb1lqRlUyN0w3OHBUOHc1SUZxTThacXgzclRqWHZFZnNWTnZGMmlvcHV0ckxsbjBVTjc0ZU9rQXRQeDlHdVc0cHM3cUNBZXVtQUsxeUZnbGpJSXNDbnpuV2xzbmFwMjAvcXYxVmZic1poUVE9PQ_0">
+				<gx:ImageUrl>https://doc-14-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/budad44p2dd1l4b3te6fbkn3lo/1588488105750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALp6BrzKPffCrfnUYHUOC9tWCMIlo9hldtxu8u820pVMDzXwoB78YzIt2fa_ugvHkXsbAgQDquClaegJ0rBjJYIccbDvXh2A1m1A1CJe2kba-NafxOWP4fT-WtuEFBawW7I08sq0mQbjEhjwJseWCvyyNvXoBajtQw14aztqVfRf2fgvl7CuYzPufeSmHzLiD4aecEuhtZ_VEyPMtj6Rz9u33hUAZ-udPBLCbAavAV5dJuvP5gfPJBc7gGPuC-rCKkbIwEG3Wp1HoJtLDGJbZSM0RcuAxA?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcHZuZGhPbXMrWFVDS0xzMDh1SEIvNXRSY083VGhHOEltTVljY3B4amtpeWM1RnQ0U0J1Qy9Qb1N1c00xSXBqWE5QU2RtMVZPZmtJYlZ1QmszN3JUb2E1OWltWGVOekxTVEkwZGUwb3lDVHlxb2NIRFNVcUpxczZKRis0bEdQeG84eDZWZlVQOVdCWlp4dlpOY3AxTEQzUTJ4Ymh1c1FnREtZUFhyYmtuTThXamErL2VBb1dzM05OcUVMdmpQK0NkS2pqd2hTakdOM1JXRGM3Z1E5K1ZmRVJmUlVDMlNDZDBRdjVqTDFEQ1Q1c0NXejQvRGVYWm1ueHRIWHp6VW1IUVZIMW1RZ3dOcTcwS3RmTm1TZld3TXN2bE5lU1E9PQ">
+				<gx:ImageUrl>https://doc-04-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/4lf11fnai9k47elackls5k3tn4/1588488105750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALoER_mcnklHdD5iyfLi275kpoTPNCr9l0ZGqXqFs6_jz_ZlTEgKP-U0YcUM2M4nFlmEg-4OcBEFM58ABD61JvHUM2fDfimnn8AMhPfqmjTVTqKV8oTUvXCb7DtfosQVU9yFFOWoN9GwRiffNchr_zCDiMBchK6PN6UjGC0gyfPh1gMhcKs0zwM6zWhjs0140RYGIcEm2-63rvCikz4nLtPsRFfr_B535pYCv6JJEvVWpCwRfyr8382Y4nZ0jpRLclh3HNBaKkwb81xtSQHNyVoGI1O-Gw?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcGJqWmxiQ1hvTzlmQTd4aUdXYUJFTzV4YTV1OHd0L3JaQ1VlZy9vSTluejFGWUcyQ25US3BCWG42SnZFMGFEMGEzL0d0Vjd6Y2cyQW9YS3AyWVB6ZUVpUGo4emcvV295Y3ZnSjhIaHV6UFBuU1g3U2pKYnNIbStSaDlSK1NWMlMyQVF6TlM4NWxIUVYxdUVlWkdBVHZEckErUEZWSlJaKzRLTVphZ05oUEt3Tnh5ZGxyaG9WZG1WSnZvMHp1b0JUd011N1lUWjkwRHdRMjdKZGpTTXdqL0tvdTVvSS9pT0trTG52d1F2N3lyK2Y0NkdyY2doemNXaEFOOXN2REgwMG94aTc3MmdXNndGelMvTEx1dHNjbzRRamRPeGc9PQ_0">
+				<gx:ImageUrl>https://doc-00-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/1r73qp4f6870rr0m19f6c71a7o/1588488105750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALog2oCPQ3siVO5ZDpBXbiCTH_CY-5l4T7ZflQtbv790eCFfe9Q0lv_8CxXhyfOmZ4R_7xZTNRNbSi41DUH-bXd9-Zs8vculeLo5EXucOWHfTRVh1r_uZOgOzKU-z6cMxY59-Fjz8Hs2qeY39b-o_d-qVZ5XNYMVthb8uPiX_Bb4rsoHg0zMCzjSdgxjdLZOiWpe_zRK30AG1CzWCogeaBr17zttR9dmgAGBv61B0itbL2jjhTufa7EJxNzGGhTWhdWDZoQIZhd17uAsuaXF-OSOM6GTMw?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMb0RKSk8xeFFILzhLSGg3Si81ZThOcGRtb1dvZUVoSzRNbnJFQzFEUktXVU14blAzWGNLRkREV2NHMG9tcTdUY1B2VExzNDdzcndoTXY1QUN4KzBoQUJKdlNaMHFIV0VOVHd3cDJUSTYvc3ZSanh2Z3FsOHljWFoxbGxkL1Z5cmQxc25WU2xSbzVjMFNvd1dYT0RIVCtta2FNcUhCSFNRVFBoTWtUcnVkZzhSWXJSMVpqT2FFSjRYaGg3Y3hPOVd5NnBWTVJlVUFzNm1VSytCTFQwVFV0cWZjMStCcU14YmFnZjd1SjZ0VEExbVBsYlFaN2d4Vi90bWUwVkNWK1pzT01BNzJ5Ni9URk4xdWxKeUVocEV0Nm5EeEhWb3c9PQ">
+				<gx:ImageUrl>https://doc-0k-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/052b1crjlgjnqvgpi3gqtucfkk/1588488105750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALpMOr8sfruSJg1RCsHpPDjREdwrJW8M35PKhBl5C78Zbzoq7QkM-lBqF81bJM_Mzj7KEdunRJTHiK6KWp1jejKCmQ8WPXpPqrapZg7dCHZ0vIIKt81il_Fbr9pDeQ4t7HORNnShAQ6vdJdKpsyntXapfF5roaQ2L427zuU91ekef8hVlEGMKBwmIDNwTQmL5HnS6MbhZVlNxZc9eD6rm5DJ-7OEn0ZoPya1u5rrSEC97nTQANrx9iaJw_VB-rZ_3pGh1CwF2WmLVB_ojLOA7qfgPTFi0w?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>18.0772373,59.3145451,45.29682032662938</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AEDFCD22A1306D0131F">
+		<name>Södermannagatan 24  (1904)</name>
+		<description><![CDATA[<div><div>Gustaf G. , hustru Karolina och &nbsp;dottern Eva flyttar till Södermannagatan&nbsp; 24 . Ett äldre hus vilket inte finns kvar&nbsp; 1940. Fotografiet är taget från Södermannagatan norrut från Åsögatan med Katarina kyrka i fonden . Nr 24 ligger&nbsp; mellan Bondegatan och&nbsp; Åsögatan i kvarteret&nbsp;Bonden Större nr 23 och är inte med på fotot.<br></div><div>Dottern&nbsp; Eva är&nbsp; född 2/10 1902 i&nbsp; huset på Folkungagatan<br></div></div><div><br></div>]]></description>
+		<gx:mid>/g/11c23kf_1y</gx:mid>
+		<gx:fid>0x465f77f9ddd8da1f:0xd90aa2197608ad31</gx:fid>
+		<LookAt>
+			<longitude>18.0803476</longitude>
+			<latitude>59.3132028</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>507.5489560903869</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0CEB7DA727130EAD7DB9</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMb1ZCTlNjbkFyTDloa01ETC9BOVhza21rSUw2ZTVnL0hIR3prR2Q3N0psem9HdVpWcnltRm9qWnY2WStHZkE3R09OZGFoSlFaTEpqcWNnME84QXFKZ2pWRDNqNEtpVHMyYjNiV3dpV0MvRHlkZC82QmxTREs1TTdCRUM5dk5FYURGbk16Nmw3MHNiMHhPUTFmZmRuY0RoSCtZZWlDcUw0Z0M4S0d4NVdncUF1U29rYWxNM2lYaE5rSEdDVUR0QkhTMUpVdW4ycWtuVmlSYXAyNUpMZnd2RE1SSmhIY0hpenVaSmc3OTJuYU9tc1NiNGtmL3JOVXh6Y2xGV0pqSGphMVU5K3RrYlJPT2pibWZQN2JpbzVvZC9DRTJtUnc9PQ_0">
+				<gx:ImageUrl>https://doc-14-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/2n3gqtcglbaqdtd2u4bbc4i5fo/1588488105750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALraQWjXe5uda-e7iNNlQ2kOR358P6Zr4876ypkpf20QnaAWTQHIb4BmET4vE1Pj_yfJS_4Pi4E3JmlUnCqBj6k92H7l4j4UaqJ5ezfWPdbuzuEU557SaK43vsjL_WK03isAd67bSfkhQvN7PX0hDzaOJebLROjRReTwqSS-nQa29RMJJXWKA2Rwbz0sBKHS2eTeN6r7SrxZHv1bt6krhp2bsBT6GeHW7hcY5TFVCAEN6ykvn5O1NX41A8jo66DJvgulRTIPDavecAybEzNbUWKQ8mNpQw?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMb2c3a1VPV2dTMGlnb0xQWlZjbEhVTG1ydEJnNFVFb3ZMem52ZXowZ1djQW8rWFAzeithMWhVR28vdDZjZG54RTRUYVcwN1QxVzhEMEtSd0tFUTZsakZnSGFrR1lvblJnS3VOakwxYWNnWDFHZ3N6Wmc2VGcyZnMvbVNiUFFBUm16ajZjVm1Lb013Q0J0RWFPNlZqQmRVcE51MGhxWXRRU2YwVFhUeW1qYTh4cjhhWjJUaW5HNE1XalpxV21wU2E1MkRGa3Exd2hKa1BPMkZNQ3FrWFIvUVFlbitNVktlZ0xBdytGV3hXTGlSdTFjNkVLUlJoMjd1V1V6RjV2UXFPRUI5ZmxoaXpBQVlUWXJWSktrVTdLekx2S2t0L3c9PQ">
+				<gx:ImageUrl>https://doc-0s-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/43p4jbjma18kqt1ttjn1ju3jk4/1588488105750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALoQurNPS4wWNH8smhQbV-j8XrNmoqyraF7WW8JOjgSpZBcv6b1KZzrB0JtvjLK6e9haFZvB34XiJC4QeW12o4ted3-czqQHE60gn8RKQmtu6ryu-ILynqTh2nP3jsi6AoFAbo4npRNDp3DTDoyoAGyLOBlX4-zoWCvfWD96Az09m1-L_01kI07__LKZTQJ2YeZL96CDxMdQTFrTHBWw8kZPyn7eVajCS1gLpe1v-xZ0ONQnp08zul2rmb1V97J55B4r_NorhoEtrnun_0Oe3jtt-miBSw?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>18.0803476,59.3132028,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="089CD9DFD01306F590C6">
+		<name>Bondegatan 1C (1904 - 1911)</name>
+		<description><![CDATA[<div>Kvarteret Höken 16</div><div>Gustaf G. är Styrman och Ångfartygsbefälhavare.<br></div><div><div>Familjen Palmgren har nu två barn. <br></div><div>Eva född 1902 och "Putte" född 29/12 1904.<br></div></div><div>-Hjalle är född 6/8 1908 .<br></div><div>Familjen bor här från 7/11 1904 til 28/3 1911 då de flyttar till Myggbo i Västerås<br></div>]]></description>
+		<gx:mid>/g/11c2h7gzvf</gx:mid>
+		<gx:fid>0x465f77f0bcf522c7:0xf23133e5e6896c42</gx:fid>
+		<LookAt>
+			<longitude>18.0750595</longitude>
+			<latitude>59.31265719999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>507.5576296413932</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0307A6433F130EAD7DBB</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>18.0750595,59.3126572,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
