@@ -1,4 +1,4 @@
 # palmgrenshistoria
 Geo-mappad information on Släkten Palmgren
 
-Will be using python library from https://openlayers.org/
+Will e.g. be using js/node library from https://openlayers.org/
