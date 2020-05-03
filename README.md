@@ -1,2 +1,4 @@
 # palmgrenshistoria
-Geo-mappad information om Släkten Palmgren
+Geo-mappad information on Släkten Palmgren
+
+Will be using python library from https://openlayers.org/
