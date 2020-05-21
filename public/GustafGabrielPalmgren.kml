@@ -1,0 +1,1911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="18Foq6QQ0z-jWFj2cgp1qb2YzKIB5E23E">
+	<name>Gustaf Gabriel Palmgren</name>
+	<description>Gustaf Gabriel Palmgren  är Runo och Stures farfar.  På den här kartan kan man följa Gustaf till de platser han levt på. Vi får se var han  bott och verkat.  Det går att se hur det ser ut idag och fantisera sig tillbaks i tiden med hjälp av gamla kartor och bilder från egna samlingar och arkiv. Bl.a. Stockholm och Västerås stadarkiv.
+Tecken :
+* bostadsadress
+^ snickarlärling 
+-   info
+x   händelser /sjöresor</description>
+	<gx:CascadingStyle kml:id="__managed_style_06B1701C09136C7D5A46">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/simple_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2308&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>panel</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1C4AB977AC136C7D5A45">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/simple_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2308&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>panel</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_26CD2DE708136C7D5A44">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2308&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1D2303F68D136C7D5A44">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2308&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1A2542357F136C7D5A42">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2074&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2E534B6B3C136C7D5A41">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/simple_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2344&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>panel</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0BA3E90776136C7D5A45">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1C4AB977AC136C7D5A45</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_06B1701C09136C7D5A46</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_1F0DE57201136C7D5A41">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/simple_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2344&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>panel</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0525BFEE76136C7D5A43">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1A0B66661C136C7D5A43</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_23FD14D3CC136C7D5A43</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_162CF775BF136C7D5A3F">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_08468443C1136C7D5A3E">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_032CE4B828136C7D5A3F</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_162CF775BF136C7D5A3F</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_2517E9A5F0136C7D5A3D">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.8</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2344&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_02628C4017136C7D5A41">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1F0DE57201136C7D5A41</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2E534B6B3C136C7D5A41</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_086E166D81136C7D5A3D">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_12E14C30F4136C7D5A3D</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2517E9A5F0136C7D5A3D</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_0C31645EB5136C7D5A42">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2074&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2DC6E742A1136C7D5A3C">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>0.9</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2344&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1C29FD30B8136C7D5A3C">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>0.75</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2344&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2A660455A4136C7D5A36">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2344&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0E0BF901CE136C7D5A39">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1B5CF2D4A4136C7D5A39</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2C3A04A69F136C7D5A39</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_0ECB57FB2A136C7D5A3C">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1C29FD30B8136C7D5A3C</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2DC6E742A1136C7D5A3C</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_032CE4B828136C7D5A3F">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0529DC995A136C7D5A3B">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.8</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2344&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>fff9ca90</color>
+				<scale>1.5</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_139045DD5D136C7D5A3A">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.5</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2344&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>fff9ca90</color>
+				<scale>1.5</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_3762946F4D136C7D5A41">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_0C31645EB5136C7D5A42</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_1A2542357F136C7D5A42</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_1EF9E04429136C7D5A36">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_2A660455A4136C7D5A36</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0AB7B1A7CB136C7D5A37</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_1B5CF2D4A4136C7D5A39">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>0.75</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2344&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.5</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_23FD14D3CC136C7D5A43">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ffa21f7b</color>
+				<width>0.75</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1A0B66661C136C7D5A43">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ffa21f7b</color>
+				<width>0.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0EF95CDE07136C7D5A38">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1531B065E5136C7D5A38</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_24F0D3237B136C7D5A38</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_0AB7B1A7CB136C7D5A37">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2344&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1531B065E5136C7D5A38">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2344&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>fff9ca90</color>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_099259BCE7136C7D5A34">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1A5E791D79136C7D5A34</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2250A1AA0C136C7D5A34</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_09B781AF67136C7D5A35">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_14F8284C22136C7D5A35</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_00B4BC8734136C7D5A36</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_00B4BC8734136C7D5A36">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=303f9f&amp;id=2344&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_05324BA200136C7D5A3A">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_139045DD5D136C7D5A3A</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0529DC995A136C7D5A3B</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_1ABC76A90B136C7D5A33">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/slide_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<bgColor>ff4f4737</bgColor>
+				<displayMode>fullscreen</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2C3A04A69F136C7D5A39">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>0.9</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2344&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.5</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2250A1AA0C136C7D5A34">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_12E14C30F4136C7D5A3D">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.5</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2344&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_24F0D3237B136C7D5A38">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2344&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>fff9ca90</color>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_252C694B3B136C7D5A33">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/slide_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<bgColor>ff4f4737</bgColor>
+				<displayMode>fullscreen</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_14F8284C22136C7D5A35">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=303f9f&amp;id=2344&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0E8007EC36136C7D5A44">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1D2303F68D136C7D5A44</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_26CD2DE708136C7D5A44</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_1A5E791D79136C7D5A34">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0304DBB1B3136C7D5A33">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1ABC76A90B136C7D5A33</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_252C694B3B136C7D5A33</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0BD8CA69E0136BCBE866">
+		<name>Gör så här  - lite tips &amp; tricks</name>
+		<description><![CDATA[<div><b>Så här tar du dig runt i Google Earth</b><br></div><div>* Klicka på "Presentera" för att starta<br></div><div>* Längst ned till vänster kan du klicka för att<br></div><div>&nbsp; gå till nästa bostad/händelse (eller använd piltangenterna)<br></div><div>* Varje bostad/händelse kan ha flera bilder som du ser uppe till höger.<br></div><div>&nbsp; &nbsp;Klicka på bilden för att se bilderna i fullstorlek och bläddra med pilarna<br></div><div>&nbsp;Klicka bort bilderna mha krysset i högra hörnet.<br></div><div><br></div><div>Ett annat sätt att ta sig runt, istället för att använda presentationsläget,<br></div><div>är att välja vad man vill titta närmare på.<br></div><div>* Klicka då på den bostad/händelse du vill se i "index"<br></div><div><b>Passa också på att kika runt lite på de olika platserna.</b><br></div><div>Genom att hålla in shift-tangenten på tangentbordet och klicka och<br></div><div> dra med musen så kan man se staden i 3D.<br></div><div>Zooma in/ut med mushjulet. (På telefonen &nbsp;använder man gester som vanligt)<br></div><div><br></div><div>Lycka till!<br></div>]]></description>
+		<styleUrl>#__managed_style_0304DBB1B3136C7D5A33</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMbzRaUlZwZVg1eFExVmJDZHZYWm1VWmY0YXdTTk9oVlNMbi9kQ1NrQnpCWFNaUHlIUlVpVGdRWU5BeWJ1K1l5dERqcmx3S2Z3S3JTV3ZycU9tVS9HL3FhU2k1UU1peU9LZFo0UWlJR2RmeTdvRks2dUFaSzBRZnUvRkhEdjJWQWNYaU5hS2VHZUJTQVhVSmhRNkFGY1l0TnFwaldjWUgrYlpHNit2d2UxbHMzMEEvREQ4Rld5YUlRaXN6ZDk4SS9ZU2Qyd0VxSitnalU0ODhUNThTcjkvQnVleXhHSGMrZUtkVmRPcUpidXNNNC9DMXh0bTVra1RGM3QreWxxSTRFSVpFQTVmOXJMcEhGaXNkOHBsSHhVWFYyczlNZnc9PQ">
+				<gx:ImageUrl>https://doc-0o-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/le1ksi9r5mpga56d2ov5rb0sbg/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALrYzdsyW6xDvJHRP9J1lIk87PW92f5kJWQOlCsHq4Nqg3GPNti4WWSAUVODlO_pdtajHyc8RnZxivJ22VpIl5Pr8DOTZC72lg24CCD8c_Um9JOyXwBSa-6QhtrgiH4dOCsYgmdOZsDHrA50IMOKmVYX8K33uqL-tmJ2iv6fA3sKd6IaqvcY6jdFWHoSk5_ygyD-X8nkEc9MkV3j6YmCw6H17oxMiMlxApjV6NV6FCwJ4__2mlLMQxXyaIzsKPd4FLJPzsdIi48dkvVTOS1_spbS55CQzw?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+	</Placemark>
+	<Placemark id="0AD8B70EB21333612848">
+		<name>Gustaf Gabriel Palmgren</name>
+		<description><![CDATA[<div>Gustaf Gabriel Palmgren&nbsp; är Runo och Stures farfar.&nbsp;<br></div><div>Morfar till syskonen Odin - Björn- Malin och&nbsp;&nbsp;Kurre.</div><div>Med hjälp&nbsp; av kartfunktioner kan man följa Gustaf till de platser han levt .<br></div><div>Vi får se var han&nbsp; bott och verkat.&nbsp;<br></div><div><br></div><div>Det går att se hur det ser ut idag och fantisera sig tillbaks i tiden med hjälp av <br></div><div>gamla kartor och bilder från egna samlingar och arkiv. Bl.a. Stockholm och Västerås stadarkiv.<br></div><div><br></div><div>Vi kan förflytta oss till "Gamla Klara" och<br></div><div>till Katarina församling "på rätt sida av Götgatan".&nbsp;<br></div><div><br></div><div><div>Vi besöker Västerås och Myggbo och<br></div><div>Sjökapten Gustaf Gabriel och hans familj Palmgren i Fridhem<br></div></div><div><br></div><div><br></div>]]></description>
+		<styleUrl>#__managed_style_0304DBB1B3136C7D5A33</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcnk0R21VcFgzRFBrN2tNaHdmOS9yYkRmeDZNNVZzLzJ5eXhZempWWEJFcmg4anZvcmRHMHlHaUtvNWFYL2RMWG1rbnFoSzhmSHpIVkYvNTNaaWxtbUZObFp2SUw5aXdKMGdiUEhMa0tLVXk2ZFVia25wbjh5YUlHbHBHRFhZaGU3T0tGTVJkRzBWR2tMNHRTWTBEVjJIWGRzQjN6RlJEQkE0Zm16NytIdE5Yd1ZpeHpKOGtmVUE0dXNrYUpmU0JEcEk0MUNIMTdvMzJkT2pDSjQ5ZlVHTnFJV1k0aVkrUE5naFRBSkJtc0ZmZmZtMHQ2UFEzOGk4cFg0eDJJQi9iUkFKUHlzZHd5YS93RU1OcGdMcUQ0Mzl1OXIyNUE9PQ">
+				<gx:ImageUrl>https://doc-0c-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/e7lp6eh7bgmvqj1u3dil6qpkv0/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALqXmtPd8m1oFHOM-ruo0ZluOZT-g0n6jrUsS8HtaifefOIcNgdfSp4F04f_-1FLI6xAXydK_Fh7qQuOXDQ0Wm0oBPujfqCo3Dns10Gyjn08L461yj4daBxoZc6rlo_Vn1V1AMB24DVAXhXgoPV2PBtYM6cZlQZE-Zw0DZ5b2ilHVCaL-VtZZh3ulAAhH_aLkzdB6-bdCslbOEBEBeCR01syaDQwbRX2WrO-M1Ak7RHj86IeHS2dzot-qSRj5k9WNTNEdyJB2dNFsQj7soNeNqxt7GTMGw?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+	</Placemark>
+	<Placemark id="0291DBA9DA13575FA0DD">
+		<name>Gustaf Gabriels föräldrar, tre generationer</name>
+		<styleUrl>#__managed_style_0304DBB1B3136C7D5A33</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMb2dwNjI5ZmRzd0V5Q29nS2ZPSVlKT1J3NkxiMGd0NkNoMjhXeERRdnFOTlhSdWRzMWJ4YlpNYVVTZ3llVXlmREdYUEtPa2EyRFR2Tjk4OGNqR2VCbGhrQitlYmFpc1gzUU1UQk4vTkM3QnFqemNhZGl3NmZkZ1RRbGZScFpvRGNRSXltM0swVGM1TXd1TFBqN1UxTWhOcGltL3hZcDR0Q1JSdDVXQkJKczhlWU5uK2FOYmlDQnJZb1Q3NlhxUy9Gc2dJczJFZXY5Rm9sYnFrRlF0WmgydHdNd2hwTjRnSHNEbHpGUVoxK3UvOTY5TU84QitWMERtL0Y0N2p2a2hqc3IyQ24vcGsrNkhlbEJFYmFObXord3Z4S1BJRXc9PQ">
+				<gx:ImageUrl>https://doc-0s-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/0rbs18kc9uc6nhtf8f4k2cec1k/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALpB_7OtsBgjXcFBz10uxrFNDLAF3QY14YsyOdYppHk2TBCdU_QXKLShC3VasbQ3XDPZNO9m0f9TBjBbRwHPX4AlgmHrCzlSHQyI8rc9bCHlIjVjqDvtn1giTAdTN8i3JmK-qTWPqCTbHY2LSiYkmwK1ladgba-aOfpArc-acwu-WiZ3ZsxEHmGDxTPv2vKYFjDuOUyA9gE_EwKd0eiryCmHQ3D2J9jOUPJ0zLTsQFNGrYqCvyGQZE07MsI92MZWb7CztKsgUsvge0U5aT0QuwpYjt31YA?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+	</Placemark>
+	<Placemark id="020DB0F7A21357681238">
+		<name>** Bostadsadresser Gustaf Gabriel</name>
+		<description><![CDATA[<div>Här kommer presentationer av ett antal adresser där Gustaf Gabriel har haft sin bostad.</div>]]></description>
+		<gx:mid>/g/11dxrs51kq</gx:mid>
+		<gx:fid>0x465f9d67b0631aa9:0x8ba8b2165541cbaa</gx:fid>
+		<LookAt>
+			<longitude>18.16726889673643</longitude>
+			<latitude>59.29053379035701</latitude>
+			<altitude>27.08766706304939</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>36718.34599783178</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_099259BCE7136C7D5A34</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>18.06139649615854,59.34121497377863,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F8149CBBD130B59AC49">
+		<name>* född på Luntmakargatan 44 nu nr 66 (1868) </name>
+		<description><![CDATA[<div><div>Gustaf Gabriel Ljungqvist&nbsp;född&nbsp; 3 februari 1868&nbsp;<br></div><div><div>Oäkta barn. Okända föräldrar enl. kyrkboken men hans mor Hanna Henrika Nilsson är skriven på Luntmakargatan och lägenheten hyrs av hans farfar Otto Benjamin Ljungqvist.<br></div><div><br></div><div>Enl. födelseboken på adressen Luntmakar gatan 44 (nuv nr 66)&nbsp; Adolf Fredriks församl. kv Sjörån&nbsp; mellan&nbsp; Kungstensgatan - Rådmansgatan-<br></div><div><br></div><div>Fotografier visar Luntmakargatan söderut från Odengatan resp Rehnsgatan. Man kan skymta större stenhus några kvarter bort.<br></div></div><div><a href="https://goo.gl/maps/m4VTWHBhBFKmRRnK9">goo.gl/maps/m4VTWHBhBFKmRRnK9</a><br></div></div><div><br></div>]]></description>
+		<gx:mid>/g/11csmj0gxy</gx:mid>
+		<gx:fid>0x465f9d6878bbf2c3:0xca97b33f5a65bb5d</gx:fid>
+		<LookAt>
+			<longitude>18.05971</longitude>
+			<latitude>59.341446</latitude>
+			<altitude>6.1357975</altitude>
+			<heading>8.537736462515939e-07</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>506.5211704244575</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09B781AF67136C7D5A35</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcC9RalkxTjZrTFJFazB4UUJHUnB4cHladkQ2cTk2WklST2lodjQyVFdaMUN2dXhWMFlxUzNtMWlxVzlOdGZscUdJWWhNN1c4MEpmQzBvZTVxVy9hUVFHZ1RCT2hiS3cwQmp5ZG5kdEUyR1FXVElwVlhwQ0J3NW11QjFBWW5mQU14L2lWckRmNm1KM3dtVWFVdTk1eDF5aTZQSXFmK1N4Y2tScWxTR0FDOVkxVnZWdnVYa29VcUdEakRISWdFTXYybnZEVE8yVmdoaWhybS9oR2JCbXlsVktkUlJsaitqNTlyQzRIeXhpOTNUbll0K2UvVVduQ2tIbjhlOS8zOW5QOTA5d1lpOGZxQnpZOE1hSEpESmhxZmFvblF3NWc9PQ">
+				<gx:ImageUrl>https://doc-0c-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/j980ova2ie824gqmg4a6ipuq3k/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALpMErBznSXKNOGOXL50avqIz3BWA0dhH8chZ9pqqHINHBFFC3VQtpryJKFS_YXqmWwe6Br4-m4ikcsBiA159pGGuim9swQGbtdMkGz77_U-WPyaGZZLlZP-L5JwDY59fn0r7_m_snEPHWYX-_B4nHNM6Bg6zBuCMe_v0iNvWxxNk-A9XetCFXW0WIlu7G3sd7I7MLfdSM2eKzve6oKDCR7V0DhtiA3jccfWgJsTob-XQ_DwGVuNRnklqIV_vMn6q98baokTEatkrRj0iZxyF1Oom0Fdaw?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcDlGcXZUL2pyOUxjS0ZWbkNtaXJoZzdwVUpVS1UzMHk1ZW9oVWpPOXhNOHlHSmc2WStadkp5UFM4Qk4wMk1wMkY3Z1RNbDFacjJkRzFjRkcvbTMrNGpJWDhFZXc0MDNRaFNGTzdTbGI5OXhDQnd4Q2JYYzl4OEFKdkFJU25SMmVQQ2o2bjV6RHNxWGNaWVI3enN0RDFHZTJxK0N4TisxUUxIQXNMWEkzZUtMTUtpVW4veFF5ampqdGdoK05yc1VRRnoxdjRzMDdodjhzTGd5cTdHUVJXYXkvZzVwOC9rbXpNUXJpVTdHNW82OURqRW9KLzFkTHhEMVQvQWYrblNVMlJWVUt3Rm9IV05KQTZqNlVEdko1NHFpMUpIdHc9PQ_0">
+				<gx:ImageUrl>https://doc-10-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/9ss77b75uafep7362a1ibso7ic/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALrxCH6IonSpGupC5XmhapYvFnu2L6E7c5gHUampJz_vYWH9sxVDB8SNVrwyU4M6r8LJmBO56ACVQvuwoAV_V7iXoQhQVnfkamqwamc5IvIEpxYsf15FbZ8BS3HMGrLtFOHzOOjI33cJWWYshctuldRaJOBUrnGhwI8QW_pWPTsAB2ePmw5IXJfMT65GguzuYpIIMrGg4Q79Qk-iKdH5C8b2FyBtIGFSKBO1l2odjo3FRTAbk9QhDoXD0p7m2MKS0oEA5ASKiF3IJG53qYBxCuDGcEZUkg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcGFUQ0tHaWtvNElTVXJ1dDdqYXVqOGgxL3Z4Q0dwQWJoNkkvTHBGcGxBR014K0o1ZGdkUDNTVmt0S2k5MmFMSExJenBBUzhIazVFTXkrVEc4d1B4Q1Nla2N3MWIxbmdxUXlQRG8yNHRUVllGa1V3UVJWYXJqdURYYjRLMGk1V3E2elJXaWFOQnUrS0xLNW5ab0VENDFuVDF1RWdqQml3OG8rYVo3SXdWSXkyY2dOQno0QkJ6aVhXdlR6Vy9PUFdxTHVWVU5wZmpPRW90OHBzL3h3SEpYMCt1SEUwdm9HRHVQUVRNSHZWSWF5clEyTmQ5YXJPZ0NPc0lFb01PTEQybHUwdXpQMDZoNFFVS2ErdHIxWXFOVUs0anZuYnc9PQ">
+				<gx:ImageUrl>https://doc-00-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/6f8iqf0publm48n7nah80mif60/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALriX2PXF4UEuyoF3dfKvFYhX_yERSF1jorXkun0VTmg7IkD6J8YzW1NcBfMjMPz7w68mKZNSd8grpKr-klgti5TriL75lUFHqWM_QrcWTMRtSI7SepT2l21Jxmn3zps60coboAhVwPZvoFJ4NDmk6j-Dz2AmSOXkLFBqqiye9Nlp5FeMwgMc2BWggqg46McILVBXxJ4jM0XWIxtQoyq4Sk1WUfrrsEg_rOoCA9PeZbA4nstHIJtl8k8o4bvqzuiwT7J4nSw-LiTKvwnv44uIjhePFF1lQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMb05WVExNdkR5K0RSbXFTOUlyb0tSTktwMTRWTGdXanM1T1M1MGhkeXJSRzd0MldQN0YrSDJkc0hnQUxoeVNQeEo5OElJU1JYYzRTN3hPNXNhcVM3TmwzM2JhUmJMaGNIbmh4RkF1dWNZWml4VHBHUUlrOWJGTTM1RGljSlVsZGpBSEVWbmpXQ0JpbWFNcTFkYTBuZFp1VTVvSkRBbWV0eHlhem1hYitSWmJXREljK3daQkJ1U245bnF0c0dZU1EzT1FSSi9jWVJKTnNETmc4RW1nUU1NVHVWSUQxUlZQTGQ3bU95Z0ZUNWJkbHhpdW03QmlHU1lqRnJReHg2NndycUF0ckdzc0dYU2ZIVzRnSVBERDZRZXVmeTR4ckE9PQ_0">
+				<gx:ImageUrl>https://doc-08-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/rd7n62ch611lah4ejlfmf9tvvc/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALoVIlXDV7xn3nDAQQsR8rpK3rxgCD9dyGecojcz3aCO31kJ4PJK7YnTJY7zisidmbFGk_kUi4HO9DoLeWVoQS4aLMFK8MPdL0m0wTk-95GkII8cfrvTUpH3uWAiXHhtYMsC6EmACdwJ5HE5GqJAWfM092DhL9DqhId-eQK1fNb6psilIEL0d-dXVTYwe-hOO7gIEr24FFN9Y6Cegm__Bn7I4KYtkeZQ3RB7hUr-ajBzRuTOpYOObVbiRWmyUkmxGIVfRiG0WmB1IIYSmjMCNP5G6f2Bqg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcStBNSsyRHBlZ3Q0Umd0WFkzeHZ3RHZDSVJXWE9QN0svQlFJWVkyU0J3SWFKVk4xVXpGdEs1dmFvSURTaGl0TERDT05hb2dDT0tXRmpXYTdyVkNOK1ZLYXJTMTh1MERmT2FJOUovZVEvUXIxM0phemd1aHFpT0NPbHF4QVVpOEd5YndQajlNRGkzYmVQK3hybjNWUVF1bkhhcFJoS3ZjQzM4blV4c3MxS0lpdHM4YWtiUFBSKzhXTE5pSGM3b2tVTEFYWmJJZDJhNmx4S3gzMjFCczJKL0oyc1pSZ3FhOWR4WUhzekIwY0RXejN3WlZVRi82VzB5Q0t5MWFnWnlqbkVoVG5rMmlGVUZDUnBhbWpBZkk5L3BxMnkrWXc9PQ">
+				<gx:ImageUrl>https://doc-00-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/88shi89nq8bs38gon96v0m5tro/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALpNlJifOIdDochGOx0lzs17sJPFhcvsBAhGzUgc6mOb9O3IRwepgVnv_n24bC5E3yIudj9irTfRasOFWNXRXQr_waNLbxF7alMpfHn0BIgqIemlcZM3imnEjMzRYDlaLdEo0p2lC340ClqWtaWm9eIu_uQtxfZk0XiqnHqPJYXWbqHD2TKgo-c9mzI44Uqn8RHN3uT9WOhZoXvgaYRkpH5WURqw1qlJ642a4aedAS_sorIS-U4HFrfoUMg815_l4ovhBWYfuKmvUavh61hp3WFqZLeMqw?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>18.05978452590071,59.34128250834127,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B0AEEDB93130F60CCE4">
+		<name>* Gamla Kungsholmsbrogatan 50 (1869)</name>
+		<description><![CDATA[<div>Gustaf Gabriel har under något år efternamnet Ljungqvist. Han bor &nbsp;hos sina fosterföräldrar Gustaf Palmgren och Eva Jansdotter. Fostersonen&nbsp; får&nbsp; deras efternamn Palmgren.<br></div><div><br></div><div><br></div>]]></description>
+		<LookAt>
+			<longitude>18.05117649614795</longitude>
+			<latitude>59.33186883645605</latitude>
+			<altitude>-0.1323132791801929</altitude>
+			<heading>14.6853559822747</heading>
+			<tilt>42.41597008727025</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>160.3715927812846</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_1EF9E04429136C7D5A36</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcEVCRjJNdnBGUGtQRktUNkk2K1VxemUrWmFubUdHVWhqM0F6eHYwR3I3dDF2T3ZVTGovejJoTFU1OC94WUJNQm5udE5NNC94aWJOcHhrSTlkZStERmFYaTdpVWEwYlB2eCtXWEplaENiWE1vTytpWUszS1ZuN3RsNjFBZ3RueHJwbi9Ld0o1R0NZNXdTUENkaWh6a2p2YjI0a2VyQVllMXREam1XS091bTlrOFVGVUwwaVFhNnhSNTBObnJ2ZUtFbWRFTktoSGd5YnhtUDZVb0FQZFI3R0RtZlZpSmxIR1lzaFE4VFVoSElzOTlxQjNsRUxDZVBEVHFZNUtocmM5bUhrWXFQZG92KzVsenlvWldMQUd0ejIwN3FhZUE9PQ">
+				<gx:ImageUrl>https://doc-08-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/mfjudkkhif8hodcn88mfl7qp2g/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALpLr96izQo7puuSzoNzpxxsfDbTzm4c4vOdu47BOIQX5wV3r5q2Rza8MeeT-jmJ52Rsl2UdrhEAkWrhmYJTVE1IC8VKZl6XUJypBgVBQbALTp8UcH2eFXIHW00QZ9Az9vSuSEnunfrJ0UwwuOI_OCdRWFUCS_S_HNPxlG2-X6B2fg4Qq-WCmQjAmbYgZPADD1d5dpNTk3fCTvl1m700tD4tB1BS2_sLNi07tJfULXnKj7-mzqkMqkDU88NBH3Xi0HEtdnoACKLDCv7pjGWz-p-TT0OhBw?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcG90K0tWSTVqczVRdm9ybE9hbFVYMTUyRTFGVEJ4VytUclZQY1h3a1BNR3NEMFc0dmphbnpqYSt3QzF4SFZnQnVCYnZNZFUyd21JYlBjV0xhMTRKSmdRWmxOeDNGaDJHdUFlKzJQcm5uV093T2hOMW8vQTJpUWx4ZStLelh2bDMzbWgvMnpFUjdlcm9hRTM5ZzhtUUJnb1BUQks5K1Q1NkNCajJrUEJRQ1NnblhLUVZGeFhCek8wbDZMb1R1Wi95SkxIdzIwaDJPQXZYUnJrNEc2TUhydUdRMnlJUmZSYXpTRmIvSkUrNEs3UmorOUN6dUovUGJCU2JoTUgyUk93Q1lJYUVWTGdmbDlYNGZZa2hzb21nbHhDaVV6Wmc9PQ_0">
+				<gx:ImageUrl>https://doc-0c-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/jqnkm3963uup6qdpi3pa6covq0/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALpEiX0UBKrR0omIsMRJiTazix6Op_bubmVmFEKQX9_WPLZm3_hTlKtCnn7cPC1vyotdjumZFxxSkAlLYyvCyA85jZtlGeFZzsEs-kNG96-uo3JIzHq7JfuE4sG8iSNUmwMe4ZLzKP51H9nEpZiDu3yx6Beod03Rp8bGGE_9HxK4K2I1OkiFCnZA_YtyARnv9_46nIHNHZFj_xyOJyleNFV1HoPa25o-V18KbV0idSsgmNKjDGKMg2nFhTS7OVqxGk2U7gsKupg02KM3FIPgU3mGEAkJ7Q?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcGlhUkVxWmNNVllqU3pMaU5vakRqalhBUjQ0aURJRjI0UG5Xa1pUQzdBS0VqODkxQU9hN2R3d003M0RLVWJtSnE5T1NTWjdsOTZDbGFZRENaOXByb2ZlNnZBRHNRZkhsUE1XdzFhcnlab2RWUWxQa05WYmVKeXVQVE5UTW51a2pxNlMyUUxVcWhkbHpNSm5JUDgzSzJVV0hEUmRvYkJSSFNhT05GYVFva1ZwTlZYL1ppYWp3SnJwWEhISzZqbHI1cENBMXo3WjM2VnBqd3ZyNjBWUjc0dkkvYnZrMnZwOXQweS9vY0IyVlpZZzFxbE53azVXeVEwOFdBOEk5VU5jRWxKM1RpY2RxUnBCeEZsaTFGOE1PQ3JUVVhmRmc9PQ">
+				<gx:ImageUrl>https://doc-0g-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/o60gfk6cgofco288ntsdq5c96g/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALqOjXUJx_kI0gK4HdBah7L0RoqYkZGpE1B7w0gabi61zzxiqqzztGQgzQhQhToMv55JuBihc8e72XmMMQxbdsZh4uUn6SAPzhIjaff-GKko4rDqEfdfe9HJ4Rvrn5_eqW2jovDhdZoqqZcvsJ19FI7Y0GROqOigGZNQ33BtOqPRjXHnqLgvZBMZII3WvOJBMExP4gX-1qw-i5RuAWM_1FIyaEO3TinHnfLvVInleiVEuxJKEDVxUknE8C9CtEqJKJ6hxV8zrJENER2rbjsfDBIWovnx4A?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMb29oY3d5Znp4czVTSHJqMnlBa2RwbzJFSVdaVWRKd2FXUEhaT2g0NUEvU1drc2ExNE9DK2VSeW0vQWRHT0NDVmJwdDR5Q3F3U1NlSUw0M1ZJSDgvTVk3V1Y0SFFZY2hsaGF1ZW8xaHQybTMwdkwxN2pxVjRBZDJwR0hBU0JLcVZLNXNJR3NXRkxLeVdXcXZuTlgzeEVzYXN6K2JsdE5ETFJVb3h6Y09GKzdtM3RxallLVmZaR3ZiVWN6dFF3Uk51ZzJVVWdrZ2JMdUJwb2dyYXdFZUY3RXFPZXkxSlg0TmdsVE1iaWZLRUFiQWdnUEJLU1hBcnJnYWx5eFBOaDlqN2lFWW90cEtKMTQxbnk2Y3I3cVdSc003djM0NVE9PQ_0">
+				<gx:ImageUrl>https://doc-0o-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/g8ci5ihnc37240ohnr2akitobo/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALpKCxD9_mCmEGiEXAN1_fxw-cVZc0XHBPzEMX-xnVwmVTNtsLnTzGoOZaipr-DjTmtf76aO-o3RHpk3oOFFRXUPTlCJgjfrqNiaUMunMz6m1yFVHwPFsj_YDMZiqrwofk8V3YMupTL18pleCLlpbO1fmFZ8jlAtbArQyViUNJOhYMFK6SSmehwRqN_7DItVLK_02sFCDKz8jYXHjcdQyBZi7O4wG88xo9fMxpHFIylJh14QSV1GlhXnl7SyTLTla8msZo-0YwVpKtEJwZyoHh9-Dpn8Tw?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMb2NrV2R1a3l2ck9RU0NVYkNQWTUrSVlJQ0NmMk9OQ2krcmhVYzQwNEVqbnJ3Y240T09MUlloVXB3a2o1ZGxTalViTEhLZytJM3J1NVpCUlB2a2tpNG0xLzlXZUNKRldtNi82UXVBTGlZTU5vdUR0RWpHMm1RYXI5ZEp0dmlWSmU4aDZ4LzMwUUkvWGlGVXA0bXJpNTZBdHhtN0o5eTFpZGkySjZ1bXdLbFUreXUyakFTNGZvdHN0OUc5Q3lrV1dnWTUwbmtFRE4vM0tIMmJrTDJiekcxMnRGRktrY09xWFhubnB4K1lXRVRKZk9kUHVrb2pzWUF6eExtNWdYN1BUQ2gvbnRlY1d1ZzNjd2ptdDlyclkrT2ZHTmFxNnc9PQ">
+				<gx:ImageUrl>https://doc-0s-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/e4cl9moo8c3r5imriedgk13ra4/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALobkxrJt15PJTUw-5nJAZfu2-x8lq_NZGVTvt7UH9njkyS4hR_VBEclBBNhgqYOrwbQSjVMKA2zM4rQi0d1ggF5a1Jxv2RF4cXqJA-cyebUjM4ibbVXD3GKmpbrU5bkH8pVS3_olZVqlxZTeI8NAv4WLQ7zhJwWrRO55xhD9QHf9kEFfkgUO83egfNl9MKYRqfvEROdJFTpSHY96-TZPyu2dCH42HksiO8IoF39cnA2XILsADXAj8sfWz1XxG75XNb8RzRD5sOSozELfNeElh8vEbJawA?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcXcvNnJxVVZzM0lkTUQyclhHMENmeklCRS82TTBueHF5dlh6WHNScGRmWS8xbWJYK2dmRmFSYUN6bHNqckRXNHRGOHpzaytHVUZWQVB4T1NDVHhTK0YyYUoxUlhlcVFWMHVHak1kUGY0OENObjgycjJFRzZxd0VVTzhVMGpPckJaTHViejQ5YmczenB6dVE4cy9RbXZib2ZNZzFjY29lcE5jc0pKOFdWL256NW1Bd00xZ3FqeTU1YUU5bjE2cU9LbnhBUm1HazRicGQ2Zk5MUHZHR3lOTkpTSEZwbnF0blVkWllpZGVkSGN1NFN1VjlaVS8xV09kUUJKaEI5WVZ5a3M5eWhUdFFVdDU1bFY4ekdHUE9YN3d6bGVydEE9PQ_0">
+				<gx:ImageUrl>https://doc-08-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/akvd2effop96h1q56j74uopodk/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALo3XIaOtZ2FRHzxQ2KP8tnK3ylXO-z0ZqsD4NXeTup9aoxe1Rs_WE_VvTPgBhjw7tJzz5ZAnjBlH29W8QnSF-ZApEv4MNwf0OvDKfatAve_tYaD5XloLH4-TjNV9d2_vueUxSPzNVJ15mTHrJOVudtyYbUQ_TT_NCeQyZfA0Qdae1yejLS0G0hghlX8J_if6OgxW1BMMNjFzgoGbhVXp9eEGpfDSUVuu-OeG1EXHvflw697gE2ytmTvAI4ijVUZqcvxH2AYr1vWyVPcI_-2QpR8GqqXUQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcHpldGd5dDJNaTlKcGVrdTFxZTIrWUthTmluM2c3YmFZN0lmcGZXSHZvVFlaRGp3QS82RlhUWHNMUlBhNjNLZWRzVkhyVHpUL3VLTWNxNzZmY2ZLWkxFRTJ2T2pPZjJXZXA1NVpxME43ZWppOEY5aDNwU0pTZlRQcm1JTmtJOHhSZWpWc29jWEtrczNyUzNEZUJZaGVnYkhmYnVST2piOVlHU0RGWk4vVWJGQnZHZnRKSFJyWUFob3ZKUUt2b01PYThpSlROek9KeURvd25iTDFoYUJnamxSLzVZRDNJYVRkYU9hbzN3TDdvSHRGaFFINDZCdTRWWGFJc0JsNmxYSUFJeENYb0l2SXZ3UzlkUzVaNkNwcGpmY05OeWc9PQ">
+				<gx:ImageUrl>https://doc-0k-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/unh57i72in7s0547eid3mt4an0/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALqnJIRMYhKv-aaJ7VzQmq7ZsyDtvyQJb9ntKPAOR5Zd_sL6l8st7HXwKCqKLpO8fuZroWMYWX-hwj-kiHKJTlh_yDZKcOiDDC5ydfP7wV--0kRBGTiYhv5gNg7RIdgOeY5FWJlk3jWRnI87ViJMRlJY1J_LLd03NFIt0_cKH9CuRW-Km-iyBatVJDfETb7TPR-AU5vUNWHTP3g_84SqSNObkOM9-AFdWMuEuDNz1ei1-j6ie2bRs3lrubnXghdurHN-_cUFXhLduI--rUPug60hZtm2dQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>18.05134476350679,59.33171673030583,-0.1859418400885647</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0220B9E73D13205EF16C">
+		<name>* Beatelund (1874 - 1882)</name>
+		<description><![CDATA[<div>Gustaf Gabriel Palmgren flyttar 24 okt 1872 , tillsammans med sina fosterföräldrar, till Beatelund,&nbsp; &nbsp;Ingarö. Fosterfadern Gustaf Palmgren är Statdräng vid gården.<br></div><div><br></div><div>Gustaf Gabriel går&nbsp; kvar i Klara folkskola till 1880 (5 årig skola). När Gustaf Gabriel&nbsp; är 14 år har fosterföräldrarna inte längre vårdnanden. Han flyttar i augusti 1882 ensam åter till Klara i Stockholm och går där&nbsp; i snickarlära.<br></div>]]></description>
+		<LookAt>
+			<longitude>18.35222177783316</longitude>
+			<latitude>59.29421754262396</latitude>
+			<altitude>9.380136421164504</altitude>
+			<heading>25.55082521005658</heading>
+			<tilt>56.55880480405644</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1398.168934063433</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_1EF9E04429136C7D5A36</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMb01uN1dtRVErbitscSt1VkxzQVhSaVI5bWF6cldnU0gyeWN0Z3cxQ1QwWWRuWVh5UFVqS1R2WWRUMjZWNURORjRZcFREWUpDbjIxbi8xWVdpUlFGdHUrSnE1dU1FdXlaZWtsdmRMZTRLSFFjVTlaNFFjWlZpdWNLR1d6V242cndzY0JRVTNkaTZleldYb2lZbFFkWFNEMHBNSk84UzFRTmsyRWNpLzFHV2hFa05tMjhHdXJYOFdrMG1WT2FYeDVmN3VaeW1UMXBXZzBLeXFOUmh3UHcrK0lhd0tLRkRxQ20xbkNyVmFNYklIQnJNMW9xTDluY1pJdUVIamh6bW4xb1kwL3YrSE84YzVIZWhic1hRdWpsNENEQnhCTmc9PQ_0">
+				<gx:ImageUrl>https://doc-00-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/ml0p7g1kjmpd376cn1a98kgp3o/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALqH2QiqdUELYUX_BrQe1nhutuBWm_JEjq5dgnrQ-iMcqKYBjyXkOgVpdl8OI9_W1gyQSqCILJAcnvCW0z9IIW_fx9kVMF6DVYtiL3AoDblA3_PpGOgd1TN-qed-TRnLSOtvjgl4c9XBUR7oRvYAQtBEbnnwULNJgYNas3xKhSdKmsteg3mKZ5K5NYrBOUM77wlo-youNSnvp-0pkbD22iHqXkaScsYqx4rXymzzuyr2k8Iw7QYpLLISu8m8u0FLy91P7RufwZ-x1ol3rmPJt_rsnxblMg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcmlvbVR4eWg2M2tQN3NoN3lreVlnYTVOSGZBWjh5TkJoWm9nYXBlUXorTUNEZG5XejRmRW91QXV4UVcrY2JsTDJMNUYyRXBEdk85dnZXcEg2ckk0a0pwQWFuMVM3VTdjM0pWOUsyaFNCTEZUVEMzbi9palYrWW1MQjJNcjNjR1hEbWFUVnVwcGdIRGR5OXUwcTF4ZlpJYWw2aHNocWtwTlR5OWNUakpIRThpaEVZenc3Q3VmZzd1eW1hTUQ5MzFXZzdnMlVGOGJQSWQ5aXc3dGhmSW96WUxkeTFPZFRnck5reXpvNXZuTzRHNmZaVytPNENVM1JJVzVLelBQcGM2YmJaMW0weGN5R3g2bmhnMitvV25oS3FOaWh6WEE9PQ">
+				<gx:ImageUrl>https://doc-08-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/4sftvi8igvqqck48ids7hq9nf4/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALrOHPFaexTlPH7-gIUybQvjJtXMcesaYgCVQhUGUTLieCjBn63DfSGeks-wFiSOszUr-sZ_zoiPz_jmfDHztSA3_rQnn9XsPMhPYwQ3uGiIdaE_EwXFhRNDd0mAcYoosunU5gYmT1xuXtHtZVOhxBVMo0fNX_8-4aF1LGG5I74_PL2WjONU1hUHsaYte3faDUOKNIZz15aTzApjXjQAt0T8tCigQXdJ0_VSS_c4BzvTDdBMThYsNwF5e8IxKpVBNRpkGTMh7LA3Q8w_NCnBnu9SBl2CEA?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>18.35851013260512,59.29676972478889,6.203230472418774</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DE650134A1320E589CE">
+		<name>* Jutas backe Kv Italien större  (1883)</name>
+		<description><![CDATA[<div>Ynglingen Gustaf Gabriel Palmgren provar på snickaryrket hos Snickaren&nbsp; Anderberg. <br></div><div><br></div><div>Verkstaden låg på Regeringsgatan 72 endast ett par kvarter från bostaden.<br></div>]]></description>
+		<gx:mid>/g/1tq6c3br</gx:mid>
+		<gx:fid>0x465f9d42b14df487:0x28798ec705ff390a</gx:fid>
+		<LookAt>
+			<longitude>18.06722410523992</longitude>
+			<latitude>59.33871928909462</latitude>
+			<altitude>24.32828956885868</altitude>
+			<heading>40.71800886144162</heading>
+			<tilt>0.2361325356375067</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>457.2759568407492</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_1EF9E04429136C7D5A36</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMclVSd1RvWmFsMkZZemViRXBtR1ByNDFwblBjbmFoeURnVmFCREMyQTJiTFNzeUVBYjFrTWlmQWxPazFXd25jbFFmbm1LTUdDbDZSMFgzUnRPSnBXZVREakE3VCs5V0JHeVZlRjJiQ202NWFUR1ZKTG1jc2NHemQ5NlJrL1hNMGJHd25rdmRUMUROcUpmLzd5RGNGMHFVYU84TGtvaldlZDV0bWxDS3RDT0tLOXphQUxQaFdHbVpMUkNiR2JvZFpVVGFpV0hXd0dwK2lqbHdzRXlqZUlBd29ZNFNvSVhUSHQ3V1R1ZnNaRVVXRkdyNE9ZTk9aOEM3UXBuUks5MVM5VWdZcFBxYjl4UU84dTNTckdhYkFIMXFDTTVDWWc9PQ">
+				<gx:ImageUrl>https://doc-0c-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/k4im103mujj8g7nee0oih32hmo/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALqzN5JuvjaSIB3uiKl1dc1G2L3Vw2BuNQBO2_duwLiu4Or5bFapJY32Y_hiuQs9MBU3FrXEQsNTtMBe_1xjpqyx0ezXk65kERZGhwGiQDvJlQGOAZUpgj47LQ45pJvZjANv_wNlJHAw811o4VizFnARIkAERaKCBOPHkefSUIkmI4KjoD4znkcLxtr2kJ1unxEeeImlR8T8ZLpv-gF1jEekutY-wPkCDwF92J2vxWJhSzdzk9R6Q6tzR15c2lCXk7Y3EdbZWVFaqd5MXz2n4vJPiDKvXg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcUh2clFGRm1JMGhJeExPaFBHanduWHE1azJJVGVWeGx1c2tWQk5jOFFkU1kvOEpKMFlrQW1rNVZzWldGa1ZRYkc5U0piVEFYUUdraHhIejNJL255TVRNUmd3czdlZ3E0VTZ6K0ZIWHY2eHovbnlJUE5lVzBtT1lpaGhzMjZTc3g2QjFrMU9PUVY1WmlBZjBSUnFBUFhld25JOVFsOXQwUGQvc0FHZkZzWmJGYkJScmRtN042MlpSTmRzOXA4MncvQVMvd3FuRWMwa1RSQU1Wb1VvVjlxbXE0K0I2a29ObGQvQmZwb2RmaHRNdDQ4ZXkrajVqRzhhQUY2R0VJdEEwQ1AxRklLK2NsZC9lSGtOZUgzREZZRVFLejI0Zmc9PQ_0">
+				<gx:ImageUrl>https://doc-0s-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/f4lo5tdglkp7lscvmd60e07pco/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALronAxOG1Sl69fPPxSLHfVdLeRjzlPWDuMTkDQIrPaJbVKHiAxH7ej4JLNEybbjhcO6k7vADSBDALhN2wTB8ruWXr8zOwoAF6Nu0AUkmtq8UABIGuA3RTPQpo7uFVtzCEp7HfasQ5IuugnvmHRNDS2azx8_FoSqioiuxFuEBlE8H5uwPgPPzR35yEgM8N3I8aEkeYmtNgKb7KkFr8mv3_tX0su02uOMUDI02KCzLwbzrmCDoluCZst31LGfx5olyIsfoW9oPkMlCPBQ-FI6BuymCvdlOw?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcWhvbkFOMExZLy9CNXRNdHRKVWZTa1hYdk4xWll0SUYrNUh3RkEzOHpYemticjVwdjAybTBRMTd2algwSFQ4bzBEcHIwcWtnc1k1SEFITC9lZ0crTmN3U09iNzNYSXlCTUpLcHVvWlZScG8vbXJwK1lBSFl0d2JoWU0xdkJ6a3NOdHk2d0JmY1hkeWFBeUh3cGg5bjBoZzFWMXkzZmVsdHVKS3NJZ241N2VDU1l2ZG9xTmdOblIxR1NuTkxKeEVHN1A4VjlxcWREU2ZjdDRtUEE0OEFDKzc2VVRPeXJYdUEyTU5ZRFFyTVQyTnEzWFIyRGxJL0ZPOVRkaVoxUlN2VVgyL1lTYXFvRElRNWFGWUJsMlBYcE9pRTNScVE9PQ">
+				<gx:ImageUrl>https://doc-0o-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/qdki46c60kj5mt977m9bhbvdco/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALphIq81cwYZL6R9ZyrvFpqXmclfe_Sp-4hCsCQfoT0JTAnyTCqlp-P41F9u7IZ5JaVU4_6ObVbf9Hr_dKsalrxf7_LtXMGg-_kHqvMXjfe9JHbgnGR6-nZtuUDvZTKKkji7qvfowlzN-10pAnHaOUDc-p85LymOFFXsPH4gcPGnHGD2iuUef5pNxIhr0EEj0YNwLF31F74ggnk4K1Xw5q-JQlQnAxHMoAB4kA7LkM-Iy64gbV-iFoVrt7yp-p_NFbZwFqv7PZNhAIopavm0jHSGtcbO5w?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcDBZaVFFb09Ia2hHSnV6ai96ZnJXemozN1ZCYUNmdHV4WDhoUlVRcUlIVDFjZDNIdHV1NWZaNHg2MmZISldrbU1TOVlqOHJQUWwyRE9HM05wSUYvQ0dleWVldE03WUN3d0ZLNzhKaVhjTTdjNVp3ZExCcnU2MDFDVTNISHZ6U3VsT0VOREJBZGk3dEJxYnlIRVMxTzVtaWtlbVlER24yQTNzck9pSFZrUTZicGhBREtZTlRXc0FnMW5FSGxXazdpeDBPdWcxaFlJODBzN3VsUG03V044NTRncW56UFJ4NmFCTStrR0NXSnZEVHQ0ejYwam5PaFAyVmhIMlJ5YUkvV1IxaWJ2N2s0WU43cVl1MVFBcU4rTXE5c0RrSnc9PQ_0">
+				<gx:ImageUrl>https://doc-04-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/2tepplvfqbgja4kev02bvqie3k/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALp6IwPa5djLzEviGz6nbxB5Yuku4gTHdYry3rzoCVrv6XihMuwPlfaED6b_HbFSdoV_dSqxEgKooBPT7m2GHlS3LlbyMXPLg1pHLxprnhc8lX0fPc5e2lSp0ZWWzmOAKZFzd5_8oszcM15QF8SYc6X3325u09sYyTO--gV60i-kUhVTl7kgvVQsi16aFyrSBZdb04z6KZHbd4-rvK58LiBaa2rRSP38mzZANGoMu7Q58kX1EUaZbDSg72foMVQMwZjd5wQ7KYh7RMWIgqVTIpmPhZn2iQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcHdaRTRCVUt0ZlZqS0swYjQvYWJNdXF1RThwZkNoSFNZcmNackZXYnVBeUJER1djUGpNVU50WVY4dzI0WHN3SFd5Q0ZmYi81d0JaTW1ONkI5aWNKTUluZGJvYzdHYXU4bFhsRTVUYXp1bTNzTWtEbnFZYmJRMmVTLzhVUVNzR1VvdDRnei9rek5KN2xOcXRiQmdrYWcwTUVmdlNkeWRNZTlwaU9QU25OeWZJTWpueTlwZUFhTm51Z0FyRy9USHpzSDBBZDdhNkEwMXdseVVhaEE3WTZsdTV5ZTZOVktMa0hhdGdYNHVOMm9uL1Y1NXBYNDJaWjVUZkl0USt5WWExZEhWdyt6S01JNXRXak15Nm5ZeFB6Nk44RXJ3Y3c9PQ">
+				<gx:ImageUrl>https://doc-0o-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/r4kfdjop30h1831mdkis5g4l9c/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALqxIOZA0dWbQmC9y5aGV9HeYP8YAbkx_lakua6Mwnaeks8O2WqjAH2y6ocPumz6HYCVkzHX4yaFOrAoyspmORvhTw27zu0SH1IcEHwF9vCXBW2IQy3ABvZNrTOlWn3rEMwT_sVdGWJWyLC4ZDigpwe97ArYmx3y-1HMogjqbWEppWD4kECE8hbXvEhWoOtiDj0i8asxlszbxLPJynC_vu0Y9aIDb5E-F_5CUEj8UzTtvaNWbcCjMoMnpaj0TGPvymqfL_rU2tqoN2pn0_BWPYNRJIGJuw?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>18.0676625,59.3388381,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FDEE7B6C61320F033DC">
+		<name>^ Regeringsgatan 74 (72 va adressen) för Snickarverkstan</name>
+		<description><![CDATA[<div><div>Snickare Janne Olof Anderberg drev en snickarverkstad på adressen år 1883.<br></div><div>Ynglingen Gustaf Gabriel&nbsp; Palmgren (15 - 16 år ) var lärling hos snickaren.<br></div></div><div><br></div><div>Några år senare (&nbsp;<span><span>1886–87</span></span>&nbsp;)&nbsp; byggdes&nbsp;&nbsp;<b>NALEN&nbsp;&nbsp;</b><span>eller Nationalpalatset&nbsp; på samma adress.</span><br></div><div><br></div><div><span>Under 1960-talet var Nalen populärt på tisdagkväller (har jag för mig) och på söndagar under dagen. Då var det oftast jazz i <br>Lilla salen/</span><i>Stacken</i><span>. Den unge Runo var på plats några gånger och "spisade"&nbsp;</span></div>]]></description>
+		<LookAt>
+			<longitude>18.06631019750251</longitude>
+			<latitude>59.33691554732935</latitude>
+			<altitude>31.22242523878689</altitude>
+			<heading>47.60584856897328</heading>
+			<tilt>55.56983676225893</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>334.5990557686309</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_1EF9E04429136C7D5A36</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMb2tsb3o1eWFKTFpsUjQ1VjV0L1dtdG52R2g0dWNxSnBQM2RFWjh2aDJycGsvVmlXUk9uQng0UmRZZ0xnUnZRV3NQOGZtTTY3RjlROHhyY29QMjJ3Y1F1TDN2NmFKMlhyVUJxSEVVNDhJSEJlM05TVk1Ta2JVVWhMVVVINUY2UitlWW5GMURjd3VYUnAwQ3E5Sjk2amZ3UmpEcDJHd0Y0MmN5VFh1dlNRQnBPbDlkSC9yMWhrejRZUmlsMm50Rm0rcjMzMUVOSy9lK0F6RWlZblc3WldiNFpvL0h1cElIQVovWXRuMmlKRGNjZG9rN3kxMWRZWHhEbXVZRm1ZcnBYYjhDM2M3TTNvMVhJR05HZHhBYzNmclpTLzhqNnc9PQ">
+				<gx:ImageUrl>https://doc-0g-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/kfk5r44arcmilpb4k9k7u615ho/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALpp3x73-n81nIN7TkbZgftzrXx2ds-aRIMfAXX6sqRDf08Abui1gTm5-svU_LzTlaYOKVv8yt1sRe_2RYsdyL5nH0d1f1UPHE37CEG85QYeNLHKHqLWKyq9yDd3BDjB9HyTCIU3vYnDmGL4DFHnEOpXcDPmFXd4BkwZ_4SO_XsHSxpWue2Ym11y2JiAPZUkItSvujPAZpPF8vHUKk9-UeRyrE6eb1wOERF_374SbK78m3Oi0Ckj6T5Ftgdw2WUDi20rleL6PgB8nuPGB4H4ZYJgJAMQ7Q?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMb1BjTWoybFdXS0JEUlo2VDYvWGpLTjJjTFlxVTZOMHU5OWxIUWsvcU4xYVQxUi8rM2RZZXRzYU1EY1RzUnZyUFhwcEEvSktIZHg5T21sblZ6ZXJBSFBleG4zTzBPNFJ5VXhyVnJra0xpVFk1R1NMWEZheXpwaXBqVGp3bFZlS3lPMTVrNjN5NlB4U2NxY2Y2S0crK1Y5Nm1KYXE0aFpHaUl3dk9Uc2UzUk12U1FBWVBXNHVWQWV6Q2c4ZExZNDcyanpJNmRKZXJRN01lZXlVRnFzU2xhSjNlanJMaEVzSUNzRk9hZGljSEdWb2NGY0Q4V1cwd0UrUHU3VkJ1amRFdkNwTXJMeUZ1emhmN0paNkdSaVdsd0FCYVRXZHc9PQ_0">
+				<gx:ImageUrl>https://doc-04-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/rotm3glfocsfn5uqjgjjhoud7c/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALoGGZzoMWSex5_5dvlcmZgLIaQAc8hsUs6_mm2aXf7lORKlsqAZJArBgAqD65cfxkzv42vJ6TzDUDq4Rp-m2NKtRgBQrxyvHgyXkm0LWbSOzac7r4sHMFyv75mhtPdoPclXB1xOPI5ASjo9SuE8cDmlGu9M9Y5r5WypZYGzZ740_qtT_Yw2Yaw31Ub64ocvAOklWQn0Fn1Y75vY12o7L6g8HY_QA2QSxlA_A6y3hAbKPjffQu-uHDGs3Y_T7PmybwPZ5HR2FS9bSP2Fk7KAWNy_-EeZRg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcmFyVmhXbm9HOXdrOS9VS3R3TWFXbkZIOGFuZVRGU1dUb0ZQMm14YXgvbFR5Q2hoSDYwa2RybVE4dGhMeXh6bjNJcU9zdFhIeldXRGcweDAvUkJSdkJJN1RjVzJlTkkrbGdqeWIyVEw2UWFiZ0p5a2xqWExScXNSSUYrTnk2d2dwOE8wS3ZPbDI3KzdvbWsreXNGN2o3elh1N3pnL2x1MDMxOHc5VmhrcE4vb0gxQ0o4eXduNWkwWjNCVDNZVFZlNHFoditITDB5eEJrdUNpV1ljekczNGpxc01oZzJUWitPREM3OThKdHU3U1M2SUNvNXFlb1ZvWVF5OFgxV29lMW9aSHk0UUk0bmVYZU1nSXlDd2VPQXh5TDhrL1E9PQ">
+				<gx:ImageUrl>https://doc-0s-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/0ns9g6d275n0r9q50qmhj95m80/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALqht_inRtG6zVeefapV9X8s1y3O_sCUkyXdRyFVjvgGqM7cGy5ztEw57ZhGG7ascNu-ZOsS16RmcylcI3nBWgZuxS5rdTNgCa83ZwFuNeaESj77QKImZdNcdtFZZ2ZsyT4U7t670PAuwA889X4IfhKdw2UyO7m3o3NjS3n2kVYdpbGts0TyHkjhVz5AsZ5JR6QRY_OyV5GmHb2TSC1SFOvvnYYGNa_FTjrV-PNVevyUSEuWPrQgKNi4cFSPEE9wU8zg6m0hW9ZldSy1JeCep3JNfGBG4Q?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcHZaNXRFQW5Ra3BBRE4vZXNqd2NWclQ3dUhuVVJJZG1USmZLUW8wbFJZZjJ5ZE1UTi84ZVg1SDRGVEtQdUZRSkEyaStKUjdIdG5Ea1o1WE4zNnRqNENDRk41bURVQUE2ZnVZR2tVUURhY0VoblBLUGZCc3ZQNXUvVHpvMnFVYTFoWFBGZ3h2WU1hZFVOUTNrbGVBMGlGTmhKRExLNFppeVVVUkNDRXllYTZ5NC9DdnczTjBuRXJ5ODNMTit1dFZVTytYMEhLWm1YTmZMNjhnK0pBMXRvMWMwbThnaHZQWTdpcUlEaVBNc0hLdVJvelBrbVJ6ZWZUR1JsRE1jdTJ6TVN4dUNYNGNnaGpGSmV5T0xEbTFSVVNNMnRYSnc9PQ_0">
+				<gx:ImageUrl>https://doc-10-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/80pccm0hkgsgt55aqfh65gdlhc/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALrUAQrWNg7oz-6FYXOJiufveK_fiVSclkw_Z8nZfuP3LYqtkTZ1qAAd5jvkrK9v1IXr8RGFLvfST8XYRUMQ3zWiHyXKripYauHlNW2oLN2LbNv9jvS4Eh74IDad16UUbjvWlUrkW9dt66nJXgeef1kn0e4XgYm5y1GDr4IDYLGaonDiK0IByleOoGElv5jzZzro1_CuadkTX8QJkN-V-x7Ym1Yh8w3sjhzzMaAviPfxBf1naO8WkWCIBGCyTcc7sHHc7dWxY4ZTpOiWnDBip0rgzrsHRQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcmRHUFo0b0tYZXpRNjhvT21zKzNteTAxU3BQaHN0bndXQVRyZ2R1R0hvTWFjNjZTbUxnMmxFQWZKWTNIM09aSDdJTmU3bkZ6SW1hcGxOTDh0UkQxaVpYRFJGR1lxUVhLQy84a0xlQzRJeTBGNng0NGQrOTlWK1Fid01zdnRhMnRDTm9XQ1phSk8yRWdBQjd1VWtibjdXK2gxV1J2UkZxV1gvUzgxVVVnWFFsK1JXRlhoWGlrVEdqL08vQ09TOTJsVktDd0JXaVZxdDlLMEpveWZ1djVJQzZTaWxQZ0EvVEJLaWpXL200K1ArcEdQYUZISjlvRjBZRkdlamw3TjhpbkVIRkphN0ZGTE8rMUpSY0U1Z1ZaTlVJb2FJQ3c9PQ">
+				<gx:ImageUrl>https://doc-0k-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/vht8t02jro3olhvmk8kelh91oo/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALrSt-mktoYZn1ytNc9pF9cmsScRpyicKgvlJ7ehOrtgZxrtH0iqSqAmDw5_f0T2iCGrzbYDTDIVmGD5ClEG_N80pTI3wGrFPy4mkGMk0ow1zhkeWD6nEsppW0D6TGGv7OtoNFndtfgCLa6WUppbMqtrIk1gGE6W4qu7a_jkgKIj_HWfpNaSskSXVuaT9deoZqFmY-QvfHNoNuYBIgpOUK3zDmDFJFldetek9r_k6gHdQ2_yGQavRxyrdbbm7UBzN6g9w4S8harl-PbBogb8vlq0LOqGyw?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>18.06771580538938,59.33728439153526,23.7156250785294</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08D5015D7413066B5021">
+		<name>* Nytorgsgatan 15 (1893)</name>
+		<description><![CDATA[<div><div><div><div>Sjömannen Gustaf G. Palmgren bor på adress Nytorgsgatan 15, Kv Sandbacken Mindre 5,&nbsp; <br></div><div>&nbsp;okt 1892 - 1893 .&nbsp; Han är 25 år&nbsp;och inneboende hos&nbsp; en bagare Nilsson.&nbsp; &nbsp;<br></div><div><br></div></div><div><span>Bageri Oscar Nilsson &nbsp;låg på Nytorgsgatan 15&nbsp; och fanns på denna adress från 1880-talet fram till slutet av 1920-talet.</span><br></div><div><span><br>Miljön var troligen densamma som på Mäster Mikaels gata som ligger i&nbsp; nästa kvarter<br><br></span>Skyltar från bageri Oscar Nilsson</div></div><dl><dt tabindex="0"><span>Tid&nbsp;&nbsp;</span>1880 - 1900<br></dt><dt tabindex="0">En är flätad, den andra slät. På bägge sidorna av kringlorna står det skrivet "Oscar Nilsson" med svarta bokstäver.&nbsp;&nbsp;<span>Skyltarna köptes in till Stadsmuseet 1935.</span><br></dt></dl><div><br></div></div><div><br></div>]]></description>
+		<gx:mid>/g/11b8ydh_0z</gx:mid>
+		<gx:fid>0x465f77f97ad77fe7:0xf6886bc071fbafc2</gx:fid>
+		<LookAt>
+			<longitude>18.0809198</longitude>
+			<latitude>59.31657509999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>507.4953450130026</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EF95CDE07136C7D5A38</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcGVuSWhkY2RRRDJVZkIyNW1uVHhVRzNTVGVNenVWNnJhV01hL1lTZWoxc0MrWXlQVTNsVkM1U3BJTE9JdkZsSnFlREJEWXZkTzdDd3RpREVKZlBBNUJaVlJTV2xMZHFFZE5oZWtOVUxEYmFHajUvTDBBTXJsaUJkY1BseGVXZUJETWxVOFZwTkxTWmtkd1RvK2FZdm4xc1hVd2NiTVo5REpIK3ZXNHIzeXAwLzFFWTZUaUoyemZvVHNod3RtU1BxWVdJZlFaSXBPYUNES0NjdEtwUGVLZk0xOEFydHhIY0RoYkxXRWFLdDVOMTlLL0VuVzJWMVF0ZitXSGtaalpRMDZCekpuNGxkaWZORjU5bW93VnVwRHExRmdOaHc9PQ">
+				<gx:ImageUrl>https://doc-0g-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/t96rvtufodrimeihesjjh285js/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALpssa4TQALIk0acVekWJsUCJUpA1kTyCuzBIlK7JZbOf3ft5B9HR6ue_dIqW45pP0SDnff2saC6x7CVX3utkJiYn6IIEIcSWZICeTC1MPnLJQRXkbGsKuhv_jNspJhnn-kcM5zT8abHU_5ivjorp2ywNs6fi45128ZfHlyEpAb11GOcbFviXDvvIsIgYguFzjXo22ICSa6uKY7TxHiLFlzbom8wTn-h3jK2zFWDoMwHV4iEd_uOX6774_R44bC3Ujg2Kl9TDIAn2cVfOJ7ugrtP44TbVw?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcHJrRm5ERmYxTG03WGZ1WFVGNGZ4ZEpZV25tWVp5UVcrbWowZldEcmp4UDhKK3o0L1liOUNrb0RZeVF2Y3pUNWYzcEF6K016QUs5Tmg2NmZadkF6eFFpOS9Lc09hVThJV1p1RFlxYWR6MDR6MTZmc0h6UnY0S3lZRm5XT2IvdUw0UTBpZXVTZ1RJS2xNUHhYeklpeE4wc1IxQWxFT3JnUndXdlArMzBaaGRyaEhHOTY2U3FheEp4bEF6eGp4aHRZanJITU41V0NmanE5elpzcFh0enRBeGlad1U3T2NwUmF0N3JQY0VKOURzMHJ6TFYrcXJ1YXlaVzMvRDFSNWV2dGdYT1lGRDVEVmJqdElZeUhzd0ZBdjRxNWNBaEE9PQ_0">
+				<gx:ImageUrl>https://doc-0o-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/feqo5ti7mhetbfnft75q271dos/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALr8C7ejzaopACqqvM_iWmT_zYJ26M4iSyPMdEyPrg_zjlEPxPbMKPtkc30SUoF_ogZWHoqJBjHZ043zI8bgI01a3Myf9PwL8qUxhkfHiALjgQHidVDvJhblvEOmpJp9XDqOkyV0-HfIDPKmPt82JmIbX0yCO1cKuuySOyOYh9QQ4x-if8R8RKZLrlZjf-fokCwMlIVPloCr4hq3oVPCBuDUq4BaTC4ACyPAGxVDbuzNaulPVB8IPD85Q9eu6R-qFPzL0IYii-q2v1lZuMiQU-UGMllrNw?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMb1ExTFc2b09sd0JBaDJDblloWDQ0dkNCUWRwNlVXZW8vWEw0d1ZpMVZkSWJOaG9CeDhVOHhHL2VreTBFYUc4b09VeDNCUkNsWllxcTF3em8wUWtITWF5Z09EMU1oUGQrY25MYlhOdHZpOVFaOHpjbnBqQTAvdGpVWFY1aGVkZnhKSmpoeE1uUWNxMmRlY0grVWdYNTY5QzRJMGUyaVZCNUFwVWVEOE9uRGxFOU9XcXMzdEkvT1ZaNTJRYVFLTHRIYmJucVZEVUVGMVFHRytHVHNWSFdxQlAzblkzZmNWY2hWWDlGZE1hdW1uUnFvS0JKMVpSK3J0eks2WUkyaTNsRG4rWVNXMVVLUUtqZGFzeW5hWnhGc3NJTXJ5dHc9PQ">
+				<gx:ImageUrl>https://doc-0o-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/3mu6r1hta2fj8k0geplqvil568/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALrFa_wo3FFOzAizrQB2s0F1TVsY4EExPaCGpUTRdAldTBwyhtRZ7eDweN1ONTyE69vsGAyURn3I7eavfS6V1l1W1Ko41xdPZ7b2xNcoClqloy6a2Exrt6Q4QnoZlUtCEVwN1ac_iCdQwMMX-s3fWalxnue1YpX6iK5FLVF6Irkcm1PYIfP6LiRE9EGcCe8XhTgZCKUTvL1Mcj-XzfwrG6Vg7DvP-wOMQrT7CAPNlCTHU9yXf2a2x0j536oWtyIi87neYH-2Z6OV402kZY1s3zr1T_BaLA?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcDZENlNwb3o1TGxsSERFYVUrbEVndUErTE9CbndWbThuelNzNitqVncyTVpSdlU0Qld4QmZUaVd4b2FZUU5mdmNTWmdlaFhmRXVCZ1dLTGFQWlNNZmlnU0FpNEJBNVVPL28xV2dkenh3eVVRaCtkb3paZW9EU3VpQWUwZS85emlmR2QxelhaUHZHRWFISFFZZi8wOWxXQ0tjbTdwNWJWRGFlbUw3eFA4eFFUejFvekJYS1hBQ0FvZm1vU3BRZVo0dzI4WGExamhlSlR2RzdLdjh5UHVGNWFOSHArN1pnbGN3K3FhK2JGRWp6ZmpvMzk2aXZmRHFrUSswSDB6UFdtR21BeUVLNmcyQ0QrMjBMYnBVOGl5YXY1ZWc4U0E9PQ_0">
+				<gx:ImageUrl>https://doc-0k-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/c4ka9012kpfkev4f1hoj996im0/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALrY2541X7k0i8zYCSv2FBT8zXP7wzUxTXq6EbLSxkqs5JdYdsbAohpvwMu2FOJSeXtGeW67LrUVZxgBAnGCDbLdODWzGZ60m-oqxezdhZfpbx1UiOVlYYtNt5sERR24PGxQBNBacn6ALfeBmtRYpiPO7645jMZ96AcZ1-mbGbnhJboMer1wonpogct1jLC6t9WLUnE4M6mhLx2-wtnSJjloDxk1_JxDJCtFZ5rAGv01fa_RU-W73IWNLm_nH9MmTDG9W2CNqxZa8eIqoaaI0wE7SDYMBA?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcjdaSXNEb3Z5dGNoSTJVOTdXa1ZaTkRGcjdOeUVNbGhBeFNQOWtHeVo1U25ING5HVk41V0FGamc5WGM3b0VMTnE1VXNBV3FZUmZjc1lQYThGVXc2UU1iRkxQaVAyKzZRNHQ0aW5LRTkrZ2MwZk9FZTJWVnY2cjR1RDllbWYrUVR1L3ZXVWloUVNrbjlRM2pLUWN0dFNZK3FFZEk5ZlptelNpNU1ENjRrcUVSM1VCTExESGc3Tk15WEpHek1hWkE3YWRrbVovSWt4emFDSjRyUEdWK3RFQnZDTHd3TTMxNEdNTnEzRjRZZUNVT2VQT2U4WEhlSTYwMGtMMG04aDJNanlCOStWeGNBbERYcHFsbGJoWVBhOHRuNDZvdHc9PQ">
+				<gx:ImageUrl>https://doc-0k-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/l7nt3relm35cnuvjnra3ls4nm8/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALoS3PRLZvB3dFn4Wx9jwvXSrvX8yXYaD-x7L0Txj9m8qXm0k7zDlcpk-ofMR8YDgH3MuqXuU0-Zk04cX8HUWQBIxaHcj5mm66a5QaAC1BGo6Huxek3M7Ci3qLXsmP33M2pr7yTpm8Xn5ktILBBAXjhdUJi0VGfABpPCht--AanIFAu1BNSwBfwAc-db8by-V94k8IlNzfCcWPxZkmt3oZQdyLRpcl-NXQnWgrdH_0z3PQEpo59MMf2wDr3n-e1lbQhHXzzJYX58EQF7yb79u3pd-Y5Zwg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>18.0809198,59.31657509999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="002E0DE1CD13212B4FCA">
+		<name>^ Lilla Vattugatan 11 (1885).</name>
+		<description><![CDATA[<div>Gustaf Gabriel Palmgren&nbsp; är snickarlärling hos en snickarmästare på adressen&nbsp; Vattugatan 11, nära Brunkebergstorg .<br></div><div><br></div><div>Nästa lärlingsplats för&nbsp;&nbsp;<span>Gustaf blir&nbsp; Wexiö, Kronobergs län där han bor något år och är snickarlärling och återkommer som snickargesäll tillbaka till Klara.</span><br></div>]]></description>
+		<gx:mid>/g/11dykmy07</gx:mid>
+		<gx:fid>0x465f9d5eed62abdd:0x10199ca5993d9c52</gx:fid>
+		<LookAt>
+			<longitude>18.06679051388494</longitude>
+			<latitude>59.32967577754194</latitude>
+			<altitude>25.65201980628941</altitude>
+			<heading>17.70654720925861</heading>
+			<tilt>36.73066629249564</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>212.4519482626783</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_1EF9E04429136C7D5A36</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMb2hrVU1qZE9wNmFLeU1LSlRIMDFTVHZkZlNUU2pQenJkWElqRGRBaUpTY0ZjOWhHOCtrakFYUklhYTQ4cHhlNFppUG8ydHN3cHlMQUxMV2xBRTFZQUl3SGhiVTBYSkdZNXYzVkN0bTg0T3pCNFYrNDlDMnNHdHBsV2gzRjc3OXlZV0FmM2tHekZFUjNWb0lUcnRhSEVndmw5dk1rK1N3M0Jsekw0VDdQeCtRdmxOc2Mxd3RrTnJFTENOeWg0ZzExQXk0YjlCcW9LWmx6Sm9Zc09BNnd6c0xrVzdrMTBvMzhOZGZsWFA4S3hibmUydkRIQVNZK2dYdXhEZVpxcVdwd08yWUlKcHlHa1JodUFvazNBdzZGTXU4em1MZUE9PQ_0">
+				<gx:ImageUrl>https://doc-14-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/aebbvvmt8r9cfdn6urgeqo9phg/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALoxplUa56e6Qa_-D3A2Cqw6PK05IzA9yTeLzLjDVjA_vP8rt3pmtXjdLQ5RbovAniJfVgqozc6wP01UaQ0nueZb-92KSRBll21CptYOuTPzicpHLJ68AC_W4yp3fj703vDEfF5ugAttSjgS54lJ68Ndrdrp809zYKeV73Fx3To8Xg2K3RB1kYWl-qUdqvc03nh8_j0vZiylZN98w7uvyeV9kbV0DKljesSNWQHhAjQM6sOmOGu0WQnrlc-IZchRehQpodSGY9r-vYofMUhQDsijEVPtCw?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcUJMNDlXcTVCR0xjY3k0c3N4U3Zjb25GSWgrdkgxalJyanc1YUR1TUdYMklHdWsxaGlLZUUrNWM0aHB3VmF1aUdpdjZ1OGJ0c2c1UUxiM1lHbngycUNNcnQrd1o3YVhNbnJwZ2tCWE5YSjBVOVhrT3IrY3o0THh5UXFhOVVMZnlZYzJSNXhTdDNyaHQrekN5V2tHRG1UL3NkVVJFV0hWcFYzSGdBdmxWSCtOQlJQZzVYSEVacXR1ZDlHRDEvSkgvaEJSVUhBRWNtWTlOcjRLT1JkSnZ2eDhtSWxqeWc4R2NPcmJwOHpqTzRmQzFOZGxQSFNzbTdSdzVRcDFZdmRJY1djeThxWlNpcDZrSk9ud09QRW12M1NSOUFJVEE9PQ">
+				<gx:ImageUrl>https://doc-0k-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/440ombefrudcb0tekjir65dap8/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALodwdIHas8XtPKloeF2hnsK838IdlBudaQv-wJtvbkHVg47045-zsyN_cK38hGGfYWFpw897x5Q57LMdLMrNM3zNsEtOEAa8cVYQ-KnY_kbc5E74ES9bYXs17YlirKh_JIOIVbOunnYKQpcp2Pqb_BMazsOi5mIXAr94EUQuGB0aJeve4i1KahSZ8i-usd96_yHEWjdIgkqk4DOEz6xATZUC7kGOjQkfcKckwejSaydBwlchYOKcYakhtMau7ZaU-VWbM13uB6uh-Fo7_dEjEVzdEIn1A?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcVZUWHF2OTJkVi9mV3BjL0Z3NlB1MTZ4NC9ZZXd1SitQd08wYmxDYXBkUk1UTFQ0MjRidHZUVFFOdGNpTkRCZEZnKzhYOVV5ME82NWNoRE5Menc2VXV3OUJtWW4vTFhsbWN0SndheVQ4MXNKSXNnTFRBeFQrUHZRaGZCSzhZYjF6ci9VTStlejF1ZWFGYktERmY1bmh0VHVVRlV3czNZUi9CMHVOeUF1TW9nbm9NQStPMG9hQnpLdEYxdzlnbjQwWFVmV1dkRWhzTGwvRTNlanZ4SmRYbUVrRXFjQUFDTTMzM2tVTXpQRVZxWGlCcXNXeHhrdTVjWituYzZkcS9BcTk4NG1rZkZJOVZTd1QwMU4zeDJUN1JPTUxJSXc9PQ_0">
+				<gx:ImageUrl>https://doc-10-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/4uf329jd4eokjkgram3rksedrs/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALq2xyvMHR3-a7-MIXb6ruXSOnDbc9A_V8y43Nh5W-x2IVFAGYBfXS-nRsCbs17AMcgdt1aU2QX2QuQihaq5rKwlBhlG75UcCPE7k7MWlP7o1ALD5qTUSfbuq2ozgEN-4siA_D5jkU7eN50j_uoS3ETWu0tW-nAaiJvRp1UJt4OtMdQSYy2QXOsTwGJLGqWvgdXs_8ulrnwzzetopZqj0dfSxoZNZkaKbDtN34S3wig5RxplvFLRKJaWUmtltFpkrznLwQaafzTkZTD2W5x9wxvbdIYSmQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcCtPeGR1VHdGZlhBQ214dzZYclVJOE10dHRIZHVLSEJ1aXRrNXAyWmI5OFBWK25jTkQ5YVd4WDJHaC9Jem1TNmIvaXlZZUllUThaRGx2Rkl2d05Fb3NrdXNoK1NaTlJCcmVmWHlnSHYxQzNlbExzRUYrV3g0KzNVaURwL1lmZ25vYnl2TjF1c0pucHRNdFlwYmJYYkQ2aUhjWVMxWFdHaXhYR215NGF3TlBVbERyQi9kbGVtUGY2NkpPcUJLcENrYVZ1UzVldUtraVM1UjFlc3hLc1NzcmV1WWJNVmtkbjdxRjVDNXlYUm1Mc1ZDSCtwcEt3dGhkWjJLWmFRc1pIUERwcGt2MDhzNVFySjJ0bEdwNmwxVVpXTGU5S3c9PQ">
+				<gx:ImageUrl>https://doc-00-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/2q9igo3ntiopjk53d4v2l9qp98/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALp_lcSEdf1kHWCYk-TB3fAGmxu6myvK-zHEFGAKJJ2O6E1fZzg-_Q09s9wEpdQcLARpo9fZCpx40qJeQkmuD599QBQ0hM8IVqzfviU7ysgs17bdBrE5JARTV80qtFV7hQiBMr4qq6CCRjKetp25T0kStqKs0Edfs0Qh43jzAnljicsjRLRs6eBaEIL16ikl3XyTDKgdSa3hDASC-jS7woRVI7adE2TkjnnqrysS0bjDZu7OMYId1Fs74AYem-DMuGBV8UUXYPueC8G2gcs9YYGMc0anPw?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>18.06679152450083,59.32976126826399,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="020FE604C81321376EF5">
+		<name>^ Snickeriverkstad  i  Växjö. (1886)</name>
+		<description><![CDATA[<p><b><span>Gustaf Gabriel </span></b><span>är  18 år och flyttar som </span><b><span>Snickarlärling</span></b><span> till Växjö tillsammans med &nbsp;Snickeriidkare&nbsp;Sven Johansson Palmér från Klara,. Palmér startar ett snickeri på Norrgatn&nbsp; i Växjö .Gustaf Gabriel&nbsp; blir kvar i snickeriet&nbsp; i Växjö 1 år.</span><br></p><div><span><br>Han flyttar efter att 
+uttagit flytt attest, till Kungsholmen, Stockholm 13/5 1887.</span></div><div><span>Han betecknas nu  som </span><b><span>Snickargesäll </span></b><br></div><div><br></div>]]></description>
+		<gx:mid>/m/03zv5y</gx:mid>
+		<gx:fid>0x4657233e2a335579:0x400fef341e48fe0</gx:fid>
+		<LookAt>
+			<longitude>14.80900905394993</longitude>
+			<latitude>56.87928414770153</latitude>
+			<altitude>173.2662399952186</altitude>
+			<heading>-1.270750809320663</heading>
+			<tilt>60.1413479485323</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1185.220753398462</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09B781AF67136C7D5A35</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMb2RibXJvSmU2NnU4RTk4dUVQWS95V3h2YUxBK0ZpNGJCK2wyNzBkY29FeTBJU3Z0dU9ReEw0U1ZFZ2E4SzhaMHBGWEZiYnZWV1JoLzRyWitxaWtyNWgvMFFRblU1U05Sd2RlZDRNY2k3VlVjZzFHOGdFQXdycHo5NXBzazZNZ1JoVU5pNkI2T1ZOQ1I5U1VGWXlaTjBmajhNN3pvWmVWalVlMit5R2w3dWtqcWExZEZqOE1VcTBQSW5TbHllUGJlMGlKS0t4UE9BTS9BOCsrRlhhQ1p4U0UxNExQWUgxMWRTaVVvaHJ3TnA4Zkp4bllXU2IvZWxqUE1sRGZhZzY2VXJjZWdpcXc1NkVKcGxTU0lrcUd6a2RUelhtYWc9PQ_0">
+				<gx:ImageUrl>https://doc-0k-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/qdgdbr4osil0rh0a2hgtusgtdg/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALqusiyEJGYfHjnVTpn1KFU-28qxzXQIvvIkSyPkVz0bVyiTyE5e7bXYM_-FjXi9kQTG7gUdzgZqHYQgoTZF0a33MNiTKpZq9sYThM4arrsEu43KgmJUlcTc3T3xecMhT6Uox-gFac-aN7E_DGi2HCEhXqrlB82j7ZeHOjNNxtVN3YDflzYfzUF-2Ma-6cnbt9wrammSzefxPHYCb7Mm8yYE4fZNoH0ENvSvE0HU1e5EDyhsyZ4wSx8hm_wGO7iqdoal2dAu9iPzHAiPV4Yp7tj3x4Igpg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcE1SSHAvMHA4eUJtMmNGQ1ZXcW5aZnh4bmVVd2FGemxoSmV6ZC9Kdm5mMERxVFpXOTNjdVRGOXdHNmo4MURtemFMNnhJZHhVWFBQVWV0aGRZQS9zOFNMVHJzRXZiWWtCRWJEVUR3WWliVFpQd29ZUlcvaHRRcVJsR2tBcVdnVGYwYTZWWkgvVUVPZ2NWUkF6VFZNWmxMM2tUUm5QK3BrSjlYTFVBd0c5Q3h0Z24vb1VGK09jSk03Uzl4TVpEcnpscTMyOEpiS2xXUFkzdlZHU0dpN3JDTDVDOUVhNnpOWEpjeVpHdnlpTDc1N3ZZVWRRYkRibmpXeUdvMEh4eHRqbEd0QUJSbFFpQ2JhZHVEN1VjbStFZ0FUbkVOelE9PQ">
+				<gx:ImageUrl>https://doc-10-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/2qi745tpumgmjjro6j8rtv91r8/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALrzlZzIUoqbSj6g51BCpqxD47mLqCUjPyCU8T5rVafFlz3JCskA-xv2OK_Wj3pplS_y5eMYn6wpWLBa1QuuoD5SPzZzTpg8grZFO6w5t6EFUrXWAjjwAeoW_pxzW2Ebl1lPwzdhDhkBqCns_UsPtzEBjtJzXopsu6XRjyt0A0oIjulONYphUIG4DgW2CpA48iNdudod2cIyu2rL4DaX3fOFxJSDonjroCjOMXpjYyPtwZlUDpOU7iZ8fDuweJi9c7bOEdbdHn3UA40OZy0mRz0ZvKepWQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>14.8058523,56.8790044,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E13AB68A2130687A887">
+		<name>* Fjällgatan 25 (1893)</name>
+		<description><![CDATA[<div>Gustaf Gabriel Palmgren hyr bostad med adress Fjällgatan 25 år 1893.<br></div>]]></description>
+		<gx:mid>/g/11csm8wdb7</gx:mid>
+		<gx:fid>0x465f77f93061b59d:0x2abecd9770b27469</gx:fid>
+		<LookAt>
+			<longitude>18.08308063509148</longitude>
+			<latitude>59.31953649086716</latitude>
+			<altitude>-0.4072868043923639</altitude>
+			<heading>-3.071416361330704</heading>
+			<tilt>27.05816161432187</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1596.828124723106</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E0BF901CE136C7D5A39</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcUJ2ZTdsV291SUJjTUtabXQwVmMvbnhkT2Q1TGNUdStZNzBoblhWcDNDaXA0bnd6aUc0MXFMbnZ6WEdOVkRHdFBKWGVvZHpQeUlWeTNWMEdOeEJ6cGVPK2tLSXQyek5qdjNpSnJzOEZnVkVHRHRIb2UzUnNRTTc1ckwxa0ViNUIwRUxGdWIzbmFFZVdoMlhxNzRVYzBsSndIY2taQk1kVDNKZFdpSWY4WVhSdENlUHhod3lmZlFUY1RZcDlydnZ0TDh0Q005eGxWNk0xOWxucngvV2FjR0ZUanQxV1ZsRVA2K2lNaFhXSWJ4VjlVQkdocmtjdUNkRXZvbTR5WkpBUk9FUXR1NHJJODdPbGk5dXpXZG9LSFR1YUpHQWc9PQ_0">
+				<gx:ImageUrl>https://doc-0o-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/9f8kmrav59ldkpbbo5gr9obojs/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALo9uor6jNW4VEsBshd0pGXVhpxCoUGPZU4BbYLPAoxQY3a_oZVNCIl2Hbk1HVYM2WulaGee8FVuE7Bi2rV2dPjBIBzhbX-g8h9SMaDQ_Rx15EEW3cR26O-36m1vTJjp-nPfPWFwPX91JmB0saahC_15GNA0JwC64ukbdNn1sDKgfMFDrrLEnJ13SO-0ZIJ43eplEhtFkXP1U2dtju0hktJcx53btCSEdjk5R9bSQJZAkOefbjsK6JzfL6-TUcYMp8WkZtZ_0e4qLiQiRCx4B8oF_vD1-w?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMbzFUMEF2MnFMMVc1ZWN4dlRFcE16enVkMDlvNmJYN3BBMDhtYUFDRUQ2LzZJb0kybUhDWmxzSmdEZWNpSnV2RVZONjQzWXdOQmdvbFJ4cVFNWkxtVnRuR2J4Zjc4Q0JycC9uQmhJMVEyVUpyZUNuVEx5MWJ1ZGhCYnN5MzNIaXhKZzhwbzhGUSsrNGZDUXFMYXdHM2VadVJaeW5DNmVlclBSUkdYWXpLQlhHV1JoVVc5T0pwUnV0SHBxM3l1cmJSUmlIUC9KcC93d2JzS1FGYnBNM0NKYXdzL3UzZjNuUUJ3RkFjdHlTN3grTDhPQnFHMWIrckxoNzNSREpqcEJBd29xMXZWNjhyUHVqdFJTcmk0Y2kyc0hldVhHNmc9PQ">
+				<gx:ImageUrl>https://doc-0s-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/ll7a50nrkhkiedg440m9o7ck04/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALoxgaedYJZh_ZrkkA_bRX2r7GH-WY4g4l1LTQtCd6wzAl0GYM59ezukqOdYq4dClO26QPmTJI2s0gyzuOmgaqxq4d5kUEOTP1_LH6uOMy4v5Hg1aub8Up05zk-CF36ayDUdkp4njwX8wivlvgZHBePCFzYzovprU8zXuRHWL0HveKDAwnp9Uc4sFfwsGAstpuDU-E3gfXfvtmxW3Pyj-BpNDPFjpq_BYA18evoIElMn-zFF0v4epWFJAfzxhstzqoxy42q86lOIKrkZ-YZbRNX9ACYxVQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcEtsSHJVSDRMYVA4WE4xeXR0eU9uYW53TDVveEpzSnB1TzUzNy9wUUN4L1EwZzZuMnRwSUNUeERjSlZSdkhxQ0lGemtEa1ZlZitjWDIrdlVEajQ4Mjc4L1dQOGxnaU9nMzVqSnQxMng3SGswWVlmR2JlY3BMeDlVN1FOUUY0KzRJWHR6c1R6VDdZT2dCdjFwU0JBbGhjMWd5bnFyN0tXbDhGOWFVOGo0Y0hNb2VTNWdqRXlTQmFtWEJXV2VPSENXcXdIZGJpcGJFTjJpQ0lpRkZJUkpvRmI4WVBzbG9VNmhDOGFZcWtlZERiejJaeXBNRTBtRVk3eWpMa1krSjlVbjJUYnRYN2w2K0xmQ3pudWpBTjRieWNTRERaR3c9PQ_0">
+				<gx:ImageUrl>https://doc-00-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/rl5s6ogrju1bkgtst67s3b6omo/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALoGmz6ZZdjrRssv7VI0SH8WzI7X7WvgQSRkl8E1Th8fDVaRA5lHaSuK-XYXb7eIWbcQGpoUZLEZZVWbTa1j8wc7r8LMXOPwXEuUHjd7HL9LoP-dmuBhoqHu749G9eoaw6ZdicZ0urxuQ0R6155t_STh-VL_Rwja5Px-njms8x9Mh7XdX9owA-WYSP-B8XlYpYovyc_cbPBA6DWRaUfJ3TEpyI8-rvGHNdx_OKJ8ZbMzuWuz7abIphOTHuUreIaeZApwLa_o2RuVpVyDF_gZRvopGDZAIA?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcjUzTWZRM3BISng5d043MjdQMTE5ZEVaaFc4K3o4VXR4eVhFUXhNM1NBRkRCQ2hWUnRNVDlpZXBFa2FzckRhMFJ2RGJyU3ZWM0NRSGZDeFpWTnNpRkZxWXlDTExvQjllZDBhL3hnNFBDMkRReVRlMHV6YWFnUDI5U3lqeUZPNXJpaHN5KytpVitoN0NkVlFJMklwak50NnRrME9Kc0ExbmRzcnE2U1JMWmY1MWlnSTBWZElhUWhqQWVTOU10RjNHR0h0WDVvOEs3Z2JpczhWcmNWWnVNbWFUMGtDeDhCZFprd0ZCSzdUWmRGb3dXZnBOVGUzN2FPRXZKaTZRcG8vc1o2b25FMVR1bU43dFRqeHRzSWtUbE0vbW91VUE9PQ">
+				<gx:ImageUrl>https://doc-04-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/uuaaj2fm811c94udimf1p0ukr4/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALrluHMGURJx5jstXBUUjzGhkeyTDrzsGZzNPPyapDw8PiFUdrY81au_cIMSi9a0vJTscyDQm6_r5eVAAEXHLNBvBKNymmC4SWD4VYtjYjx1603qjYZ0L6VkQjLVlkZPpoipm6ChDeYK9bFCE40vjBn-pnLravLKrG8Nk_ISyvKWSAE4y2hpiIgUauRY0ALrw-n9aShuw1kkjiJ3bEVplxDdJStI9KEjMbI1GJEZUDLahVd7ogBS4EimezFFls4KcCezjoGigPJ1UehrvSx_JOn18jVtig?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>18.08562971928091,59.31746395013507,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07FD2F257B1306588233">
+		<name>* Fjällgatan 41 (1894 -1901)</name>
+		<description><![CDATA[<div>Kvarteret Stenbodarna Mindre<br></div><div><br></div><div>Gustaf Gabriel Palmgren bodde i huset Fjällgatan 41 1893 - 1901. Under den perioden läste Gustaf G. till Styrman/Sjökapten på Navigationsskolan och tidvis gjorde han praktik till sjöss på flera olika fartyg.<br></div><div><br></div><div><div>Under några år bor även hans mamma Hanna Nilsson i samma lägenhet som sonen.&nbsp; Enl. notering vistas Gustaf i Stockholm våren 1895 sedan på Sjöresa<br></div><div><br></div><div>Är 1901 är han nygift och bosatt på Folkungagatan 8b ( äldre numrering)<br></div></div><div><br></div><div>Fastigheten lämnar 1903 plats för&nbsp; den utvidgade Stadsgården och i dag finns inga spår kvar.<br></div><div><br></div><div><br></div><div><a href="https://stockholmskallan.stockholm.se/post/7045" target="_blank">stockholmskallan.stockholm.se/post/7045</a><br></div>]]></description>
+		<LookAt>
+			<longitude>18.08851612528878</longitude>
+			<latitude>59.31602410531226</latitude>
+			<altitude>44.2558291745482</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>821.1396985338069</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05324BA200136C7D5A3A</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcHpEME5XcHdSUUhmMk5Sa25leXlSbTdtR2Q4N0p4UEFFZG1sTkUzRlJ2OGhLSzVsMDdKM1VQZndsRnBMNVFVUk95QWovVjFzenR0aExaeWZ2NmczRnRWSFNiN3h0OWVVR0pIWDdQNDBWZTB5T0tYeUtrZXZ3VFB0eEFzNWMxSWJSanBPMkwyWk90dGVzSVYyV0o3anVvTDlYZEsyWVZOaVNkUjZyd1ZzbVo2OFVTeUEwbVU5K0Z1blhReFBxK3AvTXg2NmwwM0pRbUR0T0ZtakN5NGJwZkx2a1FQYmZPQzFLaHQyUWdqeDBMTjh1cUYwa1F5MFhWSlhkbjFRQ2hIR3ZxYzRrUXJZcHd6OG1xSXhRbk1lOU1IQkRFc1E9PQ_0">
+				<gx:ImageUrl>https://doc-08-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/jtf9g5qqmut0j85dfdgmqbsagk/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALqqCLUtRvrsduxhQd9Yb4qsaO681VwrovPACw3ALKnsLWsTD8bMLcHhEAe5c_YTO1U_rzX8JekUy32LSJl46StLgCmFYxQ7oFAl3ldtf9LSud4Upgah7Y1k0vAuk5_bVgpUVDqHjQwmd7M-YP4iJcWFxbtBmz9nuvrIN5hkaAZp_DYEuPSBP30IYdxSL5Is_12rl2k2aD4a5rqRgeougwmKoShY0Uzvt9bE4Yo0PUS1bq5np1HrSyu_R07nq5UT8zB9cHAlEm-lJbXKkFmqR-j5nrkhHA?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMb2ZJWmlYMUsvRjlWNlNjdjVPeG5hdEE2V29YeDNlaHBOR21DTWt2SGRGcjJtZkRDQ1BqVkx3bDJTUFBnN2pJbVJycm90NmFWQTZ6bzBrWDd6L3VHRXc5eEVEeFp2VlFCMzBSd0RQcUR1VmdaMUd5OU0yNndmM3RIOFBod2k2RHRUcUVqSERtV3dSUldDVlNYQ255aTRzcGc3TGhEY2FKWTBUZE53YklqUVFyODFVcGswRkhuaEJnS001ZXQzYWFva0dQd1BnV1lMUE5OaGlNUlRIM0pCcFJ1SW10R0tEOWZWQlNqQ1NuS1RmNWNna0Q1SGcrcENvd2s4WDJlM3dCRGhMZDViSUVwaHJrTFo1MXJrVXhFNk40Vm16UWc9PQ">
+				<gx:ImageUrl>https://doc-0c-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/8hjar0m4kjo81jlmoqvuvnsgmo/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALpow1cgzPu9qOJsaSjjiwQdUr2CYn0Xgr7Gp_vOUX0Dq7cnj11IXSYdmKjhivRCXvic2D2Qmc-DrEj5lc8DUYLuQ6b1VSJkn3dj4siRZKEoeb5oe2GNzWhkJn8qFn--N1XrbJRNdQAIpooResn-bWBO6J_6CNfalR7MlYKFCSSpu_IkV_SEG_dnpPiLppuvdVL3ax8ow-X3v5lC8XjUhd7peFPB7gvS3co2CWtoZwPBBmEiZWWrbaa8800nWoRMHQSoLeV6DtRhxndrxsXHzeOAq1_kfg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcWNidHNFLzIwczRxd0tQRW5FcUN5Q3p0eXlkdk4xT1BSZWxPdUJOSGsxMTg0L3JKTUk1cHhhQlJZUk0rTmxON2ZhTWEvSG12RVNPUGt4bUdCMUQyM29CeVRQdjEvRmZkaThvZnlLL3J6WmFFVTlXWWlKaU9KUTkyQXMzbUJ1Q0FsQ3M1QTc1TmdSa3V2SjZqR0EzUkIxSHBvQVVGTWJlSk1JVWhyNHZELzVhOXpqUm50MXNYS0grYzJTOUJDTEhLejNiQ1J0a3ZRUCswVlVITUV3a25vZlM5Unh5VkNabDNYcnViSnFoNDdOVjkrd0FGRFdpRkFldTJlWkRXMSsxTjFnSTBBNlgzT0lUVXAwZGtOem1aVGs3SjEzalE9PQ_0">
+				<gx:ImageUrl>https://doc-04-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/25dc4pftoatvr6nu4343gsbmts/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALrQmDFEy0WHEtJvjKgS6JO0CbTJJ2EACebT5DerGVEUqVhil1wV_rY-CQItr-7_8PSEVhfhU4rSM270XHc_NZHMqjKuxEDBrPYG8Sbf4g8FSuXm6760XQ3Vex22Wv1temPv9m1KzCKmYWuvfS5EKBkd6awZXiD_pmzSnoPSWcL1BCopgN0Z1PcKtcNOsGbdqA5djPwqoKs4YztScFr9-Q747bF5vkKZV-rE1tBMJDu2vAAOGFrwfh3oUwTVFLsVhaFTLeJRfT-zOPnZyfOvmkfcVV0K5Q?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcEh5T3FGTjFTT2gvSGFoeFU1elREYUMzOXBvdmIxdjlGbFo3bVVReUhsdGk4Vk5HOGM4NzA1UmUvRVFVTFlPclNhSmxVbkZrcnN4c2grMC9ZdkpKZ1VPM0g5TWZYMzRnWUhLcGVlWnBxb0l2eU9maWkvWVhOMzdyUThINTJ0WnFsSmRaVmQwbmtIMncyMnh2Rkk3c01ocnFrS05PcTY1QU53ZlhWR0IwWncwLzhGLzFhMWxQeVBtV01jdWdnYlZWaVQ0SC9TdGpnNzlBRWVNTUcxM24ySndNckNPcDZUQUpOcUt6Q0JFQ1FsdDIxZjNIbGZTRDgyL3NodDF4U1RKTWozOW5KR0kyVnBXRkViOW5kUVcwZ3J3VENnUHc9PQ">
+				<gx:ImageUrl>https://doc-0o-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/34l557gk1n6s9e1o7fani8cgk0/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALpAcahQ7jXUmrCHlbrsL82fXStZ3XV-jSunPbkz6tnw040jT_fTAhAixICutaElmt4dtZUI6zwGWJL1526XUViTEVLBo23liQBz3fFMmR9n_byiArFeUdH7W1R6mi2bmmTHdCo5ysv9RKgCO4LS0y9VN-l3mjwh3QqqV2EkbfgUz3M7Jww33_Uzvuu6wOZyBdqHUnn7N62aBuir-kjVwKeGfAZlc3J8doVh2HRO8TkAuzUDfvO3hta23i4RAly_kVXUKnrXP8BP9Q1lO0RkeTkkLJ8tsw?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMb3pEMnJoS3BjOVRVeWcvMXN2RGZ4T0JUdUdHeFhUN2grMGNCNGFFN3VyU2ZUUWpwMDhVTGpMejBZY0o3ME1zTTMreExSWGtPV0VFNmV2NHp1dFh5QkxlNExFTEM5M1pGTldzRzIwVkhWVVBWUzBXcXdOUm4xZitxZnVIU3JWV2RJRFdrNFNjVlFqWlZhTTB6ZWFVcUpXNzQ2elVwTGdXQ211ZFozdXNkS0xWSlBBTGFTUmdacjQ0cDJUQlNnZUpGVHlHYjJ6UUZlUW5tWWNwM1AvT2tUZjN6c2dJbnFXa3hiQVdrSjFVcmNCVjI2S3U2TklUck4rcmZ6a3gyVFpCdmgzQytHYlJ1RFNMcmJoL3hqbzNZeE11ajFRS3c9PQ_0">
+				<gx:ImageUrl>https://doc-0s-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/dl7vt1gmm41a1sn9rjr6tei1vg/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALo-EpncRsLt8oB_1lQGAS3qdkLZW1Z9VOTksWH7FT_ho2QsoeQz6yPPZO3P4rZhxK8jRvLnvXPUIHHlKg44PLBr5qmA_S0tQdx5uYA3lpFpRdOifjYEO6ackAlnP2YMzbFM_y1L5YHT9I_INTW8Y8tM9gn4toL2s__3BJxS_dUMsv8SkklOxTziDb0HYBFoMkGTicljWvEHWkwHuOiHiNOtyIU1269gboAqeNiwR-ZZ2HWFaK_ndzshkImdQ4eeM2qv0aVuQvgzdN3wnmqZsZp6Qti37g?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcFg3am4wajRRaUZmSVg1VHNaWDRuZC9odnlqSlR0ZEgxRStlRVlEZzhURWtQdmFUcGl1OGVrMGtIN21zVlJDMWhaZHV3MC82SUJLY2RDb3VOYUJ6NWRCTHpnQ1JzcjYrbE9tekdqVjNCSFpOaFQvNmhiZ2d1SDFENG56akZDTzVSU2FycEVITXdVUmZ1ZC9oY2VBQ29MSWFOaVJrZFJjQlNWUU9SazVzRGNVUlhseWQvcVl6RyswQjFscHFKNmpJT203Y3BJYXBhNDBqVmZibUtPTTAyK0VNSWdMNnphRXpqazZjYXJqYk1ESzVacXBUV3RLWmxlMklJR0VTRkpsZllMMEhPdFVaY0VvMzZ5ak5qTW9yLzI5UWxqMkE9PQ">
+				<gx:ImageUrl>https://doc-08-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/1akllvq6prn74ao8fa8adv6e30/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALpRTECkwQxMVWQBbys0g3QTf2hoN6dAv_JBltT9cdvIuowoogUFTYs0f9gpsSGlIgGEM1605MZzbAjLyioErwkNuOTLO5DSCSSpJcqYDtB9OPNNXMiZ3rBcI0Mou57SjNGWlD6jhuQ0IVBugFUkwGNziCt9kYvLetYMRUuqIhhLJiJUMXHMv3A96qi9Q_5Gds1SBvGPXhL1xhBgqBKfBbQfqHBW3cfqPZkvEkqVEd2Xa4YDbGdN9-rra4re5_3QAkzeDfP_DYI4s6Gee-2PfMsO7vZlww?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>18.08939414290733,59.31718834763517,0.7844166105106314</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00C06355641306CB2782">
+		<name>* Folkungagatan 70 (1901 - 1903)</name>
+		<description><![CDATA[<div>Kvarteret Båtsmannen&nbsp; Större nr 19 = nr 8 B<br></div><div>Folkungagatan har idag ny numrering Gustaf Gabriel Palmgren och hans hustru Karolina Palmgren född Allard&nbsp; flyttar in 1901<br></div>]]></description>
+		<LookAt>
+			<longitude>18.0771200044476</longitude>
+			<latitude>59.31455156723457</latitude>
+			<altitude>42.98021679905862</altitude>
+			<heading>96.16632951529118</heading>
+			<tilt>44.99993979284628</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>498.0591216086033</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_1EF9E04429136C7D5A36</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcGJLRjZLVmJZNGtPWXlHY013STRlRUpKU3c1NEJjS3RpcnRvVnNOQWdKZ01LdkJzL0FWbTBHcHdiSU1Mbng2c1VJM1RLOGxOK3lZWk8wNmkxNmFXdTFJWGFQdzQ0WS9YcVBnWFJDak1RS1VXMkt4Nzk4VUtjdDhVSFBYYWtKcGpLcEl0NTN2ZkpVYkVyZlZKTXJJMWdkc3dBT1czZzNIZ3ZaaVF2bVBzVnBEeW5iZHpPRDhEc1RSVFkrVTBGMWZUcDFDak1DUHE2T1lkdkpoRHpBSTl5VXBEdkV2ekd6YURGaXhUbXRTQlRiWGI5NktpV284enVhblV3MG82U3FHT3VtSFZTMFpVSktaTEo1clBhNmJPV3l3TkJoaFE9PQ_0">
+				<gx:ImageUrl>https://doc-14-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/6m1psnhhtqd9ac48gv7nv64jak/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALp1bSyX47QxDi3ca2Ey0XqzQMO7EtKjconxHpcuv_Oz2-iADrubezOWhWouvB33_iOx5Ftb3-ic1p3e-4RmRkY-hESHBuYt-v9Lg4OQSxEDvsxktnF72IEPlRccdAA1gS8HR8IGMRB7T5J9e_vHEB-O3-5QKron9ow8DwirU_-JwIhQm5arCEV5308c5CzW-rWx178edakktLyQ7LDHeWk3RtsJd8DmepU_GwOXNekg57OtmNHU69OlaB_rUdgyu_D_t94wpMsMPKpzhBBc0FVgMyRYUQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMb2VzejBYWHU1bG1zV01Hd2RiSkdldWxtY0loUDRPUlMyK2JPd1JQd0NHK2xmbjFzMWo3QmhkMkw2bTNBVlk5TDlMVnNtN3Y4b1ZFYlFOZDQ2WVJlSVBZaXVIb0xkZVpqY3hjU1BFV0tzdUNoeGp5SENDN3NYUE1iazZUbGpqUzJTODFzeE5XK0xzZnZMUGwwZXpCeFVaTXpNWi9HUC9OTnpXZzA2VzYvWUtXZGtRa2dZdS9PemhmV2pGbTUrR2hkazR6bW4xNWQyU2ZMZlEzZWNYY3dlTTdhRW1tN2tKblU1b2tsSm81SVV2UmVsb3UyKys5MmxrZHQzbkUxcUpZRHRaZnhBaHY1WW50QXltYlFBeVo1Wk1zRXNaanc9PQ">
+				<gx:ImageUrl>https://doc-0k-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/nedmvu61v2q4hmih79ps9l7eu0/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALo5EtKFHflAL7j3dgWanCblB4szr6sDoO4oJyQo4tUNq1kv0fA0jaqsR16SjH3dG0L8vhUxXLo9TOF7Q8wAyfQ3Bryhq6H1l0zvM4cmY1ozlb3niBfC5qVcDWqD-jh-YM6PJxuFUZSwKdS8LNfLIMsn6wXhEcVzOvFgi5ynemnHlEWf-_ZmDXJBlvqsGRauwGXAj_eVH5G9Hs0gHFEo7w4E4mXC4XdOxsdC1yGdIz-nOL7HLp6bPSfMgLJUS2RoDGoCR5jGf9LOInsC4RNR2p6eBmegOg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcHZGVXJoK2NvZENhb3lCL1k3dnRtcGdIRE5VMXRZV2dlSTJRL2xSd3BmZzJjY3dNcVRvVEZlQUY0S3k0VFVuc1BWVUN2dlVmMStOemUrR1cxYWI1VklqZk1DT1ZpcjN1UG01UFZoa2xvQnpyYkVKWk9JOXBwSm5TUXFPTEt2QjViQlo3WGR1c1BUdnNqS213bWZTdmVpNFh1QVJsMVFXTEFlOGVqemRnK25WRUhYeUdvS1dDdm02ZEhJQmk0Y2o3NFBnakFOaXZPaGJ4NVRWMVdrakpXVENVZlBNUnQ2MTM5UzJuZnFBRHQyUXhsdng1UUQwSzJWV1grWGVSYXNXM3BzdnFHQ2szeVZIZmdTWkFnRGF5MHBBVlZocHc9PQ_0">
+				<gx:ImageUrl>https://doc-0g-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/2155bbbkpijha9o3nq66b2vgl4/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALoO6Qufe4qA8YhOc_jCARDMK9UOM5ArHvF1_wOrudI_K9M8-WV4MaETpsu0cssGkaeAMVAHKs9HCsB34RVc3dOvBha0Ly0TqICQ4-oFXmdHTsqUQjBCKccHjcIH65Q54dITw36DrRjjjFnbbzGGAEYTHWOeM5RNvpj1LxCJ6XptCgVtggaiJDt_hjWNuKYbfwhk3vbBEKFe-H-K4_kca-gXjTA8z9GoTk8oysI7KU3LuIVcADtty1RiY4pcKuhmDfr8q3_76t_nqh9g-NWKFSwi8ahEVw?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMb1JxQ3BLbGJIcE1rTmFHNG9YSyt6emkvdTJiSVpja0JWbXNxL3VGRHRXcEFLKzlOTFNqS01UZCtDQ2tYWUVFQUFPQTVFaWdhYzRpcHFVQm1OVGkxcE16eCtTZnN6elNkc0RHNTNValVhNmVVdlJDOWZjRVBtNU9GeUNPQnlRMG1Xc25TMzB6bXQyMHM0RG1NWGsxazVMcXFzTnkvWU9CSnJRT2xyNHVYQVhKdG54bHFiVUxEek1UWEVDOU1UUlFQZHZ6b0w5cGJJZ084aDE2ZDA2OGQ1SnhoOWMrWTl6YWN6UTNBMytPY2FvaHVWNHZoTlRFSDlUVE5CVzFCUWlscE03YUVDa1JBdnJiUmp0N3J4WmVkeW94RjdCOGc9PQ">
+				<gx:ImageUrl>https://doc-0o-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/299b9pbcgcejqva1cqer4vvirs/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALqBDyFxgHFzjns2JvHeII7PNt0WLhX4xoS9I-RIbnOl7AdTQ2RShaFYyw1-9Y8yoqz8kgfcPEQaBRkzEJQB8d8j8s7ueCfzKax_SNn-n2X_EmPo8Wda4dTrCEbtYixumwfpHM3fD6pE59SHceogLuOzYABUASRvdHbQR9xOIDWHE39ss6dRyPXYffwPt_fRVmubpIYDYWSdY5fwnAvu1178yhPOAJcz_lK1hwKz0wsw1fwBzyCITmANYgoJrW-LnVd6bva-cTz2wd0pBOHC8A954bXItw?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>18.0772373,59.3145451,45.29682032662938</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AEDFCD22A1306D0131F">
+		<name>* Södermannagatan 24  (1904)</name>
+		<description><![CDATA[<div><div>Gustaf G. , hustru Karolina och &nbsp;dottern Eva flyttar till Södermannagatan&nbsp; 24 . Ett äldre hus vilket inte finns kvar&nbsp; 1940. Fotografiet är taget från Södermannagatan norrut från Åsögatan med Katarina kyrka i fonden . Nr 24 ligger&nbsp; mellan Bondegatan och&nbsp; Åsögatan i kvarteret&nbsp;Bonden Större nr 23 och är inte med på fotot.<br></div><div>Dottern&nbsp; Eva är&nbsp; född 2/10 1902 i&nbsp; huset på Folkungagatan<br></div></div><div><br></div>]]></description>
+		<gx:mid>/g/11c23kf_1y</gx:mid>
+		<gx:fid>0x465f77f9ddd8da1f:0xd90aa2197608ad31</gx:fid>
+		<LookAt>
+			<longitude>18.0803476</longitude>
+			<latitude>59.3132028</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>507.5489560903869</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0ECB57FB2A136C7D5A3C</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMbzBvdHVPRmZVTjVEOVIvSGl3R2hnSlMvalViWnVlVzZRWUpoRzc4VHpKZUJsSm0rNnl5cGhqaGdmcjdjWXltU0V5dmg4ZWZzL0VzUTJSb0lEV3VnM1IyLzh3SDNjMkVneVZEaXVuWngwOGVkRUlYazVxallDb2xSZEJlbDJPSUM1Mm5YNzU5eVJOUXNqR254UWxiT0Fpc0ozNm9KdXg2VDlEQ2puYzJaOHN6SVoxRkRCSVJQS2h6YWdJa25CMGhqSUk0a2NZREsrNHdUN0Q0dG5HS3o3V0N6WFpFM29sVjdlaU56dFZUdjdiSlJyUFpHU3NPRjFaaFFiQ2pNc2syVHNVYWdVWG9oTElBbXFlSC9SSUpJZjJLalByZEE9PQ_0">
+				<gx:ImageUrl>https://doc-0c-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/q1ltmfe2ti2bv2623tdpjp9sto/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALoqfdk1SouIaTs6ExcXHyUV4UuUwRmooxM7Jd1TDriwyad3N74xdYKrHqLi65nZvX2K0kxtKZYTChCaW7jtuswFU9_5fj9X1k52xSNc_zJk-oSjDCNo4CsEoFdRW-cCmV-8GpxtgGpLlLQVh3ttdpws-GA3TyqbnGdfpOXN_btGmB8TUjx0uC_kMG-bMLOqe4l6A3_WIap-PcIcoyDaOpCzFzajEzSkK0z4_Jq4euMMc93qeHyBKRvP36KwQg6VVR9qElx_08slab45BdfOAa3pwXMI5A?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMb3N5bHRQY1lQQkFtRDJ6TG9WaEZvUGc4U21oS1BSOGZmVHplcnUvM2tpMEtnZEVvaW5uRFRFeSsxTXRadGlKMFNOQUZXVWp0L1hWbUtDNHVVWk1vRzUzbzRQbW1ieXpXT0JOd3RSY1lhWGhYQUNvT3B5WGJUMHhWWHlJd084R3E3UTdKNWRMMEpNYSttbXF1RXI4M3A4bnVja0Iyc1ZXdVR6VENETnlnRDlGRGtCKzB0VFltelFyakx1SndJU1pDMjNsZzdWTXpJbGhoRUw0emtjTnRUUDNNNlQ1dithK0FMcWhZaWZQV3NOMXhlM2NDNWYwUzhjR1FWbzJJK1ZDWmY0cHcvNFdTeTI5ZjYrM3lDd2JTRGlyUWpEeFE9PQ">
+				<gx:ImageUrl>https://doc-0o-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/b02ette45aov0nk7kb6gk29qbo/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALpoMy9qb-Phj46I5T1MdIteZZCP-kE9_6BJF-2pT_EO-6MtR9CEgovWYicLwugTgXgFPQKk8LpZe3BywlaGHA8Nt228HWjdK7O2RoJ4YdqctQQ8a5Xcq7d89Wdk_TBct3_A-0KIlz9faX5q3wcf-cE1qShPnoYWTTXbh7eMVBcauXorBKN8H_l4ICvJAFa1IYkNcxju7QPpMYeG47scTHEQO1V6eyiZvxAy5NGyY9Z59Ml88Xv5vv5FEl_A0lRjhlCvFBSgy-rQZvU-UQJI2PGWljvNIg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>18.0803476,59.3132028,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="089CD9DFD01306F590C6">
+		<name>* Bondegatan 1C (1904 - 1911)</name>
+		<description><![CDATA[<div>Gustaf Gabriel. är Styrman och Ångfartygsbefälhavare.<br></div><div><div>Familjen Palmgren har nu två barn. <br></div><div>Eva född 1902 och "Putte" född 29/12 1904.<br></div></div><div><div>-Hjalle är född 6/8 1908&nbsp; i&nbsp;Kvarteret Höken 16 på adressen Bondegatan 1C.&nbsp;<br></div><div><div><span>Byggnadsår 1885-88, arkitekt AE Melander, byggherre N.T Nystedt</span><br></div><div><span><br></span>Lägenhetsstorlekar 1-3 rok.&nbsp;</div></div><div><br></div><div>Familjen bor här från 7/11 1904 til 28/3 1911 då de flyttar till Myggbo i Västerås<br></div></div><div><br></div>]]></description>
+		<gx:mid>/g/11c2h7gzvf</gx:mid>
+		<gx:fid>0x465f77f0bcf522c7:0xf23133e5e6896c42</gx:fid>
+		<LookAt>
+			<longitude>18.0750595</longitude>
+			<latitude>59.31265719999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>507.5576296413932</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_086E166D81136C7D5A3D</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcGU3cEdrS0dkNkFLQXNDWjFkaEdhOXVIdXNyS1FYMVRMZi94V3RKRnJDSUIyUHdpOFdmaEQ4KzRlbHNrWlRGaDdMLy9nSjZsNDJsOG9BWkNMZ1p3MXVsYlhaTldQWCtCSkpibm9BWmRJclF2NDNIZGpXQXh2UmhUS0t6YldsY0VqTDFIVjJhT0xOUk05elBvcXVqMUxoTGE4UGpaOWxqQUc0MG5iTmtRMnQySjBuek9TeFh0TDJXeUVXd1JMbjBlS1czamd2T1V1MHI3Z0J6bjRpUVFjR2JWa2xJZmlsV2FDTUJyNkJLRmZMT2dGYW5EcllHR1B6aE0wT2lqMGpmd3dSWHdCTG9hVFQ3L0NuQ3dnZmRZckxJU3A4MGc9PQ">
+				<gx:ImageUrl>https://doc-08-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/5tkrsrueojemvdmjkgt90fdt1o/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALqRLLrlzGwVCA1NbhQFohHosgP9xXMgwLrbMiTSqVy6Akw7UNNTuCib9KpVPN_cyhuY4QHPuXL3nSy356Dhjuinvwa_VAr9hlsyPQXFYGC8uQf4SE7QAk-nRdXkWnex3u1YyiKrGUniZoYa4cPCbz695_ZFY9eYM_QdqmCzgQYVj1IeSldtSM77WEkdWSjG63C95hC2cPvJMXdxqCFn5Nnlnb8WHJB2NJDWwhMlDHXR8Xm2SOu3sKMqGWQ5hKT0-T3tUY4BL9K_JtCjnBS1Je_ZlLV4KQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>18.0750595,59.3126572,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05CDAA32F1132E397D93">
+		<name>* Myggbo, Västerås (1911 - 1918)</name>
+		<description><![CDATA[<div>Sjökapten och fartygsbefälhavare Gustaf Gabriel Palmgren är&nbsp;<span>delägare i&nbsp;&nbsp;s/s ”Ragvald”</span><br></div><div><span>med hemmahamn Västerås.</span><br></div><div><br></div><div>Gustaf Gabriels mor "Hanna" Henrika Nilsson&nbsp; bor med familjen i Västerås och dör 1914<br></div><div><br></div><div><span>Hjalle börjar i &nbsp;i folkskola i Västerås.<br></span>Karin är född på Myggbo&nbsp; 1915.</div>]]></description>
+		<LookAt>
+			<longitude>16.58441322523846</longitude>
+			<latitude>59.62475052363997</latitude>
+			<altitude>32.43280419438992</altitude>
+			<heading>48.19405624361872</heading>
+			<tilt>61.75191973856274</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3949.670231353375</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_1EF9E04429136C7D5A36</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcWtXaVFKeGR0bDhhT0YwendGb3hqUE5jVE0rVFIwblRDa2NFMk4ySGNiUnk0UWxUWXNYd3I4Q3FxQms1Q0JxL0VaR2NqNnVlU0R5ZVBSNGp6TGZXYVFxaGJvektUZXM4NTBOTDJJa2NkVzMvUlRiT2loVkU0REs1UFgxQXBKeWI3S1ZPYnBRd1J4U0EyT0NwMk9iREg1NHRWOTNCaFdNQitpcTdlamZvVElENFlVQU5pZCtLMFY1cXRJT2FQcWl3a0RianRnajE3a3o4VWREeDBtcWlWeThKMHRlUTV4eVZDZUZ5My9VVUxTdUFDRy9say9HSDE5Wm51bDBva0xWMm11cVpaL3k0N1dudFVWVE1iYXBkUWhmaEllZHc9PQ_0">
+				<gx:ImageUrl>https://doc-04-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/854h0ujcgluinfsibncil96bnk/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALpYWYAY8v7hKaTcGQv8XHaXhIPK1wct6RvuZmpveMYfsVjeKrBg1MgSGPPgCMebqO0lN3p7a0rQpRQL4_uK1WNEfR2xnXy0w4Cpu3gyD6RTVF2QFRLQL4-vRrzG42diXoJ31BKsN6PwbFPRq-yTigp-kSUZ6T-2FZI5BXaCvg48gEQjWBO3jyK_ofkRyAW-psMK-32nYId_r8gHWDXlbK0dyJ7qgSe7t4bFN1aGbTZLYEiebZvvKyBak0q13FAqAWgpW82AnkOiOp_PR1B3GJQ2Elcnsg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcmxIZ1o0UUcwcDF1dXVBQ25sY1lZejBiaGhENDFIUTZnMjFBTUJLSXZjcGkyczFGbWtRR0lRK1AyNndDN2ZZblpqSHkzOWhYcGFEUTZEbTh6SzhsQzVIcWhBRFVNVnBqK2pMbU9XNnVJZXpiU3ovKzJvNWE4QmxjR2ltYkdLdnY5VEdXb1ViMDdkOWN5TFZ6SllJWUw3MytJWDNUY3FMcFBjL0x3NHpLT1EvZWJGbWVwV0J4d2FKMXV2VUVpR3NNN0lxUlpXVms5MEszQ2YxUENIK2lMRlBoMnc5bVFxd2tSTzM0Tko1UzI1ZFo4bnBNQVA2cDJaRnFSZXhaL1Z0aWswWHlrRzhVeStURkdRYmYzdmN2TlFxNlNPTWc9PQ">
+				<gx:ImageUrl>https://doc-0s-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/rqcarc96jje61a64ipe4atb84c/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALo4ysaqSL2wZYSPsR-uF9ZSOBhHn4E1YZPQ8qQnFjueN_8vqU_MXvVzhwWfuYOXVgJ4EznWcYuYur0rRjhW9WRQjNYDL1GIe3O-89PLsjki2vbw68hY7Pag2GPvFuFC8jPTuFtrFkmsKDs1nAwaEugUF7eZ-FkuuAgkmVvDv64Oc1fItwpVdXyIwsAZSMv3J_NLLc7rGGgjJbg8D0-2qqxUQ4RSpUKwEVAAg50L0khe0T_92CVwpdAZdnYa95J3vxb3cub0cmXVE-4pcqzFGyBAyAOTpQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcFcwWHZnNXA2amdVdHVCMklldFU4L3pmOU5LVjNpNjNLeGNva0tGMGRZRXhFVkFpYS8zcVE3VXdwS3UydkZKbW03RnU1dmtoQm1oQjgvUTQ0US9yUXhZeU8yVTF3VzJiWjhUYXgrbDVNRkdxMy9QdFV6YVdZSDBMYXJSK1pEWXBBSFptY2ZoeVVESjZaL2Z6a2NmYnh3bzdtSzJRK1Biay9Hc3NReW9qNjBNNUViTjRDRUY1MU1sOTBYTEJaVy94THlZcjh5YnBZc2x5T2NSOURWWEVqc2hmQXlGcUlhNXQrWFEwWmwwUFNXc2R2UTNYbDFmdFRkaUJVak9OUkZDWFZaRTN5Q2orNUJKKy81UXpIRG9wSjQvUFZIK0E9PQ_0">
+				<gx:ImageUrl>https://doc-0s-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/93ihplikt9e2tpg91brhjgto74/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALoXM9x0YeGc2vsk4XZ3fDgAZGDIemFV2KVzY4U4gUzEB14WGp2TuutLhl5u-82madzs4ImMkakwwoMYmsa3cSzwPTVOMf1HSXgtvmVoD07zfdYnTTuRQiKwZicKgifVD9wiPXDXicx9gqCHH_m1oTPFtAyyO75UfBvSQ1iv4iUNaq2rsNgI_cdDZ1loWckDv8BLQDFB1-3ZIKhsseOG5KIdH2u7kvNVZ58RTKV79Yyr-Hg6E-jGRDOH4hb4ln_YKZAX5Zn6CUJ-6nHvuX1SWq2EAu_7fQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcjlpU3VaMEIyTnZ0M3pTYnp3V3c1M0w0RkwvZTdpbmRsN3kzRWZJTDBCWVdwR1g5czlLOEthdTl3WThkQ3lZbHl4R0ZZSXdBaU01QnZRZVYydzQ0M0htOXdlQW82WUJlVjNTUnNyMVBveXMwVStUckw3K3pLVENpSDV0dnA4WmdhQW5KN1dCRkZ4Nnd6RTBkSWMzMldOYlY5TytFdFQ5TEF6RHhFNnJ6RjEreG5XbW84Q1F6R0NUR1BmSzVzK290bVdLak5yNWwwdG44WmVYaWJsakk2TjdxNmV4R0wxZURjalpHRHpTY0V4OFdrZkxHNTZRNFNWbHN4bU4yMjd3VUxQV0pIUUNMV3NxcjM3QVFFeVllUUhmcVJ0RGc9PQ">
+				<gx:ImageUrl>https://doc-0c-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/u2skf7tk4hfrvipbeqk3fjak6g/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALqE4uK6SjPurSBdBenRI4oCO1Fdj5euUXeCx6TNueDhSO-us4CKdJOBNpNq_Xv8OgKCRRLehd__lDg0GFaIPjXP6dNH4vNZrqv55MZudbaGuPYBSBKYrLNnY5MxBI7Lv1M1sR9sktsfgKDhrYMK6VyAHZhShL-oq2KLePQmDqzoXnbJ74RLLSumbfLchGz9QqOFTG-B59B1QHJdtOj-Za0y68PuzMmOR78JstifaXCsp8nDKvjKldXLW8xtJbGTu5G4iqnClSs1n9cS3WxrmSqbn44GwQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMckdwUjVlOVd0dFhkYlkzcVEyTTNJT09KYm1JSkZ0RDVVUDRBME4wVEZUVHFOL2pHeVZGQm4waXVtY0hJMUV3em9GT0Y1RmEra0FOREhHdytTUHJRQ2VsYy8wUzg1TDR2Mkh3TzZLZG85czhtQUliK3FBSSsySlRIbXNydjVzSFRvOGloV05jclpQc0lRbytpT3phcksrenlPN2NkZjc4UWMxV0pPQlR3NlpRQnR4cDc2bmoyaURKc0xZaGpZeldrYUViSExhd3hHdnlsRFNpSU43Tm1jazZXRkQ5RGRzaE5Vc243bTlMLzdMZHBEQkU0SUVFTjR6L2lUMEh0eGJER2Y3Q1M2djBHZ295V0hvSUU2SEVWNUdCWjRVb3c9PQ_0">
+				<gx:ImageUrl>https://doc-0k-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/s2qasrp2mjb1h1ctk5tmrkk9u8/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALpd8_Kj2y-iWnvTFxRDs4kNzRWCDuayqnY7a6LvV2JbDraOFu-zAKeN_VU0P9pV353YWk-2b50LN_F-OhvtPxQiUVrYbPGEz_u3tdRI41PyfHwDLIPD8r-6ezwj-EjjmDB_MvlOSIGkJ7dEKF0Hq7tounGxdqPcQ-IOK1PrFgbwTSA9VbKSKtM8HzO4JLUVi522GAF5WPLF5lw9ZWQZgRztMZlX0F5mf46jKRNxqL45GS3PNKVfLjD0bN090Vc9cSJu6xB0tXbbKKFVhK-GQJDLSoj1qA?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcnZFTHhmUXoveUs3VUZncVdvUUJTWDNQeDd4THFaOWttQ296eUx2VUlaS0xTclNKVjZkN0dVNzlMVndvYTl4QVdodklPSWRUTDY2U0xsalVtN3VYam1yOE96UDF1NWFlSSs5aXhudVkxanR6SEVRYll2c3o3WC9XblM3L2V5ZFloWG81ZlZWYWxQMGR1OTkzczU5OWRGOG92aDNpODlRckVjeU80cVBwYVhHUkYrcVdtNXloRzBjV1dpdW9wWnZ4ZEU1YmhhdExNVHpaZG9XL2tZclhvbURXTUloMDJKODI4MVBidDRnTFJnUEJ4V2ViY2J4NkR1c2hZWGJKU1hLWE51Zk8wcEhqL1ZsLy9aZFVZR1MydUllTUI0aFE9PQ">
+				<gx:ImageUrl>https://doc-08-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/t1v2bkfaui2ipf676igpad7484/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALqtzj4k5CxRCynqTtPGYc5Cjq-Rbrf6X0q75JbTOV5uTtbtXXg5lTjgbgb8QcxDQwNP_JBNUSpu1S_4ApPhmE8WT2cGvKxgBOfzkp3um5rBA8w-ZNkxW6mo0PtfGifFuRHt2JYy0wJbtlJEF9RSlTSmJMD7CieeqPSMKD00c6Fu7CsEhSlu0D93RIA3pGdeR3DPdM1kLxRXvJ2q6nhPoJpjtfr1aaafzjdkrQ2i_4fJ7kLMa7IhwtuY4IV5StD91YUaCJgmtAvvseIkUG8PhocpCStjDQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMb1FTbWZEbGVQdUtZOFFxZG1COGNCWi90VGljRUN6UnNPZm5nYkFMb2F2cGV3SnBBU1FLd3AxekgwY1QrTUllSzhMdzdpRDBFdHYvUi96SUZBM0hCaU9vUUUveE96VGZVUDhLSXA1VklJQ3M2VVo1ZkRha3JkZGdMM1NzbndsUUhCdEpvbkRKRnZvMFJxZmt6dGRnYWpFajFsaitCenVQTCtJNTNTTVZzQUVYd0pzb3l1NElINGZTc2F1QlhodGlERXl3VGtHY0x0eFNWdHExczZ1dTBtN09GcU5jUHNNb1dSK1M4SWQraFlWSG5ZVmJmNHVKa1pZaDRXUFpjMzdWOGJVN0djaGg0Q3RnOGF6d21OTmxIQk11Q1NYM1E9PQ_0">
+				<gx:ImageUrl>https://doc-0s-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/knubpi1vja5cpbj57g1h41pjs8/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALrRaKO3tONN0wnENl7gujSRfd4Y9ogLLF_XrJwhl39RGvDCrNP7n3WkSOSghPCp2v9biHirWEvo14MQjNnXhwOpd2uxWcEpGNp1tHiuObI3YxwNXGHhUqVqEzY8GoZGl6-Rwmoh6i4mM_i267maDY4KWpRwRG7W04rJ9ibogRInj3-vMreN9lXUA3hf-WCaXBetVrftaiUQHJ1hjZc80CO3I0nOZhu4QApw3kOaR0TM9KIl05xJ3NO2rHtmmiJ7Qfjwp1UU-10JgMbuFyTXh2gTSgcYew?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcTlDaVdsdUNOZFJTS0R3VTJLUy9EVHdTeTV2N1R1dFNiRzJqWVB0cTc2Smtmay8vbCtXR3FvN2E2MU8xUzhrSCtkSDJVQjZLT3QzWHRmSlp2c0hXZm44KzVBZWl3cklscGFYR0UraDBIQzNrVXhBOWtmYlVaWXNYempuOHhFWkd4Q2syTDFNWTdZUlQ5Z1ExcW5XWi9vUWtoaFlVaTNFbCsvSnZ5VUxUS1FyQWY4RXhnT0VBU2JvdWhwT3IvNU9ialFSOTJQY09ySzF4YVVSV1EzSnZ3Y05ERGprWGZZZTV0MFZoZmFwdXRzbllnZ3JrOElTOGFMZHkvQ0FlY1BvNkc3OFRENER4MC9tbWlpcEZoM0hUZDJycWZyWXc9PQ">
+				<gx:ImageUrl>https://doc-10-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/f75gp4n03dgqi3o04v0kfcmnek/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALpm_5_37n6m21RV7krNndcUnpMxpfGwkmzESXMI6fdoHo1bQ70jMvvKKz5xF2zOGIlIOf0oSi4rRhhPdaxvVcc8sAjVS6uLbJOR9JJ1UtJq-5zh_SXTMorP65CjBL4YjgB-wx3OHMPi6qgTic1rb51hv23cPJ6KcjJN3d2auTKYp0_GBfnlqkF4U1IhTWoHB0N3lZudODxWCcrXwFDi4ysn5vpgB8BfhbWu91CDdin8mKeJEw00lvgOUUdyoIfwGXmAmg3URyBRq_BgHr1NgrYnMIcOCg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>16.57223552667006,59.61679832730218,12.05689028572597</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0069FE7D7B132E3FEF7D">
+		<name>* &quot;Villa Rialto&quot;, Fridhem - Mälarhöjden (1918 - 1930)</name>
+		<description><![CDATA[<div>Familjen Palmgren flyttar 1918 från Västerås till Pettersbergsvägen i Fridhem / Mälarhöjden. De bor på nedre botten i souterängvåninen.&nbsp; Villan har adress Lilla Sjötuna och benämns "Villa Rialto".<br></div><div><br></div><div>Faster Karin&nbsp;<span> är tre år vid flytten till Fridhem och hon hade minnen av Pappa Gustaf när&nbsp; han kommer hem får Karin &nbsp;krypa upp i
+knät. Karin har beskrivit hur familjen bodde i lägenheten.</span><br></div><div><br></div><div><div>Äldsta sonen "Putte" Gustaf Wilhelm dör efter en sjöresa i lunginflammation 1925 .<br></div><div>Gustaf Gabriel dör 1929.<br></div></div>]]></description>
+		<Camera>
+			<gx:ViewerOptions>
+				<gx:option name="streetview"></gx:option>
+				<gx:streetViewPanoId>DlTqPYUHsSCjmpaw9OR7Gg</gx:streetViewPanoId>
+			</gx:ViewerOptions>
+			<longitude>17.94724438090326</longitude>
+			<latitude>59.30289904478751</latitude>
+			<altitude>14.6338710795599</altitude>
+			<heading>345.584279230493</heading>
+			<tilt>92.69080246916934</tilt>
+			<roll>0</roll>
+			<gx:fovy>90</gx:fovy>
+			<altitudeMode>absolute</altitudeMode>
+		</Camera>
+		<styleUrl>#__managed_style_086E166D81136C7D5A3D</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcENTUUw2S3V0Nk9NcFQ0dUUrQlA0SDhxZ1o5NHFIN0h2b0FxTWs3WmJCVzNOV3BqbndhMkNSOHIyRlRDTXlFT0RBMEdtSnEzWTErMFFJV1pTbWlzVkIyeERzZGI4UG5vM0swUHE4ZEtySUM2U01BU2RNVDFOYjNyUkkxd1ZtSjlyVWNGaGFTdzhiZVJlNERxQk5sblVkNUxwcStCRnNXb3MwS21vaUR6bHUvYzg5Z05sTE16RnFWT3cwZkp6Rm1WcDd2ckhDTUxNZjk0Y21xa1hUTE00d2ZEQVFKZ09vR2M1bEFRcnd4RWp0N21wZWc5QTJ6OXFXWFk1dHdnbGxBcGhFUVFIM0hFRGNpQTFWZkVPelhjQStaSGIrVnc9PQ_0">
+				<gx:ImageUrl>https://doc-10-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/4p974gtkratqgdmlre0i542vv0/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALqwJIBxORQ2XwYuZD3wk7-Eh1tKP1S6kGKZKKTP6-6Ay7SR5tlP2cS6AZLSmCZV2GuzwTNcNuNWspix8CicBP5ZF0YuV-GymOBxO0E3fGtFi4q5XW7Gyn8SJbTCbjRXpTdjyRZWdFpOJ9xexusA2Wqe6rrKaVMwLZyP_utzGyssKJv0mmPBMamxuPm5HVRf1lPifeajfWwDEA8uJ3IBZVnPjqpJISZ0_yyTZx_OyQqwYWnITi9YBHNZrhID3znDK9yF1L70t4-y859B0KiMhige8-trWA?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcndVUE5qTEdUR0RwWHE0U3djMzlYNlptTUVIQllKWW1sSjNSbXZTb09rODNIbW41clFqS1B2THY0cWErcHF4TG4vOCtiYnhnUmtLV1g4eE5xUlZRc0VYdXVUK081RXpLbEdMcjdnbzZCRHp2REZlalVwM0U5Mm93c2tvT1dxOU5GOXZFaUZzSk9NTG54V2hHczdnT0s5TFdUb2ZiMGRjNFBjMlhWR2dSdEFQbDZadkNzQndEYncxdFc2OHViMk41ai9yYngyZzZJMmh5Y0Vza0h5NE1jUVo4OWRKZmtibElXLy9WeVJkWlZnNHBCV1dKVFhEdGNSczdzdlUyWnArdk5DZlNSTENFMXF5cDhHeFIxMkhHalJYVzQvUVE9PQ">
+				<gx:ImageUrl>https://doc-14-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/ettal7hok7hd2dekme0tpot170/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALqoIvb7Pne9frk4HJtohOnGtr_E6h-IxM6yEb1dsIWP5VE6lqVIh484aHVA81XJkR_QeuB3ZDidRWz9lv5yO-PTdFF5WjV_LeLS1OXpJVvw67EIZTBrZiuqTGaJCPoq6v_7LIHscyvsBc61Fjb-rQN7Z12ihx0T5lC4Nsx4hqr0HsfOeDOxKzmIj3Hbj52D5u-zoMeANCimSGuczSoKIWGUQB_c0Goa1meaR5VuxldE1c7h_q8eguH4jaJS21CRWK-aSOISVokuWxh_s-iFJGxwcETLsg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcFliTmZ1VHE4eDdOWXp6UHM3ZFUwMHJEbURHcllYM29PTkRLR0ZvL1lGNzYvR25yY2tXZFljQnMrV00wWU12aEs3Y0FmUXhmVGhWRlJZTktLNmIvaG81V09sczZIWVdld05oTkxxK0JNRGpoUFpNbTZESkFoMHQ5WUk4MmUvcERablNlTEp1cm1EZGNyN2gwZnRkRnVFM2dRV04wUlNNaS9DYzhQSm1HSmJrQTRYbWh2eWhZN3lNd20wd21xT21VeWdvdGNFdmxrWTZNVHFDYzR5dTZKNFRoT0pCekx3RXhhbzJSK25zdVlPN1JYSXhGdHlFSTFUZTY2anJrcFRiendvT3FQbXhXZEdvTE84bDF0TGM4aTFVWTZWQ0E9PQ_0">
+				<gx:ImageUrl>https://doc-0o-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/3p4o24dk1almln6e98uo6s5oqg/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALpCiweieoQ_DMgwd-qzlkijGqlOSpG1fmlMPZguFasKbJ1R6yA8z1Izmo6prNptqEi3jmujyl44XVQRHiRXUtMAyDgMR3m0qxy14JAlV4wjzAUmGFdgP4XQW2RWG3FraarBXaj0nFJaGekrQfEgC-2sTY3m6mCgYz4ZAgiDTyp2U2Ow3bqm_bRSrwD2J9zI4mfljKaFL_xnSFVhu2BA_JHUK05TkmSntl6-1SnVbLjNr_nDu9QroKmbAV_o2ykKOvidecZ2IxBTUOAsQtizxSY_cXEyJw?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMclVVNS8vNHdLY1hWNkFRa29JcnBsRURlcFlpbzR3bVRKeHRxVW53Y3QrcTZhNlh2RTMyOGgzUTlpVmpoS051UGlXQkR3VnNIMlppTkhNNjBRTWgzTzFKcGREcG1sVWhNVWlZV3Q2Q3pWWVZXQUtJRUVlcnZPbUV6bFFKOCtsdG55SGlXem9LM1RuUlVnU0RNRkRkNXZIbU9sS0tPdXhpRENGUHJYLzJQdmN2QVNBdGYyWFViZ3lUY1dzVUdCemp5UHVtNmJUOHI1Q1lkZzRORGR6SFdSVXZWaWNLZkhxRThXT1Zsc0RTa0NtN3orVmUwMUhEZHg1Y2UzT1orVFhLK3ZNK0R1YTFKTmpueVN4RG5wRGtjOUkrSXJMbnc9PQ">
+				<gx:ImageUrl>https://doc-10-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/pkdes9i9885kucla5sfrb00ibc/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALp7yj744zkPYY3bB7LJX79_rRP0srrz4_H0lLRfSeTKtK2kEDjtrhTK2xw2go4XZ1A2luDpFZ6UJ7-20DsqfP-L-M5sq3UREe4i0Bnaa4kOWv3PQkjN-ufhEUvj2Qb4bMghIJYwcxko6ySN18asmfCRnsRJn44O2gn85SycYUUbMTzIN12K5GkZrn2-EYaVOifK1yN1FOxNCsHEbj9nAM0_YSxoKS7kTnNwEvJzS3__M0CjEiVlW-Sv0kJ87_nlTl7VQm1v6h3hpstEwOUOzBPuI1JcZg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMb2lPVzBhY3d4UmRweXpJLzZLRHRWR09YVjhoUEVsZ0RFa0p2c3l1S0o5VGV4aDc5amhDR3haZDd3OXp5bjE5dFlFK3o3TysvcTkzV1lhdldYTmNHSkF1MWMxc2Q5eUVZZXk0NmYycGZBejZSam5pR2pNc3YvUUJWVkU4dTlLZWZGZE9ZV09IYW1tSlkrSWRLSTFaRzY3bUFLaCt1RzhqcDE4dFVOVnBBRW9mU20vMTd0Nm5CVnBjWEsrc0NhSjZnSUxweHUrbnNkUktVOXAwcFJFdWhMZnMrSzdyazRJU292S0hwSVY4RWZZTzRWWkZ0aWIyRUFMRDZzQlYrc2FoSW44djZJa29aK1d2TmV4MTdUeGNYM3B1Qnpvdmc9PQ_0">
+				<gx:ImageUrl>https://doc-0g-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/v2mqg6ngh4e9u5lrv2olt72omk/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALqxfBCiw8IyqIhan-PYwK6DxK1ZN8W7iYOKv9wS6r36AwiMfl9OGCG2GYYoFQmnIZzodWKlrVUeGNMKlG-9tYFoIEENzrpRby3RLYuAB6rHaatG51TVQbTgJpUyqhZ54ERCMZgx2ncRIT_BOfuhMfQ16i5jy2ZLQ7ZRToejCghK2sfj6yqxBpXbbuU9Y4j7qQTc4TRVygombPQLgF1lDcbKMN2ENmc43rJ0WJM6OUCShL3KYC49nIJ79lU9HFU_OqDYqRYyq1aAuxpLDD2rQLqf7YOLWQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcnFRVDFESlFBWFJrak1oYlNZcDkzS0tYZk5aNmVsWndhcFk3SzBscGxNNzlEUktRREhzWmk3Q3daVzhZVXFqcGhEaXMyTXdvOURCUkRURXBNMktta0JXeWhjOVVwQ0FtRzl0d1VSeWFOQXBrRXhJRXhGLzZiU0ZEQUlqR0xJYXFwaWxkYTA3cE8zQXhZZGE0SWhkWXJ5ZHhBRE41NldEc0FPckUrSWFubGIyMW5QY3hxMnVacTZFZUVCdFFadEs4SmVjUGF1czlMMWNBTnJxMlJWVkxRK3ZNVUVUVzlTRjg3bEcxYlVKRlpnOEJRcnlCWFBZeTNONFQ3RU1wQ0ZMMzJhN0tIMWE1aWRuK0dYZDlqM2JuSXB2R0I2amc9PQ">
+				<gx:ImageUrl>https://doc-10-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/2gmcoe5b3t6p0675ghol6vh3ek/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALoN9cGcSu_ASUgD1Si4c8QabHgnnbTs8HUvFQpn3LHyTjwzkYvenkbeOrPZy5i-AL1ihyIklstdcIWUqBMX10FuoSbrL8fSBBQNhzdJiQ-nfHVQD7t3R2ANGugY5u6fCTzVI2uvf_7vzrlTGHbowO5sNJL5Xpo4rbNl1E1ksU564e04ATv914Wnjg7hOTYysyOamHL7CGMfa1K9AJbCIMMM3XEzG49JL5M_-bCH7iSTfIaORR6g98JNFwaEk_70MLftONE6IG-wh0KejNr9E9ia_tcWsQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMbzRaMlBFTE81NG9YSG1wcStnYWk0bW96QTZ2RlBEbGx4Q3pnQTdnR0tZTzlobmxSZ0JXZjNvbnkrazJub1l6bXdacnN3Y01CMEREVU1GQzdsZXJBQnZSNVVHSjlMc3IzZHJUaU1xUTREa2FjNjNhQ0VTdytDaXlkTHN4OHFPd3NpYmliVTFsSzBVRlEzNlBEa0Q3RmhWb0J0NEl4UXNaMnB5ejkwaHQ0M1pDZzk1QjR0L3IvUjNiZUVDTFRBWHoxU3FoeWxtd2d2bkRNNFJva3hVMlNTNis0aGQxVk5vcE9kWk5CUzk4V2t3NlZjclZOUmhQaldyeUdhM2lCbmRQb1ZLcGdQaXpUck40bFNpNE5raHFHZmpHV25MSGc9PQ_0">
+				<gx:ImageUrl>https://doc-10-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/nva9bb6g6398lkq5fj9hnkqsts/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALo4Zk5prH2lQJ2pI4hqlBtjrCypjR_FppZWXTrnMhBKRGmPq5GQZ0-UDSPhLhXhySJWKTvVutc7Hm-JQn7qe764kQwa4p8Th4ojzDsgkSDLI_LJGMYfneJHcbwb0grcTgP33NaA6IYEWn9skdAH2xL7iboLkacWQIdaL-HG4RpP8QNZf5RBRzCcgCy_gxJgbRunlGKksZzgd28RpDtURrsd6LDIlASHL5Yymcvk6Mrl_tOmQBkbSMAgu9LsKJwNRapNIMII7rjvmk0EV8l5adA5gezgaA?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMclZ6cXF0ODNWSGswR1kzZ3Bsdjl3K1FZMzA2QkhMbDhmcDlKSmw5NDB5dXhjZGhhbjV1REI3WjAyK0lCUmVYZXVOZFJMaXVhaEFvY3NCbk02NXFYaDJpYVpXWGNEQmFQbDRGem8weitRT096c2ZubXNGS1ZLT2Z0WUVTeVZ0VjRhTU5kcGhnNjVMcTNwNXJkUXlXeFhLWjN2bEJnQjJSWFRhUTdybzZ5VzM2TktVa0plekszTTFkSFVJTUVHK2xSS0xwbDdyTHk0K253NFZqeVMxN2pJbE80VjkwTUVob2NodDdZWmhjZE84bHQ5YVlQRHNtTEtWazFMR0FpRFdaL0lsNm9SN05FbWZLd2x1cGFQUURHVVJyakZZamc9PQ">
+				<gx:ImageUrl>https://doc-0o-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/sar8ukh11p66nlr06mrna7h0jc/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALryPVj2GM7k57lonN3-bggAdSL3lhZr6tZWixaF8AERIhCX2JCEFTjeq3HkReVDqIyAzez5cwJOUkDbWWOYILaK82ooPcO7YMNlpkoy81bzH94khqEIimxS9GwL-h_LpA0p5bL1MpXcTUsKWapLkwfi1vnEINUJxZD7jRwJ8qY1SpgcqTKOC5c72T3woE0YRSJqkcist6QUeNbL4NHCAI0PVPaMarG1jjfOpGYwjKcDYqZduCjnNazuyQpKE0v7wVTiVjNpx6qqU8S71pducsjpSkEiMg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>17.94651384415489,59.30282581889941,4.63051320555264</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07B1BCA5811334661905">
+		<name>&quot;Villa Rialto&quot; - lite mer...</name>
+		<description><![CDATA[<div>Lägenhet uthyres i Villa Rialto. Annons 1923.06.16 och 1926.09.14<br></div><div><br></div><div>Bilder på Gustaf Gabriel och hans barn i Villa Rialto<br></div><div><br></div><div><a href="https://tidningar.kb.se/1767385/1923-06-16/edition/11632/part/1/page/21/?q=%22villa%20rialto%22%20m%C3%A4larh%C3%B6jden&amp;sort=">https://tidningar.kb.se/1767385/1923-06-16/edition/11632/part/1/page/21/?q=%22villa%20rialto%22%20m%C3%A4larh%C3%B6jden&amp;sort=</a><br></div><div><br></div><div><a href="https://tidningar.kb.se/8224221/1926-09-14/edition/0/part/1/page/17/?q=%22villa%20rialto%22%20m%C3%A4larh%C3%B6jden&amp;sort=">https://tidningar.kb.se/8224221/1926-09-14/edition/0/part/1/page/17/?q=%22villa%20rialto%22%20m%C3%A4larh%C3%B6jden&amp;sort=</a><br></div>]]></description>
+		<Camera>
+			<gx:ViewerOptions>
+				<gx:option name="streetview"></gx:option>
+				<gx:streetViewPanoId>DlTqPYUHsSCjmpaw9OR7Gg</gx:streetViewPanoId>
+			</gx:ViewerOptions>
+			<longitude>17.94724438090325</longitude>
+			<latitude>59.30289904478749</latitude>
+			<altitude>14.63387107849121</altitude>
+			<heading>347.4354448504257</heading>
+			<tilt>84.59748855024682</tilt>
+			<roll>0</roll>
+			<gx:fovy>90</gx:fovy>
+			<altitudeMode>absolute</altitudeMode>
+		</Camera>
+		<styleUrl>#__managed_style_08468443C1136C7D5A3E</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcTl5R1V3a0ZMVHVjTUhmWG1nOEhTSSt2N0liaXV0eWRONHFXZVlzb3NhbzlzN1VmVEZTbmZQZCtzRTE3Q0hpK080WHNTTkNGNkJDZU9vcEhLejJOYWM2SDFzZE1MV1REU1lnN2U2cHQwNTdEeDZvRjA1NjhiV1dhVE9yaDAvMUJmZFN2MHpkdGRqOHJhbFpQbFQzNUZDd2R4Y3dOVnhqTzFSYzVLODhReG4zSDQ0Z2hPeC85MXU2ZG50VkdyeFdLaDArNHorWXgzMmJaa3JneHlnR3dOTXFZbXNSd0RqMHR3aENuRzhvcEI4TGVIbDRZOHhHRGdtVjgya3I2cmgrR2JnSXh6S0NqdnViTGhJempFUlRUcHVraXk1UGc9PQ">
+				<gx:ImageUrl>https://doc-08-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/gj8eg97je5siqdtdi1tp4dc014/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALrwSqJszDidfm-QXI8tvKav8v1XoacfmNlBltJQAUB1yVdfsB-nBf7l4wPV0cD5G7h_oQjAA_Lt67Axo2M54j5Z33h80H_GeY4DkfPsrXTVF1zMoWNd3vk9k1ZORaisUU-VaFwNQhBzrGmR0xUaDQoLpyAvn5vxP5dxKsJtNXpzAWc8TcmGJjQ9xG4Tfj3Zo0w5EUGgwCZW6_GK2psNl94epH6IW84E9hGBm2ZxZxURrjJwO1GOBAenNVKjZySNmvdGkBPGU7s5yW5LuafbEw-ilFR5EQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcHRYNUV4RjV6bUNQRGhjcDlCdHFFWXNidVJuTCtHaTQ5QlU0bUQ1ZXlHN0pTQ0szQTVhejFCaE1iQXZpTEFzakJaNXlHUzJHbk1ydXhWN1ZUYnRMMEZYKzRVZ1dFUjl4L21LL1hBbCtvYW1mOCtGRXlaUHhkRVExSURDSG5JdWNEK24veU9FcmhuWDlyL2hoZkNQSkc0ZzcwRHcwSDNYdnhGY1BQaDhOa29BQ1Bla25HMENUTXRHb2RaNjBITUNmSUE1aGFaS205TURGMWdValRWYVpmOTFQdXQzZXZyY1pjSzBBSHBnVmlENjdqQTU5UG4yZEovS01nM2I2cmozanJkM00yU0dHeGdUaElhOWpVV2JybjRBYk5Nd0E9PQ_0">
+				<gx:ImageUrl>https://doc-10-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/448r1kepqqg4f1nbe2kdikk900/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALqvDYdXMtxI4Z-a7K-LwwvztpW_0i0AUEQMtrUL9fHXbeEteOuJwjYMEaci5fpxW9MpFvFP09GZlLlziqwCz_x9sNimj10AUmmdAF3AaSRVtbYzCXyNo-yOqBWEUNG6z7cJzyKAjnedyOmGzjwep9RAFjj_Pny6h2S0rfsgfbofyDkRLmh9_CMM4WJdNPFLEy6DITC3UVa0cD1ZaTwgFp_4U8RU3JlLlpGrPM43KwDgWVi96DeWLW_PSZ8_8aNyAfhXpo7T0AKwy3c7EBEVHkjaZ9PEnw?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMb0JCWFkwbjlrVHlRekZJZDdFdkMyNS9Ga1d3U1VQeU5wNGxabFZtVmFpUENvNTIvbjg2aTA0azFmYTE4VEJTWnJSMDhtdHJ2MTFGRkhKa1lPSHZmT1QvNjNCTkcxQVpwUjBESXNNaFlraEQ3c3ZGL09MeDJhUndBSGRDTE8vdGNUa2xGdEhSVGxNeHlTS3ZvODJSOXl1cWdhTE5idmYvczNBNTl6cXVpeHpOdmcwRG9HWVBFOXpDVkdWRS9xMktzZ1o4OVdFdnNpYzZiY0RCZWpONE9PV2xpbGxpNXpwcTlTYkJ6RXIrSms1dHlxajhjNnliL1M1am4vSm1rMXl6ekpHT05hOEtuWkxsNUR2NjUzZHhWZjM0MGRqK0E9PQ">
+				<gx:ImageUrl>https://doc-0g-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/io08meu7sdq13lu66mdlm5vkj4/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALrQ9W9hty9XGfodHlS0GQahhYMf-wjpQSXOmKAtqbUWFJtPYKFBnKtaAyrm-zMbUwLjm6kQw6940pSz6Wf7bl_gQ9kHKrJalZwb5ZTjbNgEhwT7TtUVxh2hPZr6cB3I4lHYl3KzxmRaZhUCXsLFnJq-vH3IbKuzQmmNMb7yN-vYwR8bwWcKhMl0PxpJRjmatjvoFC0RY8aurZV7Zko8q_9r0GRcS7xWUufNzOxM1QYTjMd_IURLQREZbqpbFu_yjOk88GrwHpcZLVub042Zw6toDHNK4w?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcWhpMTM0VEhUc0c2YWZNMjBlZ1BVdmxlM2JxUUxSMjErd28zTm45RCt3bWRENmpiU015QXV1c1FVR3c4OGZ2RnRNbENHb2lzNXczUGNDUTNwYUlwY2IzRTRpakZxaVhING5lYkJvc3JIckdFcFN1QU9ycXFhOXdyOEl5OU5JQ3FWcVBqRDNxc0lYdWZaemh0cnptaXYvOHNJSURQSW9VT1c3VDdwdmRURDluRmVSbVdFUjM1b0NhZDc4VlNtYytjQkNYVkh2WVhvRk1vL2Q1cTlkRGZMR3A1MCtncmR3bXlHWEZMMDJHT1ZCNitHM0p2Qkk4RUp2UW1NR0FDcVIybHBvZjUxdUpGNXVkSi9qYVpnc2I0VnNMTnNoTlE9PQ_0">
+				<gx:ImageUrl>https://doc-10-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/et652av0c867l3rbr5271a1lg8/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALqa7oNHfyNDi2nuLBeAtn1egWBjipEZ2W5sxvVEDUVvWTFFISGQlB9nOa3tw5dzTTvnys4bs-B1932OApjQmInRO_c7KRO6Ow9DgTDIpzlkd98aP2PjjrMIJngXS3AEW17XU2iT_PgQfK2Hq3LdLAbwAevv2UGQojUUywjFGT_ndPYYMaUJpv7WFsSSsnZmitf9eRCSF5sa4qSdhZFg048JZV5AX-Q1kEUx_Xj0yJgfxGx7hxU-3mx4DGwIWNfUVua76O7CRuOFh8rb-MTj0WSG6qCZTA?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcGg3cC8yMHMrMndsMEE0a0pWUnMyQitNQzZmVTlGazhuTEo3VmI1VTU1VUZNalN5ZTVSN1NvYm5wSlJXSTdjRVdBRi9hYXRvdnVUbHhXUGYrSnNEV2dGUHdmOWVOTGhwWVhjbENEWG91OHNXcUl6SlRQRzl3azZ1WEVQb1k1YWlzdlczZHdleTlSRXg1TkNOSUI2R0k2L1ZtYXpWQm5ja0NicTZXVmRaV1VsNVhmUFM3OXg1OGxLaUdUNklQellNVUJlT2JGWndLM1hwR3JwOXZTQTI2c2RXbWNXbGVzUVdEUy9kcVNuZnRkVW5UamJXL2FXZjZJZC9ORm5JbXM5eGhJMUNXbWZ3Y3JFN1E2MUNGeGZReDZHWTJkOUE9PQ">
+				<gx:ImageUrl>https://doc-10-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/uvtacg4kec798rjicnailu40p4/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALooFoxXSrPo7TbIRR3A5G9Csq7-V4y9q0U8qSFcBtSvnAUh36UvFvOlVU1jV1nDX3WUM5RGRM1xMPHXK6JBPVbHks311IVeDSnJW1s4EvYKfgOlfR6vNp3QzuA7OoBaFYlPfVmQOJtHaFhGwC8AUbbcJuuzq_enSWyI_OroPImTGO23hSipBijp68gfBCH7lv4CUOoM3hQdCfHZ0GOHaWODmEkSKrcvd_n3ellplt0LxyfRLRwlpNe9eMCf03HutVAHQVdzY2aZl3c-Grp2604neMkHnQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>17.94650255514244,59.30285878595863,9.358587803948293</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03F6CC5FDB1357722684">
+		<name>__Skolor __</name>
+		<description><![CDATA[<div>Gustaf Gabriel har den skolgång som erbjuds med växelundervisning i en folkskoleklass med flera olika åldersgrupper. Det kan ha inneburit att läraren kan haft extra tid för en ambitiös elev men lika gärna ingen individuell hjälp. Gustaf G är uppenbarligen så duktig i bl.a. matematik att han 18 år gammal studerar till Styrman på Navigationsskolan.<br></div>]]></description>
+		<gx:mid>/g/1q625whzw</gx:mid>
+		<gx:fid>0x465f77fb12f09671:0x9d3e667ce816cf6a</gx:fid>
+		<LookAt>
+			<longitude>18.0747228</longitude>
+			<latitude>59.3181155</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>507.47085612524</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_099259BCE7136C7D5A34</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcHlRRHEwRjQ5cmthVnllSXEwaEZVUnFac1VPVlJzMVFzbVU4WHc3N29FeXhrOUcrVmJ6ZnR0RkNldVRiWGllSHJSbU5zbWFUczFlM21ZY3FIUE1ydlIrdjhud1pjWWVDRHB5amVrdER5ekdJYlpNamo4ZnYxL2JGeUVNQ0JDdG5INjhMSit2MThNcmRBY0M1emhUcnAyVVo3RGF3bk1US3F4VmlPWlJOZVBqWG5sUTljdXh6dEJBcXMxVXlhK0NSbzBMSWQ3LzgxZnJ2dEVzQUtQcjgydDlENGdWNVFGdkoybk5kckdLYm9Rank2Y09FNk9TK01FSFgzSEF4bG9GUXVNMDgrOFJreU8yRVdpR3JyeUlVS1RYR3JiOEE9PQ">
+				<gx:ImageUrl>https://doc-04-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/48akkdfj8f5gsmqd6vvhhin26g/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALrbkTiV1s0XdmpTJlj34KO2k2eGxvqr4FALWh6zbMpeWn9HLcUGkNZCm5rRbY47bt4yyvNYPlftdI1HHgj0p1QtESVJPeAS1pZTwXmdBhNVq-rIcUutMp0NZZJ3JYMnb7gjJeBszXb1KCAncAED8f03UPJMK_BUAMrD5jzkHxRbwbZcky9gtVdTSnGLIwjsxY1Dme_c_1UjinWiK2ro6iuEq_i8uYnAws0BjVA0l49JzRRI86E_EGRjXfh0uqWpGcjC-na55DC3EAPRqIpfcqjEBCo9dA?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>18.07530782049716,59.31806120550941,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0880C04575130B97E84A">
+		<name>Klara Folkskola (1873 - 1878)</name>
+		<description><![CDATA[<div><div><div>Fostersonen Gustaf Gabriel bor med sina fosterföräldrar i Klara på&nbsp; Gamla Kungsholms brogata No&nbsp;50 som låg på andra sidan järnvägs spåren på Blekholmen och vid Klara sjö. <br></div></div><div><div>Gustaf Gabriel börjar i Klara folkskola när han är 7 år. Han går här i 5 år även när han flyttat från Klara till Rödabergen och senare till Ingarö.<br></div><div><br></div><div>Skolan låg på Vasagatan 11 i Kvarteret Pilen (karta 1885) nära bostaden.<br></div></div><div><span>&nbsp; &nbsp;Folkskolebyggnaderna&nbsp; vid Vasagatan fanns kvar på 1960-talet&nbsp;Skolhusen ersattes 1912 av en ny byggnad,&nbsp;i kvarteret Duvan vid Klara Västra
+Kyrkogata 14-16.&nbsp; Skolan upphörde och revs 1964.</span><br></div></div><div><br></div>]]></description>
+		<gx:mid>/g/11c2d2kqhm</gx:mid>
+		<gx:fid>0x465f9d60dc455453:0xe986413423c13468</gx:fid>
+		<LookAt>
+			<longitude>18.05915735681798</longitude>
+			<latitude>59.33227226106516</latitude>
+			<altitude>33.21791810818353</altitude>
+			<heading>-115.74208753528</heading>
+			<tilt>52.61921873809612</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>461.2085001241212</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_1EF9E04429136C7D5A36</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMb2cxUVNJbUsvQjJUaUpmTnNvcmloemtHZ2pTMEkzMXdObGxtS1JVaFNBb2lBYURyNWltNXJ5WFN1b0ZJU2FaejE1NGlhNGRDUU0xM1ZHaW0ydW9IWHBVdkRybTloMjd6YzFIV1dpTUloaFBzNnVtcnh2c21haXNBZlV4RllXOThRN2lwQ3JlNkVYMVBkL1VKYlhINTlWY0xxdStlS05oa2ZXR0kyU3c3ajJGTmFFSkdrV3JVWHdEYm5QaEJBVDRRNGZkTHdMcXE0d1UvVGhKVjROb201ak9rNEYvSXBJcTAzRWdHODVZaFlxWG9DTTZaa0gvaWhicEZuTjJxOWZKQ3FyOFJkSE94RUFkR0tjMW9vMit1ajhtbTFkdGc9PQ_0">
+				<gx:ImageUrl>https://doc-08-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/grorhvdrc4qago7codotv4mlkk/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALqKurPMr-z7HGql-AWbLb0w6XszxoYuDnoq1UH0Muh83rUSWppD328g-z3QeAIb1SCIWyxzSRM4sSNVn5gaD3yA28rYf1tM8eKLXsmuEz81m_iViqTubUanL8iCf1n10N_x4w5QS1qVTm2YLc0ybLtKmEhCfzdOpOA4plsusUuYnCtAk5nM1y5yfcWNTY_qraWmtqJ2TpK3z6qATFTCIIafpg9_GhlHLjhINw9OsK5yNTYf7uD9r-wpJ0JjITG2oPg2Re1FoyUwK8wwj0FWMSSR9_7e8Q?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMb1dRYStWSEtXYlRqWHJkU01BVVI3Q0JzZlBid25DZ3hoUDlKYkRuSk9wNDZxcjVZTVlzY3ZNQWVJYTQwTm1ZcUhMb0RCTGJWVzZlbTEvcHMxSDhKNGlKUUpwS25pdGdsdVBRd1VhRE8yRVBlaCtwdWdERFNZRHBUdjlxemNkUWFkb2p0VnpPUHo0cG5QaUpZMmsyYzM2cnlEWWhsMWJ0anJOeU12MlYxVXJkcHIxNnJQcTJyNzNwdjByWWZ5a3Q4Q0VkeVhOeWkyNDEwZy9YbEhZaFZzSHF4M1dHOFdhSEJVcmtCbzhlNCt5ekpPREVPaW5DWGxaQjlXM1U0ZnhkMW9HbkM3eEV0c1liUWpGTklWQmlLSEMybCtTN0E9PQ">
+				<gx:ImageUrl>https://doc-04-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/l6qie6la3htqnruqkup266qio0/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALovA7msqv3QpmChn-FFvWWWnR2cUhT-NtYnFSw-2ffDCGvJfi4M18dbr9Z9rJSMndLJHms6DJxymQLGSlE-Gvui01U4VkQi5hRmeD0L0lXaYfo0u53KMF4Eawzp6rzXTFetXuLPVgBtrEaTsHfWIksTo5OaxDhs5qPNoM_riOXe9N78N529i86B3SS5wlA4KXjmRMOLoXoLJ01rEEcUkqMVxIVXiU5DhvMdNH3_RliWcwbtYKbFI2YbWwJAP3k_R6QfLArFQnISk9FrjqJKrlflognHDw?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcDZHL2hVaWJaUlVxa21GVS8zQ0dLOWMxVjhCckhqcmIyYzJkMmwyUkRrTyt4MjVzeDhZd0o3MWViVmhxNTFlZ2lrMnE1OExLSm1xdGhYZDFBTXVWcEJjQmdKT2pnRXZqbHArVHlLMFdBK3phUVJ0RzcwSzV3YmNNbHFVaEJVbEIzQ3I0TTBUQUwyOVlTZXZKRkwrZnp3OWIyTWo5MW9vNjUxekttVXNCNGhEK2lIdmNhKzZNVWV2WnBoRFVLS2c4dFp6ZVhHNzFxUzhIMzhyM05YMVllVDIrVC9KQVpyemhCTThlSUhhOUpDT0c1ejJ3V0s1dENuMDNHNXl2WGxlZ1BudkRubzAxQnV4N1RqTXBOVGpRVUV2UDNSRXc9PQ_0">
+				<gx:ImageUrl>https://doc-14-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/853a3ntriaj4ru779iiami2v4k/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALqFlntF3szpqeTfObF0T2EOVApJFNqBe346iNpHL0OcG0025C2kWFEBhr79c8mAV5UweylewzPYX_o0n5fGHYNzpqaYGppuVYSF-FptMJ3JrLEB07G928r0z4Rup0f7NMW_CNdEh9Hc7DrN_QezpzP4mGhiUO2SLHECLjVs865Yz61k3YLp8YovjPje81SMYPoRj9JUGTbZuTpiUQB1bqXF_SnAuWtXsnIDzVQjaYUcR_GmHgNmlmZPtrkhLcsPc4jKzo9dNdvU0VJDPYIyyHBZ4zMGGg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcm1Bd1dkUkFuSyttZTRGbmMwZWozaXJuLzVsUmZISk1QbDF2RzlzMGFEaHNtR1dSNENjUDAvMUVFYzlTR2tscmpqZVN0cDRVVm0zOTVzdzFuczZtL3h3TllxNzRiTDZ3cjdtUjg0TXlxMDB0Q2VGanRxMHd1RCtoMEJGODhHdU9EaFk3aE53YzR5OW9mdlVPVU9Ia0FlaStRa3pNeHhHNXNMTFkxZlpCTU4zQjZGUkxzeUVIRU5rcFV5c1ZmMTloR3V0WEdVTE9UV04zZm13b2twWXVaUWpTWmNrZnpjMUhYVGRKZzRRbWxPalBHVUZYdHRKNnFKN3dOWElyZTJ6MWFxZGpmcjNGbXhrVXFlaXhPRkVPQ3hNbWdONlE9PQ">
+				<gx:ImageUrl>https://doc-0o-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/jpi0iftipkqilu0bv5r898uk6o/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALogu5uItIBpWTfq3d7fFnlAHuMWTLQ01P5lN9xDH64NSHqsqI9__mQmw_RIO6eeAaK5tyAtWrtnz9saAElGlLvVFF4LRYz29hx26Qp7L7xhH73YHt5h9tJPprJ4yfRV784nJ5qaWt-dCDuu_2OhJKQnkKadmV3ghbmjDiKjUVLoXtik_MS7nvHmtud832xMGoe84feHerWz0yZ5fxMo2Atc_VgBJqTSdH3v5IYo1MvEvgKDwlQ97xY3hJAmbyT_PWeo36Eig19M_Ee_9c0S0WH63pMnHQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>18.0569497,59.3327724,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="034C58441B131E30D98C">
+		<name>Mosebacketorg (1890 - 1894) </name>
+		<description><![CDATA[<div>Mosebacke torg&nbsp; och&nbsp;<b>Gamla Navigationsskolan</b> med adress Fiskargatan 1<br></div><div><br></div><div><div>Gustaf Gabriel Palmgren läste&nbsp; bl.a. ångmaskinslära och navigation på skolan. Tar styrmansexamen 1894 när han är 26 år .<br></div><div>Efter ytterligare sjötjänstgöring blir han&nbsp; sjökapten.<br></div></div><div><br></div><div>Hans son Hjalle Palmgren gick dagligen vägen över Mosebacke torg förbi Södra Teatern till sin arbetsplats i Stadsgården i början av 1940-talet.<br></div>]]></description>
+		<LookAt>
+			<longitude>18.07770115461635</longitude>
+			<latitude>59.31704884496183</latitude>
+			<altitude>40.38021707346935</altitude>
+			<heading>91.7394759342595</heading>
+			<tilt>45.00154989130058</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>749.7063373069977</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_086E166D81136C7D5A3D</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcTVaNnM0TThuZ3RJUUtOaitPSTdUVHRML2tZZjdYZW1rYzh4M3dVbmRTalYrN2VBT3NnOERkSG13QnhmU3BUTG1lQTBkOUxodjFzME5NM1E5WG1tdi8ySVJwK2E2MWl3Qmo3QURpK3BDY0VDT09iN3F5dkplSUU0ejJ4eGZBM01qQUtXdXNaTnppSVZldjAzdUpCSkhSc3RCQ2dkb1ZLQmljMEp3UWtqQXBHbkNjem9HaGxlZ01LVlVOU3JuZUJFUnFMVkpMMXpocDBaeVhHRXlKMnVwZ1hNV0dIa294amQ1R3pJaDl5Y2xYbGVuMTl3QSs0cDdiZTBTYlZmWVpVbW8zaGdmSUJ0UTZmS2dkcGlxeHlwTktRRW9xL3c9PQ_0">
+				<gx:ImageUrl>https://doc-14-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/rkkctu1cldn4nourbig26uvebs/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALoal2KbUfhsp2z6tIkS5EsrUmh75UQ-mHXC2Mags7sLj0dc98ttpggLFTx8fi9YbFZ5cZEVsDi_nEYEwsRhVy9B3Ei3wOKjNIoLzSfChIdU1A3RRWDrxxq1WRv3GFqmuWKuYyXJdgV-FOdCEN8bMF5uRneRqqywAjFcz_bgcwqRns3aIuliNcFMprrioe_r2cF1N4yYT7pRP-zfuJImNyAe_2x9tTWcOo0IKszKdHYkDqUIdhEQRL3bznzN6yg1xfGRwEM3sPMQVUH3JnXo2dAmqVZMcg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMbzNHUmxyZE1DSDhuTWkxUEo3SGxWV2JhYlZVR2N2RjNVbU5ab1FVSkwvQzRTQldvR1ZLK3o5TWlvVE9xWXU4dElFWGdCVFdCemk3b2prSHVpa3dQQ24zZlF4Yy9xZTRVcWFsYjNUMkZlbCtOdUphNXlmeCt2dVoySlc4YlZadlVVOHZsbnpWT0pHSXR5U2xSUWFYbUkxc2lOUmlPZ2gvVWhjRkNQeVBoUjJBbExvbDBHUm1oeWNteW80U3RMUUdpVExDcFBlb1phU2t1WS9aRkdQdW9OZlNjU1lPK0UrZTRzZStlckpjNENZQnhEaDBzMGZ5QnYwdFVkTS9ta1ZWRnplN3BzamtRYVNzN1p0a1lVSUdHZ013RHVvMHc9PQ">
+				<gx:ImageUrl>https://doc-14-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/bl5tj7fsms45ist5gs440m1mu8/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALqJGxQ74mlnPGKbFAeeYxNqcxvtpOmGKB0PTqPsHA_UwxJ7K5E416_ZbznK4siEa1zg0YYVhZSCvf7j8AFb2NpPAuLr2aXk08ojAc6SfHnm7V73cPVXWWhxRexoCHDreWj6pK6vkrXm7V0McUvSq5nbUSh6Zlbm3vw6VCdWGk86BoMfYAleKb_Ut0HaLtZRWaPrb0QWu1AbWSEv4Z6-7bvbXMAeE2y9HA2Z4IhwPNPNYxfgKjYinxh1JRHoVpNw3nDSALiIcWDip8hUTG-tJSOVMmWrEA?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcTVHU1BMSEpZNVQ1cEZrcUZHbkxYWkRWVlhnSG9RUVdoZWtHeVBPMEdxYUhVZnhMcVBYV29YcUdiZjM5TTVrRkNPM2FOZDRxQlBFK1JRZXlReisxdGNRMFIvUXNlOWlxZzIvVEtNREhSeVVZQ2o2bENaQUhETlJuRzhnOXJTV1h3TTV3aXgzU2ZrYmNBVjRQVDNhazBJRU1jWDNZKzJTZHh0TmtNZWIwamxLUVZBTktka3BCQW1JblpvQ3YzTFc1akV2a3cwOGN6bXJuTVp4ZEZUNk5zSVlmQzJ5SDIzbUFuV2tSbE5UdkFXZkExNHFsZzNRamRMNlgvNEdhZVFqTXNCbDBvMEdWdCszVFdiZmZLNmRpZDErZ1V5dlE9PQ_0">
+				<gx:ImageUrl>https://doc-08-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/vsnvp5g0kg7g48johjirsnaj1g/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALq0jYgtxW1Hg9MHo8eV2haZNtdLIRmuphUW4voRhYQxoBZdhN0xFoAjTYWjr5WfUeMbOGl3wk80qlMuotlphagyio80Y8U6WCvRqPmX-hp3e3kYBt077bLPP5gYjPMZ6t4b5_dQ_0STMIpFhsEzPAhJiQTECckIFPs9eJ83uOZjdTZ9t57cYbjwT_YUiBSrTVBpAF_fipE7ZGT7_RVBk9J4N0-XRKHjjyiPyMY9VW_zZkf3pw6VVRLm0eY7Yyb7E2dNDJ_nKkdFRACc4qbuINKrc_wNLg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcGx4NGdGY3k5VVI3NkdKcFRUMVcrL2xFcGdkNElUQzdoS0JvL1R3VWc1YUhpNmQ5VUtDU0xjclBxdGluY3J1d0xpQkZjZ0h2aVBQekRxZ09BbjJiUUQ4NDNDMEFzdktnWFpmWktPNU9UTUErdUg0eDlhUlFSVnBObnVvc3ZYQmlPM1FHRHVncnJjU0cvSUU2Tjd1ZHRsWVNFR2w4UHJnS1R3c1g0aWR5M2UycDlCUGpRSlVLZjUyQk56aGgwaDdOTXFGOVIrTUk4bjBOTFhUL3RiSFZ6VFA4VnJtQy84dHUwYUZyVmdTYzVPRkpSTkpTcVQ4UWdPTVZmbHFqV3ZNM0tzZ0ZCZ2lhUGFZbEhieG12VUNLTGU1TllhcEE9PQ">
+				<gx:ImageUrl>https://doc-0o-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/nr0flslc0amvag08j2ai98rids/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALqcrYxhjEBgsVGxpUa7O_rlgGmwOvlrfnRSxHMfAXm_Gnzc1gliPTvvLtXOabeX_2htCUm9k98w7V5GQZJAGE2Pu0kLXvdCkiKdqPwW1LPwjgZRW68wvD6b-iOD1Lvb7qeIHF4PrmR_9OF0kZM_yfcDOPSJDwYvkCn4IANGtVZzdA5jR109bnuF0W6HLdOTLsunvbXNmAJx3VCRYO8ws33t75JorsipQ5qgKVgoBodPBye2oXcFg-S8DGs7At0OKhRcatS7_r3y_b_0Aj-eazqcL69sxg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcWFZNTNMcDRuSjArYk5CZTBkdDU0bHRocXROeVhjZ1JKQUF2WVhJN01LMFRtQlRQWmFOU1UraFJ4UFZVOWhCa2k0dFlldGJnVnhzbXM5MUI0VkxZa1RGTnluVnN6djRQemE5NG41Y25vbnpDMEZhVDRUb3VZVytHMm1GVG9IRGozOXg4OElRbklRcytTZzZ3TitjbFVRUlNhUkVYTUcrOW9UeEZ1bUVoWVNBSWVuTkVRNWNvZmlJUkdOQlRrbkNSTkNEd0RnTi9JS1pzS1Q5WW4rZHVKU0dLb0FOV2kwU3RFSlRZNjJzeHJCUlNMZ05aemllYTJJaDNId3RPN3dqbmdBZFJrSlhQU2t5dFU1RWhDUlpSUUJhTU0wblE9PQ_0">
+				<gx:ImageUrl>https://doc-00-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/pqr631t60lorpji9mr2pkkcl6c/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALoAsRWDWaGIP9JRvatdh4qX4o1R133eTCsJUhqXNCxQjf-u_A9BQ5ZDW8RWh1tuhfWo9ZtUj3W4yHje6CnI-fJLo-VueveGNla38qhjJgCfmM0wyBf95UFPpAdUd1K17vp6LgVWmYoqbs1aQsBKjPch6mYPn5QS_72JNv2zfZtjqCCscOOm8w1IW94MqJ17e7ECamRUymLwQ9knxuIp2zWKnnEqgyUt_MIqVZFUAro0lvqx1UzCs9LIIAJzC4IzWtSjDP0usUuhXeCcd9Wz0HVHnDNyLg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMbzBNdWcxcS91Nys5Tkt1V0owTjlDZnNSWXczSFR5UjIzbXlVTm9mdUpFMDJUTTc4RUUxTlk1VWZyT2cvTGRzS0MvdGUvYzRNWkFmVEVSWXBUWDhKVENOeC82NlZ4aGdJOXdJdWNKbzEwMWk0WFl4OUZyV2FFS20rbXRGdnBEY3VmMk9vRWtMeGFnUURoMFM2SWFxTGkvWDRKaWl6czRwS0RaeUFlZ0VoY05EZU56c3VCUHZ2Y3RlQllrTFhRdXBXbTlpMGVjTnF4anhNY0J3Y21BaUhFS2t5NzJRVU9CWDVGWk9jRmlRbG1lamVINFl5VGZCS3ZCSXZMamErY29mcHdtaHNBSUZVU1doRkRFUzZYN2kwSzFuVkcrYnc9PQ">
+				<gx:ImageUrl>https://doc-0k-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/82ltpsatuvbh45cu34v4s34amo/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALrkGOXxxU32lsW2UribsCzsbfGtWTMKO3mdgrsfqYPHnCfcqn-CqFmJUSj2aqYg2akHb7v2QOQ6wn6PAkUOml-pZDFu7EDrstMXSboncPmwKtkvg5MKRAPuaVycD9aeG5FicA9dXaIEAkmutOsuUhVsA5ih2L7yupPoKqXgrOFxFJ5EbYRTuqUFPhYmd9EFPskZzFO6R-MplN2dmcdOBq-y8Xv0l4YJYDFrZd2dIOVRchQqp0FCow3f01pSWUupT6jdqhaow-eOPNFvUeeH0SXB84yZaA?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcnloOE5hUHZWOHhzMGt3Q2FRYjU4QkNlV2JVWDlpa3NQUDlRV3lvOFRCam5mRDJBVnpUS045TTRVVk5HTVoyVzhka2ltUFM4Y01va21XaDFSVTVnVXJXYTVwWFlWZ2p4TXVWZHNqSTRobHRpN1dkVmxPaTIxMHU0SFcwbGJFRUxreFcyQ0lBV29ZTUhqeTc3Yi8yK2VsRW15TndjZFBrQ2NReWc3MWVDZjhKc2liYkxhemVrRzAveEg0TGQrMVZBcEx1dCtaUDNFK0djbDBaZTc5cGtHM0xQV0p2QWZLWFlNczUrS0k0U2hPVWdJOXY5SDdFaXVyajF5SVRCQmEwNVpUOHZUM1hXbWxVUVNWNXk2Z1lyNllpcWQrc2c9PQ_0">
+				<gx:ImageUrl>https://doc-0c-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/jgam855bj021v5es1lvee1dv2g/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALpsjpkOXUf_9myu803sl1oIzc9v0b_Ig31vduO0lGmxYskkkkA7vvlKqrJOAG9EvSb4GJs5v-qPtY9-9qXHILcqA2DyUM6YW801hyg8VS1cPJHg3LGqzJCefPdSyFSx3SDdjLGCXM5CxlY6SUoifwCA6dz6KicUehRJG-QuQG_1Es3qqZTINFekRFM2u586aaHwVddAu8ym1li5xbCgtH8JK5HWvisuoR8w59zilWX6n5UYGt7fD1mn_3TKsZZh9bycVfaQDelquTJrmrksz39QI-QRGg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMbzBxSk44aHZvR0YrYVRuSTNnWjlWb3Z4QUhqUDVadkIxOUpUMVZDSUNVSEREV3RUOXdiYjVYYnB3bzVUMHpJNG4zY0k1WHVCVUJYeGlNMHRIK1V5alhnUkRlQjJ3YmdsU1dIbnhPYXc3R3Yzbzg1dkVSSU1TNmJOc0pjTTJWbXBXWlNaTE9MZmZORW5RMjlJOUU3czk4QlZLSEViM01TdlVScnVZRjdKQnVuUWlEMWpJM0cyNWNwd1c2dHBqakl4bEM1VXpVVjIvbnlIR3JoUC9FaWplcm8ySjJBNTl6Q1NBcnRNNWl3Sk9kUTIrNVowU3htNHlYUkJmY243SlZzMTBQSitpNEorcmQ1K0RGQmJ2NW9haG1ZbHhXWVE9PQ">
+				<gx:ImageUrl>https://doc-08-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/vf4lhv8eakqe1nk5dces3sojtg/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALrxkIOfVEdWEtcsYpDaagSm3s5bdBrrZLmQJPusrfp3hN6YPHVNpYleV-X-U3swaoOMkYp0p1BuH593QvzQ-d86jJN5qFHK6ro-dA7XVRQcJM47Zn5ayN_B5cZcMMAS5YIPYEbP_37y4yryHHPX4Qpgb0Py_RviKjf5zMjpWmbwO3KFKZvssugIkx4MSpxj7YgVwQAdgs3Af2O7lJWSLI4mGrxJRh25W_nHmEP2ZUuPxHI5MHRtfa3ZOjEQ4MJTadVwRtSPCSkWXKagP1Nu3pdm41rvYQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>18.0747228,59.31811550000001,51.85954199281999</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0004C89BAA13577E16A1">
+		<name>___Händelser___</name>
+		<description><![CDATA[<div><br></div><div>Gustaf Gabriel Palmgren börjar som styrman och senare befälhavare i Mälarbåtar år 1900.<br></div><div>s/s "Strömsholms kanal"<br></div><div>s/s "Prins Carl" omtalad vid dramat i Arboga.<br></div><div>s/s "Ragvald"&nbsp; ex "Köping" som är med i dramat med "Prins Carl" 1900.<br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>Många av ångarna utgick från Riddarholmshamnen.<br></div>]]></description>
+		<styleUrl>#__managed_style_0304DBB1B3136C7D5A33</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcEkxSFNyTmV2bnhvc3hKdElwdjU5dzJpMThheVc2eG1FeTd4NVcwcmhxU3ZsNmsxUEpvQXpEclljbXRaaHBkS3M4eVEyS1lKUmNVNlRRQmJzR1hmQU56R0JjU0ZVZFlETStsc2puWHZUY2tPSXlXOU8wWmFxb0svNkorV3NVem9HN3pGSkRvZWdTaFJyZzlqNnBNazlYek5ib3hta250RzdsaG9OcEFDNmhxMEZndXQ3bVNqVUxpR0VkUEFJdWgySGtoaENXVWhZY3I0S25mbmYyV3BnVzdsQXp0NWQ3MWVNQUxkWXF5R0FLdmNvV214RDFmY29TK3ppa3Fib2trNDJ1Wkd6QVlDOU9KbUdBS3lrLzVITitZZW4xbEE9PQ">
+				<gx:ImageUrl>https://doc-0o-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/vu8225v6hgl7amvcvld6bijhqk/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALq22qh8VIHY47utt5aXVpdBkBpB9_VlN9uzGf9n-U0xtP3nK5H6nvx14rXJgdCnzzhs6v4M_KWCHOmkJ7KZAw8HapXKcRShKqx1IC3qVHWtHKDBd0d-xoxGM4OKXc_y7TDshPSiFYKmmms7Ry1B31vcqvgLYFpntel2FfcMTjHUnFmzSXVufZ4LspZjCvTL3ee0SmboAuLtyiQ-FDYfsjRRHhPWxyj5_eZyIdkxTOwXzpzss4q-jqS65kqK9xFKaSovF5CUuhz4OZcinktOrjR8a57_CQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+	</Placemark>
+	<Placemark id="00788D8CE5135790C0FC">
+		<name>Mälarbåtar (1900 - 1907) </name>
+		<description><![CDATA[<div>Några av de Mälarbåtar Gustaf Gabriel var befälhavare i hade Riddarholmskajen som hemmahamn.&nbsp;Stockholms Transport- och Bogserings-Aktiebolag Rederi&nbsp; var ägare och drev flera av de fartyg Gustaf G var anställd att föra mellan olika Mälarhamnar.<br></div><div><br></div><div>Kajplatser för Mälarbåtarna var även vid Klarastrand och i Klara Sjö och från 1930-talet Klara Mälarstrand vid Stadshuset<br></div><div><br></div><div>Bolaget blir stämt för att namnen på fartygen är svårlästa då man "låtit måla&nbsp; namnen med anglosachiska bokstäfver"<br></div>]]></description>
+		<gx:mid>/g/12ll0vxth</gx:mid>
+		<gx:fid>0x465f77e175188295:0xb62047625bc6ba28</gx:fid>
+		<LookAt>
+			<longitude>18.06020333883506</longitude>
+			<latitude>59.3259995070668</latitude>
+			<altitude>-0.4235979486969799</altitude>
+			<heading>-1.914467001894824</heading>
+			<tilt>63.1659153624361</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>516.1399205139605</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09B781AF67136C7D5A35</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcHN0QzEybXhaRlhwSldGWEgrVWJPL0NTbGVETDRnamxxZ1FuajVjS2RpaUdncFNuckc3OTc5VS9HZnJ1R1duUHlvZ0JMUE84Z0hiK2dnaHFDNVUwWUw2dEVSS0ZmU3dIRmVWd1dEUWg2NDR4YzZLZGp5ZEN2dEx6bVArcGRZQS9IaXF3V3d3b1VzdVZ4THl6N2doVzZVNHlaeTExZlE5eU11MGtUdENRSG9CaHRvTXRGQ3JkbW5nU202aWNYdmswM21UczRPcmp0ME1jTklFTGlMbWJ1K3B3V2tmOGJwTG1iQTZTZHpJaURXQVowVnNuRnNMR3dPV1NQQzlVQlEyd1h0eEJzZ213allxUUhBRDdmNm1XV3I5YnFsYlE9PQ_0">
+				<gx:ImageUrl>https://doc-0o-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/6n43nri0l629h5dvlojn62kig8/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALrGtQxMlnwnhMxDuhPlr8Drtn1hwgYe6CeMMB7KRChq5EnxPTPzUmcFJ4I965l1zv7cri62aYgMiP5Ja4aDscMTNpLOWgW1SCYb-Sw0t2KUtHmXR2F3KwiLPsrgbUDzFS7tdT_GxzZxFDy-whHV18k_XjUnHMKlSEGX_j-FPDs-J9QsGChWIwktL3xKwz05L1PvIBMnOTRNvyFGyQzHGWjHLkKe4rWD-9lAKRlUAqZUUjdOM0_srcLSBQhncjVu_1VeIdd_lFkbXNfUD6JE4ivBpW9-IQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcGJjeXNIUEY4S0FaU01kQXRtMUFKczJGZ1diQWxwWTNTT1BkMXZUZFJ4SGU5NysxdExYdmJZTW5oNUhVTnBXSlNXQTF4NnZsQXFVZndJZWlkQ0ZWMG41MXRONlBsUnluSXpZNVRhUlR3bzY5YlBkL0Rsc1F5aWd5ZEFsRXM1RWFrMEVpMVY5dDZxbGNPZk9kL09ZQ3dnaVltbGZvTmdGRjdLak55N3hHTU93bUtWNHIrRUFOKzMzMGVLbXdCZktpYWU4dUF5V0FnZXNBbkkyZmpwaE1QV2kwUEZqdTByQUpEOVMzSGViM3hzTDRPYXVrVVhlUm4wME1xc1dGZDRickhhc0dOeG9mR3FQUzFsb1BuTmFvclh0S0Vucnc9PQ">
+				<gx:ImageUrl>https://doc-0k-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/kqsf2s9jjgta2phf34cl4aev7o/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALp6GcHD6nE-qw8TKHI8tcfaFmc0FUP0ioSFjr2uObVO6Fg9sn8hw9FMKIuyBnRkat8fpDNLICOGPGxtnQK2uvpPwqFtKZL_qNqAUfRBMiUIn_zlp9vrkhLo_2psv6K7cgGSCLOAhurPU1Xiv5nWgB7RVDqfn6Iu_HfBYuPtjN1JfL1BYmYR-PVWx-yHRidykC5P6v0bXhsK2_JmOOIH-a5noH_vXFmiL3cpj4HZu5z0JhzDdWbTtibXEIqzBrwomKD8adLnWQxZrnst5gw7c3Da5mXRMA?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcjVxNTA5YldpVUZRS0xjQVFJN3RJRGRySlVNODBqUTVhd0sxemxrSnFTNDJwd1RZYnlHV05GajJyeS9nYU4xVG15UFVFTVZZZkZqbHR2L0hvM0FxVUQvKzBjMnF2bmxycXdWNCtHUVprUC9ZVXN3ZzlZNVZpL2FFNkhzMDc1Q29Xa2lQb0lPNXZaMUNDL3ZRWXlJVFVlcFIyYzg0RzRUaUIxVFNyZ1QzN3FKdVQvbFBVeWd4dEF4SkdaTkFEbUFJcXNlTlNqRDJnbGlpWTAwbklrVWl1M3ZCNmQ2QXhiY1BBWEhZRGdvUVNHRE1iekI0UXQ0cGI4eVlpWEVnckp2RVZXcEY0Nnk4eS9UU0k5QUl6WDdOVy9vRXZIYlE9PQ_0">
+				<gx:ImageUrl>https://doc-00-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/3kgdnej5c797logqps0nirh434/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALpIzAIqjGApRI2MCWTjjuvYg0AzfWajrPVNKy2fyp87jrlrwb6Otz1u1FKAcrbNxK5wPSrjDp3h1vZgK-H1XjYEk7vYkj2by8K2jm-gWuoGMll-Bvo5ULhfOCbm8b24XjUH1YhGFSUpUsu4iQ2ovT3hT12HiXXlKk-1lFwP8_Tt4A9RqsJWRM8Q1f-PFWXfozz7VUgmYz_QOvIcIN59sk3FclSKuGHflrdud1LUEF6IX6zaccbtGqYa5jI14xHkKve1t-C0qlLSn0vAUtdQTcou4FdHrg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcHhwR1F6bGlqWlBtTVJjYmRTWGoxSi9hWjNOcEkrTnJ0RWx3Mm0vQm1WTE4zZmhpQlZOVXkxbkgrMm8xdkN6ZnJ5VE5uMmgwYXYveGdUNFdqUUJuRmhkQ25oZ3MvNDRVYy9wdVRpQ2xPb0hYUmZha0NZdEtEcXI5ZkdVb21lcXFkRHdLNDhXRG1rdzY3My9PZFhPWGJnNmI0N2s2NktBbzFTdWhBbUJaQjNsWGtHSzgvL0tlQW5rU0JUM3cyZVh5NlJCVTRIL3BLZlNvNlE1ejg3RndQRnJLL0pJUTVBRklCZjUzUTh5ZzJ2VVhHdWtmTGxJZjVrMDN4V2dGdDgwN3o5TWcrYjZkMXFiNVR2SkpPR2szejJZVWtkWWc9PQ">
+				<gx:ImageUrl>https://doc-0k-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/ca1nb6pheeoig6accovhfesbmk/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALoGE8LaodUo7o1-x67wXnQH_Fet-ROVyjnllAP_8mM5yxefaTnuxr2Igd3_uf6GKuV0kt8vDZ8omEcancQuNvoj-z0zFDaeDGYQcp67hgLErGp2jbIS2rq_rqpkBjDppuroCronKB72N_DoGyGtvfDRib2mTKlWRHd8hSmsKY1cA1PnOU14w_gDlh1inJ39uPnyyhhHf0FZjGFKHbyYuKqxW2BAHGgwF9rmISpzPZvAhVaT_2KYKJYiZ6CO3fz-VqM7acvP-fgWM6e_GFy1NdHbsmgFNg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcmNDUitvZllmcFNGMFRhem0ySDE4VVg5YTRVK0JYWHpqS0tiMzhTLzhGdUdZQndhSTA4ZjRoMXBkYTRrM2hYZXB6M1BYd3B0Q0RRUFRwSmN0Yk9pSGxaYmpXV1cyblErKy9aZ3V1KzlFTTF4bDRwSmRpT1orN1lIdEk5SnpnN1JheDFkM20yUDZHTzRhdHlHK0NxZXd4L0s4Y1dqM0x6TnhWcEZtK1M0SU03WncvSjBna09CT25UT25XakVWT3l5OEpkQlNYSUlKRHlqRm80SnNOWGRmS1JvTnRUNmQrcGZtYWRyRkYyOTFJeXlLTTRNK0RUK2xKRm90S3VHSXM0TjA0V1ZMb2hNcmljTWU0T2FVNUQwVmdGQ1ZJakE9PQ_0">
+				<gx:ImageUrl>https://doc-0g-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/ild30vplckkehkj1p8vc9tatf8/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALpV4si90JVg-00tFY7wJkcjZj0k1xJ8esD1tIX-OiHb0pZppALLXfqfkuS7gbYWZSCrTS-be0-BTNrRKfAa3vU2JBQ527EoEszaPkryylsQgzY1izfPPvYPWUXOp57CQQaCHqVzjX4Pb12_2GfJ6YbsaiLYTfmyM5UokufW-Jml1lJTmDFeUkTLzwp5E_XvCBDtqrmJeyglMepRM3ziPp3mF8pAO6g8V5pSFrPZ46hi6pPnaXz9FzO44SljxUiR-v4rLhtSYEped1bfz98tHGYgbxEBeQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcnRXVkd3SzI2ZjM3YUJzRCtuOTR2RTArRURYaWZXUm5EVWtBdDJjOVVvMEVTOGMwTzFQclYrNld5UVlBam1vbmFOSzh2MFZYZ2l6MTJ6SzhWcnNDWHRtdnJYaVJ5cXJYbmVNaHZkUUxLY0tkSlp5OStlS1daOU5NeHg1OTB6NHBhZEU1bGlqNmFSVllwN0l6N1BWelk0Vy8vZis2ZldzRktoNWttS2t4SGI0WDVpVnEwZUlDMG5YR2pEY0tLRDJscGVPOEpmVkxDOHRRRDhITHAyeGVWVFNrK2hUV0krWUVuOUIwdE5hdmdPWml1L2ZiTVlOaCtTWTRnempaZHRZZG1CNmVZL3o4dlh0bmQ0aVZRcFRwWGtoVnE0WEE9PQ">
+				<gx:ImageUrl>https://doc-0k-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/gicci88tp6po66dtseaklj9kvg/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALoVPZvpNNAGKlsR79EHJbTCI82R5VnipLU5K91XzLM87BUIslIW9hjOdjPNDcQuWcdAxHbFAeYDN78UOjyHvw2NrUk_XuuxvmHhN_k4Vb_RHM5KReR3BiZwhuv98f6CvpmUS8-GvpRh1oigr_C8WqdUgUko2mfGpOeDVImnZCmMN3LognE3W8oSHvUIKjpupUNEvZ4wgE7zTP50ZJTJd8j0YZAcoeLDKkq31n3_eoK_mf1PX7rjHgz3KYyh2y5daLEG7c46YbkkB7WEtEVjWocBiYMpqA?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcWwxK0JaUldReFlEckkrejg4THZvQkMra2VpMWt3WGF0TU5MREc2RXJEU0R3eXJXQklvLzE2aFRDRGFialptS0x2RElIMTVSVEN2ZDZzNnRCRlUvUFF2RmpGSFJiMkpHVWtRelgxRC9JbVBwNExnZndtYVVVc2dwQ2R2Rk5JQlhVUjY3ZTVFWldLUXIrNHF4QkMveUZXbGZseExHNE5aUklvTUw1OXB1RzlES2dlaDVSdU92UTRVZjYzb3d3M1oxWlhrVno3KzZqYXBMcENJU00xdk85SHkrYTh0V2VHclh5ZFF2eGJxWVVnY1lPRFFqcHBnUGtkU0NiZkR5OTZxeEsxRjZIVVkvdzZ6QVJaNTVDMFpBNTlVbUZYQkE9PQ_0">
+				<gx:ImageUrl>https://doc-08-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/lf975c6ulmias5ttdt8q264euk/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALrKv0sW6Bi1AbIfY5LG3s4puU4-fsME3V77HLG9scOSYksS1Vi2FLnnyl2hG7nDtbKZc4SYJVLrBl0ntkMO2eyZwM5EIH8GD0aDR0eygDiwcrXJFFmAj9Iha-TnJxWRO2wRSa2DoQOG_B632_SLYSy1lV-pDsUjR1m2XkX4k8ihTwQXko8pr9KWbCps86VODjQj266k2vNAkRu4o6eX7y7B5USNVmYTXGU4CK-sDM2c8HJdy_IYbp5T31ZU7P_hAJ9RudziXNeDDzf8T1TmjcuvxzFAmA?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcmdVckZaR0tSV0dURHkvK2ZQT0JXZ3pGaUczdjM1QUs2b3I5NlVrKzViT2wwVit4SndNS2d1NGJTTjJ0Uy90Y24xRlNQYndORzltOFZ4QnJ1L3lIOUl4N0YrcUdhNTAyb3BWU2NHOFhxcC9CWXNtb1BKbnZkaDkxRzZxeVhiakcvNUcvM3c1UityZlA1TFlvSE1kV25FWjhpUFFjUzZzRmhSMm1zcHJ3MmliYXJLK0ZyVW5OMnY0anlZemwxVTVNa0hjSGhBdGx0NXJCY0FUS1MvcDlNZEhFUkdra3d3VzRzeTMxVm01QkdrYkRKUzhvSm44SXcxbTAzRngwSFNYVXdrTG5wUitIb2RWQVphR2NZWnhONmx2dGErTEE9PQ">
+				<gx:ImageUrl>https://doc-04-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/6s7fincelr7pl5cbrdfmbnlpjo/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALq3FUGkAvrZ_4nAlv8OswJd7SOuTpJZQGpS4H1O8qyEZto4dZ_b0SCD1rb5LEa_KDaJ0x5ZKAFPrL7pWpU63egDUBCuBtqqwTZpE9ntP7cXltToasI72D58aRy6pgGV_Pd5sKwo3T1wcWR5hNFSkS7ZCNZAYA-5arDwJBbpryU641gHIehVu2O0aObcbWcboiRUyRKhkRfmAPWK_4W6FChL_AhWuUp3r3YAYS8-tCvskUvG_StIlsLFdV76DvcyXbTNVkHkccLfruVXygMQIbf8OHbXuQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>18.06179273563483,59.32468424450509,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0168D103871359AB01FF">
+		<name>Riddarholmshamnen - Klara sjö</name>
+		<description><![CDATA[<div>Mälarbåtar kunde gå in i Klara sjö till 1880-talet. Riddarholmshamnen och Klarastrand blev senare kajplatser för Mälarbåtar. Riddarholmshamnen användes även av Götakanalbåtar.<br></div>]]></description>
+		<LookAt>
+			<longitude>18.05944441277175</longitude>
+			<latitude>59.32931792989145</latitude>
+			<altitude>-0.2276320845565938</altitude>
+			<heading>1.397599157683499</heading>
+			<tilt>44.92530297767087</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1852.581252148084</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_08468443C1136C7D5A3E</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcXRFWXRndmYvalNNeWtmVG5BZXhKNTNiSjg4K2ppejJZbklUTit0aVQvZGQ5MzBhcUhucFZtdHU1RTZHeTlJSjlJdHlhRHNWMXp1b1BXRElJOUJLa2tydmpHcDJDMmtjQzk1MGliaGV2V1NwNHJPZFdrbTF3Y0luN3RFaGpJS0w5Y21uM0c3UmFQODhMdHFiVlNOZFo3SkZSRmhDcVZSSlhOU1RkdUwwemE3b1hUTEFmeCtOaTBpRzYrVU54bFd6dGVFLzZCSTZucURCYzlhUDU2VWs4Slh1TDh5a3BuUW9lckVscGt0TlByUDc2MzlCTUJEV240eXlYN1dqV3NIaDdKS2pLSWZzZ2x2RGxYRFRhcW1KQ3M2RkV4S3c9PQ_0">
+				<gx:ImageUrl>https://doc-04-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/opqhu54m6o7p4t50kd1k61poqg/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALrog3et6YNhMCyqKXFJrdxMKcN7NIeZPHgZifF7wkOfw6iZZLzPKXnnU6ZRXXs-CYaORo0p7rOoz0OxeDfSEFuGPSKUTLgbPDjL9EPcarRETOvqEkVllzmVa0rGdEYgf4_CodKk-llrwOa3P7QatkPu-59YCyZJk8MSSR7n0vMZkk-sAly_TWGbOzirrZgyWCpYk1kzFlJ4tb-QptJHlERhVasxDm9xzvqCZwY9avYuEhUW9XmwrGv1x-Bft0DI9u6o9c8hmqnrcsiZNwdvjN8wWwzHlQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcUp3ckNRcGtQOHhSREgxMW9EbXhQL1FyZTM2UzN2S25xM21WSERiSG5zcXBVRE5iejBLdUkxQjJZNGx6NGR6OUlSekpDK1dQN3hXaDRackRibDlLZCtCejd6OGZFbmFzWmJhK1hXbEVsWjhyZ1VqSUEzN1gxSDIxSm1ZNG5FZmlVTHY5YkdOYi93WnpWUlBoT0RwS0JZMVRGVEZ4U2hUSzRtREZnRXg3MFUzcWc1QUx3b1phMzgzb0RnY3FyMUJyWkZEcDVWeU5OM1R0ejBPeFZtUVhQSlg2Tyt4ZXBsQ1ppQklHUWY2RGVqNUs5Yjh3enVLQXc0aHVFV3FRZlRyVlVBNFRVSkhGVzIzM3IrQlZ2SWZqUU9od0F4WXc9PQ">
+				<gx:ImageUrl>https://doc-04-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/v7fk3kg4c1tcumn72no91oeejc/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALq5nQ88hcGKuGbICArXpLXoJHEbjaItm1Fff3gHDy2CxJMICcKtHzQWK-jLR4V64jQ-InPkW-y0RJbLmBmyoe12yV7cDwTyqFrQf1SkPgvRM5i0-w4NWFKYhMvNraN9m79Q_5LkCaVPuwXraQcJSHEG8e8oZ8H3aVooqFY3DpKGiqclClHTif95EkCWJpqncWnFRhB7mAuOYEYUEQqV6shozdycOavTJNueiks9vrAbVSE-9xOzsTizZ-1tF_rCArjtmLhH-K0dyhk5yhaw7sZYA8EmEg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>18.06104402594519,59.32551125835369,-0.4384449411187543</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="037DB9F039135362228F">
+		<name>s/s &quot;Ragvald&quot;  nov 1906 - 1917</name>
+		<description><![CDATA[<div>Gustaf Gabriel börjar som styrman på&nbsp;<br></div><div>s/s "Strömsholms Kanal" 1900 därefter som styrman på&nbsp; s/s "Prins Carl" 1901 - 1906.<br></div><div><br></div><div>Från 1907 är han befälhavare på s/s "Ragvald". Fartygen ägdes av&nbsp; rederiet Stockholms Transport och Bogserings AB. 1909 såldes "Ragvald" till&nbsp; Västerås Rederi AB och Gustaf Gabriel är delägare och fortsätter som befälhavare. Det är väl orsaken till att familjen flyttar till Myggbo, Västerås.<br></div><div><br></div><div>Flera Mälarångare hade kajplatser vid Klara Mälarstrand.&nbsp; På &nbsp;bilden från Klara strand 1934 ligger "Ragvald" som nr 4. Innan Kungsholmsbron vid Tegelbacken byggdes låg några Mälarbåtar i Klara sjö<br></div><p>&nbsp;<br></p><div><br></div>]]></description>
+		<LookAt>
+			<longitude>18.05139982545725</longitude>
+			<latitude>59.32617486428661</latitude>
+			<altitude>-0.4365691456211007</altitude>
+			<heading>-134.3809841427979</heading>
+			<tilt>44.30753984564483</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2815.58195074409</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02628C4017136C7D5A41</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMbyt5bkI3NFM1V2s5a1liL2tVRi92OElpdzR3ZjZqajRMOGYxQU5PbGU2T3FDWUQwVFNxRXNSR25ITEdjdWNDZERraURhQzZBVjVmam5QYUc0dDFtUnFlcWgxMHAvUWphQVFkd1lMdjZuMXhqYWhNeVlRV05Cek5ueUVGUHJXZFVHNE8yaUdyLzMyYkxMNVlFK2FsVTVyK3Y2VGZUeitCenlndTF3TDJrMTZSVmQ2cFBwTWJzckZZTUlhN0o4c0h5eFdRSG53QjAvbEc4VDU4VkJTRXE5T2FrcEtFeVhxWi9kRlhoay9rMFhjS2xqejdlamxZYy9yenVhTkc3YTNyK0w1R01CMTlEY1dyTDFLakZuQitoSHNrSjM0YXc9PQ_0">
+				<gx:ImageUrl>https://doc-0k-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/s5gqgkacmev4spoo699rjmqdf0/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALpAOQ2waWqVmXAaeVJuwJNnWIqd59V5XIL5t-0lVlH1OxSFgV6ir-smGuNvd1zxnPYtXuYzn8HDAnBTqv-ini-un7DTzwfpsKk7Bs-7z0t03ZbSFG5dWfceSN2GQpICTmVj8J5KS7agxfqVsk5-PJYkhCk9fgcVzSeZK0SWO3BWHVk9lTYudpnmXww8YmocTBr4ft97pzYbJ8Bg77h1T0IOzehrb2sQwmuZOI6_xKqP-cG3BFqvpBR3EYUuT8CARZiO5oqg7EqKkOr45SS8pTnHJ9k1KQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMckU3NFZETjRXSFRiN0VmM3lYdHdhVVRKNzVDcnZZUW1ZWk03VC9GNExvS3pJVERGaWt5Zjl2Vkx1QW4yS2M3SSszWmg2ZGgvNHhZV3dEQ3Y4dDBXNVdUQno0NWNBTWVGeEpnTXByUGdkL3NUbE1URE5sY29TeVVjNGlrVzFHZHVHdm9GeG9OUElIYUJPakx1cXR3ZWszM2dFL3NrcXpXN0tUU0JGaXV4YXduQlkrOHdBdE9Obi9FbUpmMzJFN3ZVeWk3eEdkRlJDdldURDU4WVMyN1NuZXRxZWxxTFYyaHBldDNwY2ZOcXU3Z2U0UGtEMEZkeVY4WUJ5aVJKS2NxQ2RsTzNVdXhGWSs4VHg5Z0FONUpUMjhFQ3JDcFE9PQ">
+				<gx:ImageUrl>https://doc-00-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/g9ma988u6ksu5atd1qksuntaq0/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALqyNGw7Ub2KCd-gQOv7pkW8bHCZddIli5qJorSIzoTK9cgK542JELGpRm2FAGw3fKM3wa29No6la9vRum68Spbub82gugiM8lSA4PqXAnnkNgAZI_hstyLXQJCW14_TGGHuP2vNLdZGmtKUpZbzR54FA31TXBTHeu9uJnpMSIsWeBbX5xl2-vIpeUlydeqRUOhNbK7O3QxLNzMv_c6v2OJxKHCrO0_KPwGBnwc2d4y0lI4Gb7QQVy-HFUcwWQTitkbUCKBtG4znphn6SEYzxjD0IYglkg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMb2wxNmNQWFNlbzN6T1dHQVRBMXpQSXhmK0VRTENGVUFZenhmbS9EQVVxZUEwb09Dc2paanR1WERSb0NHQXh6VmxCOUxFdkxuRjIvaklpcDl5cExNeXNjY1RJZG5hN0UrdmdsWW9sVS83d3BueTdpUGFzazduNi9BNC9MUGVtL2xuUjBGbVNVQThMY0IzNjRFbE1VekhZczZMUmpBUkRWa3BnenYrUUpqaDF4cnV5UWZ2akExM3lFb3QxdjV5b1dRR3hvR3N2RjVNaEE0cGRtellkMllobFpTK2JNSzNsbC94SllGTUxwWjdLV2h1d0kvbCtqQUZ4ZVFialpXY1ZhVXUwM0dHT1piYUlQeGZiOWxlQVVFNktSVUpWNVE9PQ_0">
+				<gx:ImageUrl>https://doc-10-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/83sc0m810kab0jsk0m1l6b8m7o/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALq7SLAK6fb_FodlRdiM3Pso-dfMAqtYW5XbK4cd_kehniQLd5DIiui0ktM21DTsBGu5fnsAa2aDZ_0bV1vur_3zcZhL-YXE40zvZHclvqoYlC79Ll85bRGDTI9NMt42t9pEyGfk7WjX19W9kc-_sZHfzoWmZQFBnkoyHTVummkslyyMR_iiCxZw2vrWI_bqbCfglLtL7QhScn6nlc9v6xcL4gvxBctSTiVBZbSBRDReNcmkcMuf4Ms-gBTSfMXT-8vtSDoqY2dlNt1yIdud0txG8i-esg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcjRpY0ZKdU1aN1p2SGtGUjFwcnlkdGM5SGpHeFFZVTVLMDBZemxzYXdYL3ovSFdlME9nZ3gwUG4waFJ2TndsRktXWWQ4b3JFcHlBbzNraU1kb2hibkFIUHBiV3pENE5jcWovTU56bEtsN09IcmdGYkd2RGxnY2hWMU4vL29MVkY5OXB0N29lMlNyYW15bWxOZ0hQRHpHRWNIVmlnR2NtVjI3U0V6MHg1V2lXTStTMkZPQUZpSEo2WkdsUjFFY0pESTJvaVlTUzRiYjBYbit2dHhpOGNDemhjQnRRUFZURUxzQ2VYYjBvYUNWQWFyT0FNdWl3OExOMlU4MDkvTDlYRDE5ZFpQamRPZUQ3UlFkS2hUSEJ3UmZ3QWo3clE9PQ">
+				<gx:ImageUrl>https://doc-10-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/j8vfhdg1qirqifasd3p505jojk/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALr9c-RNzB1EE7SkYl4vg7sYJREZbMTpydeIzGYndJVJOWMZaRK3WRFps29Qh7m5xjgSi-K0KqzOBSVMCfdpumGAmXVbNB4X4spG3kuJwsGw01R5kQenYhlQKbsOv7reVpIvcB_j61GNdmzKNgIaBKcO32ZPrObs7yjQ9I8rbyVBf7OTdpWCMsOk8dCXVDJXVlanSyfURpn8hqs9qB-pSuShHusTl667DLbJP_9hdemECex5GFY9oE2TVvGNawOcyQ7FaNerV0DRzzCBtB7erhuhbSUbFg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcW55d2RpUGRsS25zYUpEUTVFZmh0dnJFZFZWcERudXEzaldMSkx6OWthRzltdkFpY2h3bWVNRlZqYWZjODVjZFJ3UHFtaURlQ0dkSFJXamx6cUdRRmNPUFNKb2x2SVhZbzNTTUFRSkpKYkp2OFJRcXJlS014YTUrNThna1duUlhoWVg2V2Z4ZVJTUlpZUjlIOWh0Wmcrejh3TDZ4WmhrVnVhS2FIRHlKUXovN3BuNWxkOG52YmdRVUNNQzl2TkYvZUNvL3A1VjkyQ3RyRDEzTjMwaU9ZWXYzcm92YmZubFh6RFhmckFBOUxNbFlHRzA4QmRSc2kxdTB0VXVxcWVldm9nckprSzMrYk41VU5OU0N1SHZkM2ZvQWlzaHc9PQ_0">
+				<gx:ImageUrl>https://doc-0s-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/olchm3u5ich9ihh39ri1mhdclk/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALqFJKXnLVDMb1f0cjYxD9OEOjUHWm3XJOkUnx22c4WYvVKtO_0AXCtBXEoQVYB6fpDoKXzceZxxXselMan9aneZiUTqRjMUSAYQb8pYhpzAtgiZCxkLqTdnY5m8YnLMK5IUGA9cvylKQC-3KSlbUUJzt5sZUPuhqAYu6YJqYXoQNJgmj2eyCdBj3o0BGzaqaSK6lRnfxPJePgFfRUeK6eoVMNGbO2PIISD04c8vHqjzwsZbnCZ1EqYLDRkpTiBJjHLTUCzHqi-1Jj5ZzCkBKpIKQOWnBQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcGE1c0REODlhazBkQmdHK0RVQ0d0WFA0TUpaa0FiaXVGWmtIKzIrZ1l2bVdLL2hJMXB1UFBiR09WNE9UQm5NMDQ4L0JTUnhEODdDOGVXRjZPL1d4TjM1SEdUMTNpNmFOQmlxdTJLWi9MRnBpakZ1MTl1OWhCQmpVWStXVDAyT1ZiRnJITXRwT0ZVYjR6Vjc1SkcvazloNmsrNVJIaUZ2czR0Q1hscDZhVmhLa05NMExZOTJrOHZCVWJyQnVyN25sMVhveUVSSWl1djBZK2IrcHVhNU1UOWgxK2hIUVhsRG1aL2ZtQUVtS3hvWi9CRVRKbWZjc2sxNHZCc3F3MkIvcUlIS3E2RFA2NGhBN0kyWWc1VUpDcUk5WVdTVVE9PQ">
+				<gx:ImageUrl>https://doc-0s-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/pltsl3to7jurfntl2m0nrdmm9g/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALrT0Jg6KF3sWhnU1eA6I6Z2PO4iQCDwvNr931P-FUQ520TlRVegGkvOjHPWt8agmlaB32AfzrhPWHKpRFS7aaZvPWmaBxfG7DXpXZFVn17rkJHxLfMGk0ObzGtUvqX49nv0WCSj5Epw0rwswphmmBjxeWRfBNr4Y2ENyeq28L9N6OrM7WVH-jWmd_uSiIgw7nfArkyT-I1-NyhLdPGSshpYM63t-1sZl3cRLDRJ5y4_0_n5u7RAFBzho-oEA_j9VVQs0Fc07y_c9pRRyFGEsPldn03RdA?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcEhCelk2UEMxMVdmZkd4Qk5aS0JnbXBwZHlMaHdyWTNTVHFnYjA2OFdPTGxnVDNlNTJQWURmVjRjRTFxK2MvSkVyQ1VQSE1uZmFqUjBaVDhxcDFGN0x5czRUL0JnUHhNYjkwS2FSN0IvNVpMV0xSSm43UVJIODhsTDY1V3FBcjVNS0E5WnJDdWhqaHUrMlJlMlFpYktaMHo3TnFmVXVuMmswMjg1R1FFbFVIWkhvVjFDcklaUkk3TGc5OTBBL1doNDNtY2Vhcm5idFR2Njdlby9NcHdwL0JaTXJOUjJQMVpRQnVsbVZqL1U2ZlAydGxJNVpOT1pBRWRFSmtmZTVkeklpdWgvQ1JFZ0FUdWMzZjgxNFJPVXlicUU5aWc9PQ_0">
+				<gx:ImageUrl>https://doc-08-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/90ebiplbu6smibqfm9v6snn5uk/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALrUOL3J9TKFkvrl-56ApOu4072GWkLtlSSgEfKd2PgXB5lmYM12z9pmKTdxYS9iFeAHFp51RZOxsg4TElVCqhvZhXdSaiKaH7FJCgdqCmIxCpk5NVxiQmGwDjuXbXlbBqOxFKCbq56lBC_QUvaYkSZsAgVyv5vAYm6IYx9SXPc5-s2hdpSD2GTA-2NiEru51IuA-LC7E-6DSwq-KCRSSCRwV7iUCT5ufaTnBmwXnJ9tNhlXycWKwMNeTArmOWixJs8N-fHIsSTvBWw4p2vL67DUzv07iA?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMb0hhRDFCZS9RWXZFN3ZtVmh1U2RuNVVkVEdPTHlORldHSUJ5K1JldTNwRlZpejdEMXFCUFlWOUFLOEE0bVoxTHBKT1BTT0QrSDUzWEp3NDJoWldRK3NoTDNiblVjN1dlSTArN3JjQ2VHS1YyWnh6b0p6SWNEbWFtWFg0L29oUGN0ejlvSUIvclZ0Y3VObmFWZTgzVnltbUZ5UEdaTGlpMUMvSjNQTEdWaHB1cmVKbDJua0pQM3NiMXlmeFVKaXNQSUNKQks5NThmZ3d5YjlOZWR5UDVPMXFVSmZRdVZvbFpZTHlMLzU1S2FwdTFKOE93R1laZGNJVEpxRG43N2hMQVJkZFZuUDRMSVRlZ3NIY3FhMkdZN2Q0ZnlTSHc9PQ">
+				<gx:ImageUrl>https://doc-10-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/i8u741jagdup2vdophh66l6fl0/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALqAdIsud9GXnhl8r2CtSFiqfJCfNblQKwxE5JYwI9qTGb13DDOgk2XabdrY1SmvTxIJKHI2FVmtOGDlJsWwvrXQze9BRdKRxXZhLSJfhjdPPzrsAt_lE84aIPJnqIpdYZTkqokoN15CZSsnRtokmucKFe7-rltW6kb8xfxwuUnDDMV_3YlH38fElo7l-bTNWSDmj13zOPbEbSSmSYU48mAtE5wPEYOUj3ALZ6jV6dJ0ZULiDzVSHNO3stVTr0L7JUC2d86tOyY54fJYuGJKy5k5iSMkgA?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>18.0583000596467,59.3276576633214,0.07452912474734608</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F623F367B13344852E8">
+		<name>x Sundet mellan Stallarholmen och Selaön (1910)</name>
+		<description><![CDATA[<div>Västeråsångaren "Ragvald" stötte på grund mellan Stallarholmen och Selaön vid 2-tiden på natten till den 21:a Juli 1910.<br></div><div><br></div><div>Stockholms Tidning rapporterar utförligt.<br></div><div><br></div><div>"Ragvald" fast i gyttjan vid Stallarholmen i öfver 20 timmar<br></div><div><br></div><div><a href="https://tidningar.kb.se/2812922/1910-07-23/edition/12418/part/1/page/2/?q=ragvald%20palmgren&amp;from=1910-01-01&amp;to=1911-01-01">https://tidningar.kb.se/2812922/1910-07-23/edition/12418/part/1/page/2/?q=ragvald%20palmgren&amp;from=1910-01-01&amp;to=1911-01-01</a><br></div><div><br></div>]]></description>
+		<LookAt>
+			<longitude>17.24684586162348</longitude>
+			<latitude>59.3607367188714</latitude>
+			<altitude>3.235069651596461</altitude>
+			<heading>0.2652765604833283</heading>
+			<tilt>12.5927300846393</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3313.610153435147</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3762946F4D136C7D5A41</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcjYzb2t0R1JkekhDK1g1N0QxTXhTWkR3ZkpYS2h1dkQ4ZjBuSkhRMFRQMWN3WGxIMzNZalZONzRJOUw1S0JzeCt5SUFyOWg3YjBlSjBGLzhrblNtWFFIYjcwNlZRRGR0bkQvOVNtQTF6NktSNzBrTWR1dGZ0R01RakdMUlFob1ZDc3NZTUQ3SGk4UGQ4SVphb1J4R2dSNUwwRlJ2aVJHS0pmelpWbEZ2TWJJUTNJTEIrbmxIWmhBQytWZHhKbXpJRzJ2cFp1OU9FaFhCZ09CbUlLcVQyZnAzelZ2bnNld04vTHVYb3pYM2VBRlhDeStCbVBabmY3UVM5dGp1UnF5d3FuamY5eWVSd3lVc0pJU1dWeVRqeFcreGpMUXc9PQ_0">
+				<gx:ImageUrl>https://doc-0g-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/i64tln92ntil56allgch3chk0k/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALoC1LBri9Px0cPESP-969BoBg_9GPDFd4BcsTDdijR4ceTIddNtukCOnwSq9eGl2m7wrhIuhAMVqFQ64SmfmqTTv9kRT_ETf5NMFSOLznEKVp9ckfm7lEG0ztQnKW2NkJZEymVzbXNA1J4OmtoIJNbTYA81-Sgvu5oY5dJdU_8OsSZnBjFYSinXbrsaAm0-zj4xrwYeI5CgSf6ebanFm_PBg7VmBC6yaY5LbWlxOvOwjW-GO4v4xfeBTVIq3GyZ409ZJsCC9i9sC6uEt0cESgx7_AnzLg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcVc4TFRBS1QwT3ROWCtYMFBPcTJ1Qkd0R0xaV0x4ZW5iRjRjZDBUbTd0K0FuUnVoTGRFaHF0TFBaSjVKK3dYV1BGUXZqUzR0U1U2RllFMDZGZmJvKzZrclAzZHNCZ2FlTnRaeVF6a3JRTU1pY3dzUnFiQUl4RW94eHV1eEVDUXhPdHJPQ1RERG1scnQ3Rmx6OEFvc0VTMkpTRlc0RWFZdjBsZWltYWJMNU10Y1llSkwzc0dEMGtUbmJXYWV0Q2txbG5GM3JZbzEyeWd2SjFlcHJpUXVoSlY3bklmZ0htTG9IU3ZGMnBCbkM3MUdiYVpucGpkTGt6Y1FMdGNtOWZMcU81SUFkbEdUZENoMTFid0xiTS9WbWp1Witwenc9PQ">
+				<gx:ImageUrl>https://doc-14-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/ab3ikdvmm2f8aqkl8k7ajfilsc/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALpCy-MYeRW8XuuBIVRMihRXGY6_7_-AzFAYUkx3c_iNyH73bJ__tbXGYnCwGCEBDSAPJyNN32Y6jQUD-hwVPx1GiM5kVf1uZ9srqmVw9vv27fl4E5QWFZZZIa7YD0JBohpQWB64vmqwo1p5lpxRvlmkqMET9OMBalHJvXZM87dzlmT9zf-vh_9boZOl7ofEKMeMT1OnjmFQ0bY0qGfjFs0Nbdhhl6lxYIXW6I90jD_MtdFRmpYtf--DhIgMdC45VpLWkXoL8pDdTTketGESu3J3DmotpQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMb29vVVVLRGtHbWZHM1liQVErS3hlRHZLaCtaeFZsN3cwRkJrdlZQeDRmTEJuNFFiUm02N0V5RGZ3Q0NLT2lrb0kzdlo2b1M4MDc1QkxNYUF4eU1HSk5TUTlxaDFIOG1Sd1k1YTJOQWZUSS9nY2VreEVSN1NSWHdTdUtlN2FYb2dJVmQ4cWZ1MGFXbVA5MmRIcWo3NmZ2b0l0ejZZSm1NU3hjSmplWWFQQW1aazhuUi84M3ExTXpIaDRGM1dBY2hKZU5ld1d0QWhVRUdsWjQ3N1E3NDhqWFMyKzlvN2FTaUhFS1FhVDIySENHL0FiTlFwQnpubE5FRXVLSU5HT1lzcGQyVjIzbkZxRVl5YlFORHNTZFRuZnV2ZXhCckE9PQ_0">
+				<gx:ImageUrl>https://doc-0c-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/qqdufiaj77b120g5d3gn9v4vms/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALqiROnIlGBKdyGmewBniDtDTX7iwHvU0O_8cbsn_aTob4ZAu2_tMBg3rl0TBfzc4rNBzyXMAmLRTDuDuIieaH-Ukd7flSvSkUoQu0OpbfljWSjNVoAEs0ssFJlpPZuC2oMUgx7NjTCRFdh5Hwckr5JbwEe3OFiVbiOhX-ao_Sa61bH01s7614sYSwQDkIcyMEabUPD8wPBoFARSrcW4BE8sKRxxZyr_FmLAQToxDWcLv97elvn7iVWKNE8dgYQyibD4xryYCgNu95tpw4c0Rw6HBwgfhA?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcXV0Tk1iMHZaU1NvYUZaSldJT3hoKzlrZEkwc2lxMUlKSnQwWEppNERwWEVKS25sV0g2N0dlQmMyVkdQeXNMY3Bpdk53VE84VlRQTXl5aHAzakE1ZWF2UmtpUDh6Y1FMOUdDZ0dvOFpLK05JQzVTa2c1UUlvMk52bHpjcjErN29SbXcvTFd3QkV5ai83bXFnSGFvckRUZ29pcEwwQXNzeklBd3MxRU1GeHpRTnlQbmhCUllhVW1EYTVSczBIQy9XWlNsT01UdDdQYkZOQktpbEdXK1VXaHBpT1BGYU43NGh5MmNqRzNZV2l4ZlE4TjVKQnllQVorVHdadWpKUHRvcWJyN3g5TElkMW1lZkNYeXUrMmozUGRSK2FGdmc9PQ">
+				<gx:ImageUrl>https://doc-08-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/0ifb5cb1er3t68pklevqrr9fqs/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALqKPOs4TvMfJDin_0x9XNFHa1HG60GLxrLKvlHjSgofyYWZOR4pY67JWZFL8Z5sMho4O78Dnh-MureX_KD1OFyzFL-35MtuXtEh87-aNC-CnWFF5i2lpwJXlmEuSTtJtXUVPg9DhuHN-dgAK78X6OwtV5eYGD66weI1rV1w-xINmPMsTyv5XfrSdIIX-r5hckno07709qJdjGVd4-bUQOFeRWSTMaSsJWhzqLu-vid61HPAW4rtKSR--StF08c4fAYYibqcGiYEkaAL41NokK9wlqwSxA?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMb1EwY0ExK0dPYmdWeW5TcDM1UTIyOG1CcGIyMHQ0aHh2NW95ZzhnQ1Iwa1BndE5aMkVCUmZjd3NkMlZGN2dQVnFmMTNYU0FGZzFycG8rNEFnL0JtVGUwU29EVFVNT053dk1neHN6Q3dkeFQvM2Z1RjVieFp6MDlNdUwvQlR4S1gwSm1JZ3U3WTNCYkMrMk5heWZieThzRld1RlhVajRTaUpwdFZvaEdVbWhnQ1FEdnNHZEVxam4zWGxIalBTYjJSaHo0eXloSDdwVU1kZDIrd0NjZyt5NVV0N21FREhJL0RzOHUrMFpHYjRieUlxN2dqdGc5bEYwSjBydWxLOURqQ3FMSDBSUnc3eEhiZmJxMXBqLzNiNWtpcE9xMkE9PQ_0">
+				<gx:ImageUrl>https://doc-0o-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/kq4r5ll8gtuaqg3hkeqq26de6o/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALrXhM8EFkEHNzV2Vr7MoKBb-j6xzSH9wlPuuL1oOeD2t1jJIc9R0IgGzEz4D2PO7leAkWOP4X4gYZRe9nefMUG88MUMd1rCbQxeDPLyTDHsBstRMqvlj-FU7rPL0JkluXphnKXe0PPgvG3DGiyqyj_WMhzPaUUfZhP25PTw0Mnc1kPI9AKYBXG6CwID-YRyA6NccrSicL730yfE_V_KT3Afuso_KTWUS6fNBU-txUno9WYIgg0MKj6L9r2c9bxrOP5e5qEoBR31QARCC6E5LhxyW2MN4g?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcHBFSDhDKzNUdTlHNXpDYnB4ZmgzeFhtM2w5cmNPREZvRTJRZTNTYkRwdjlLL08vMlhRL0ZlV0RLcCtjNlcwTXhkT3huWEZESndOZTBoa0VqWThhMEtPOHltbk5Gd1lUNy8wb2t4VVVrOVJYSGxndVpaZzB2U3NBeEdhTGpKN3J6ckRFL0tyWGg4eXFjRUNaa3Ywd01wM3gwMHJ3NTh6ajZWK05vNXF0K3cxNFJsRXg3ZmN6Z09vNllXWmhQVnFqdGU2a0RDeXJmTU9waVRHelFacDBSQTJvMDNvZk5TcitDbjUvY096d3BhTXdEY0NkNHRZTjgzU1YrUGpoeEdwQXA0NHpDZUhKS2hqWnZJajhiQTkrUDc4bFpLUlE9PQ">
+				<gx:ImageUrl>https://doc-0o-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/mhrp4egvsbm2r9bqekms61qei0/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALrUx0iCOB3M_ij9PpfdWn-rtiK0CR-RsRtl0fNF9QcKrzi0wTNuoI9oPxGRT1eGXq4KZA2c3Ug-sV3u-DJO3osXyRFUUwxAQHMhtFjVvgfDrYQOeEkEpktKNFUI8Bp1fFJwH7Tsba_mhCT5DQPK8N410EtzmI5royEbLvPa4oq9Pj70CVl4cLUz1tzFOtUhhD0PoXdexK8jTfFQoXFLFf92bh2QPUmAuBJSKnURXONHk158FgaVAZ_sSh8JPPSTX-SqawTMKrhVudQqLGy_fIWEa5QpZg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMb0tuaENRa2VMSW4xVjRTY1BaeTgwcy8xRWdYVFVENnJFaVIwQVppdE8zdVRLdFBVdkFPTk1Ldlc0S3M3WkZxNDhiWk5aR0pHbHZDWE1FNzNLZWFmY0hETEM2dTQrSjZnU1VhdEFZamRBOThSMGlTWnVGWHVKT3JrRWU3ZkRuR3ZmNkFGZjVHRkVVQ2FjVm03MHlGKzV6T0IvSW9jYzhhWkJqdmFiaFoybk1yMHR2K0dKTXlGNVByalA0U1RDRHlsV0diVmZJWTRWMjF2WjBHb3VFb09uT21WaU95RUkrOUtOaTJaV2ZEc2QvTUUrTkMvdXh3NVRCSXYyZ2VVUDYxL09BTysyQU15VVNxZkR0Mlg5QzgzOTNkbzdJa0E9PQ_0">
+				<gx:ImageUrl>https://doc-0s-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/4ea47g95mfia34vej343vn9g38/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALrVyWI8qrnZVg-x7tQZwl21EwsiC1bZDASgCGgZD0v_aluq5CH97dOnqOaIQZxmOyT8zZnowesu36dN72joYzu7uycAYaLA5eh6Lv-jfSj8aL_Kk4OeE7reRsCzM0IGR4fS0cJSXr52moKCKgxucO4ghJTopIK1RIOyxVidlyl4QH17AGUnQTxIZYKZjen7q3K-RFAJfFyRE_OiRW343-IvbaFx-2GEIpQXOhM6zTQh3JHE801BVpq8us3I19nGiLHjXZbTfq5l_-gi53Zws-RJiBH4DA?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcVZjT0JVL2d5VEFFNTExVllSMDVBWUlPRlNCOXNwVVpSSG02M3ZrNEtIbmIvMHQxck9uS3JvSit2ejBJaWhTMnBEcXorMVZWK0dvdG8weURWUjhJS1I1WEJIWlpENnIzZFJIdG9oblNLRFJjVmFidlJNSW4vK204WkQwaWp2dUJyMHExQ1R5Q2N6cU85bWR4MzJJZlBXbzA2WjluS2k3aWRpWThxclY1c2NKUWUwSkYxekt4MEoxVWhNc2wwQThQSU1YYnU3ejY1aS9xQ1E0aWFwa3A3SUt5QVZhY3ZhTnRFbWx3SXlxejV2UWRudTVzWW94YXR6YlJGYTcxR1d4aEdSNVpkbDNOTTkrN1lYZWI5OU1KQ09kNHdyclE9PQ">
+				<gx:ImageUrl>https://doc-0g-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/l0pro5r7hp0i9pr19a888ffbd0/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALo79bgM8SGmpkvldt2IJC6OqA04gQAjIzlXNz4wkA9bFaSQptOG-H1sm873KpDquR8OhAwhhK3z01s0Lz-Zb_-gVwq_EfRZsaA5B1Tz92Cmx5gGkn5X9FUfsLnGMrRsKaK_bNRIHMmF1Cyns04TOfQW8WMIPnja91UkX_56rcChZiLkT0QabZMMuclnTibXFnXRc1xwe9MAumHafs39TxlppOx1Z-Gs-cDsdGhJjRfwaox1x_j32hAZnQLmviO1tZi7KmyuE_m54pwmMD_OPSAm93krBQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>17.24684127820283,59.3602322252157,2.082023896572635</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01B58D279C13345665F5">
+		<name>- Stockholm-Västerås-Torshälla (1906-)</name>
+		<description><![CDATA[<div>Ångfartyget Ragvald framförd av Kapten Gustaf Gabriel Palmgren avgår från Klara Strand i Stockholm, vidare till Västerås och Torshälla.<br></div><div><br></div><div><a href="https://tidningar.kb.se/2628145/1906-11-10/edition/158050/part/1/page/8/?q=ragvald%20palmgren">https://tidningar.kb.se/2628145/1906-11-10/edition/158050/part/1/page/8/?q=ragvald%20palmgren</a><br></div>]]></description>
+		<LookAt>
+			<longitude>17.98357513683156</longitude>
+			<latitude>59.54249180066091</latitude>
+			<altitude>178.8691624778016</altitude>
+			<heading>-54.0642700948647</heading>
+			<tilt>12.9083492098474</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>315082.5603364035</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0525BFEE76136C7D5A43</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcW1ML2lGeUxOZVlpSjFPTkVoRWVqNldLRnh2WkR0NkN6ejdkY0ZwRXVEaGN0cWxjSFdwNmJvQnFiQno5MkVZRmhBU0RjNHpYRHJ3QTdya2dDS1NSYkVvQ25HSlo2dTNvUVVPYmpiOXBieU1Qc3BqTEZBa1ZGM3QvU1cyb2NxNE5yVURoR2Z5OFR2MW5YVjBGTTJ4dzhTUXBRd3VTSHp3MUhhbFZGbW1BVGR6ejJEVWZ6TzNZdHNWcWFzN3pTelU0TWdGKzhHaFlsNFFSZVhFVmszSU5IUjZwOG9jR3U5ZHRhb1hWRk85d2tRcUxqNEQzMVBPN2tsR2VLMkZEcjhxdk00VjYxYmZqVUpGanZTbzc4bG5Sb3Y0NkNxYUE9PQ_0">
+				<gx:ImageUrl>https://doc-0k-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/5aqhdsiqruaonj1bt21t8t5dkk/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALrok1cBGpB8G48D_6Ts6z_xQV6GdeSC9cPmLhvyIKFM5yh3iD175zlmH6bffGlWZWEPUbmnLPkyt8vnf4OU6v-aA67rp7yRhpOCam1XM6YXD0WIE_I55OEl9pZG7g3EMVPhqjHAWGHpYaaNEax8wsmFNqqYc7iI33mZy3hYnClZVY4iTREXg4dsCmWjc8sS_wrOQVPyri1msV4E94Y_rNW2r5Vc_2XyWnqyuHjqnDSHBRtd4KtUCWdMAKO0SGP4t-7EumFoHZZvDdypDqhrPQG8UnV-4Q?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMb0N2NS9HMXBQTUNwd3RaT3Azd2VIN1gzcEh2TTR6dHUyMlFHcGREREo3MlJ4L2U0M0UxRllqL1RDVWE3d0dQZ3kwa3RYUmhuUkxCMDVoRjdpN0JrWmVKR2NSdkV2K1g3aHdaQUU1OXNaNlFud3lxMHdzWnhYNWFjWmp4ajV4d0hvMEtzYy9JUVhyQUZIbVFJc1Q2SDZSSzZhbTRlSDl3UTMvYjlNbm5GUGdDTC9Od2F5UEhzczFjUEdxNW90ZWFzTW84eEUyMmR2Sk5qY0lIN3NKYkdXa2ROWnAzSHkrQWxyZVQ5dSs5YnFlQSs4dk53YVFyd3hzbDNacFcvZHUwaVZxQXl2VlBPVWg1NHZuUnhCdFBSR1lHL2hIN3c9PQ">
+				<gx:ImageUrl>https://doc-10-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/fpv4m7sinevt09eevgetg2iee8/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALq6f7l8hotDoC5ycV0sfGepre9NfYzZ7cE72mx8Ux-dKzLH1X3HrmAbmRNtfGB69VkkruAbAHwzEmZhTD-0sckmD8k6Inu4f1dPk_OHXQgJ5XOLNSr1RpecSwaMQUmLYnxEh0qO-MCSfQ34-Qr4x7pjguex6wqmoqZzX6ccwhHDN_ryG2OxMQqmOSjkJc8x1T9byAvJ5E3NuZxvkS90GfS9730UFtw7NDp3nnZCA7ibjhTMTZtCBgFgbyKFD3vZdvzf1DDpyhJw9MW2wQEIS38mbCJShg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMb2ljS0ZndlMyZXozNFlHSHFPR250WHhqaTdYamdNbTYvZEo4OU5NUkdTbTRnOExId2FDR1JLZVZaUmFrNThLWjJTMjZ6d0RHWnZnbjRYTzFuTXNESkNMdzZtRTNCWU9hVEF0WnBNNHp3WXdYVGRkZjdvMzRzU284V0JzR0licUwrMUJhSWhlUjc2bzgyV3k3VlNLMEd0UXZOdGpGcktWYit5enBpT01JNHpUTGlxSUI5aENnQmFGanBCUDM5b3lPb2tubWQ0Y1lvMXJaSjg3M2F6YXNnYjJVbVRLSVNnREUxMnV3YlpuV3NXSU5ybGt5Z29TcWI2NEd5NU9xTWJzNWI0UmNyUG5yZFJjS3lJVE1NQnhiUzd5cVc0Qmc9PQ_0">
+				<gx:ImageUrl>https://doc-0g-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/bmd2aam72rqmjbei2acqdffsi8/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALqpiiY0wUEnKJnrAc4_oWcNNFqPYwrNeTfv4QgixA-LbRaQexvRTtOnKPohkVK2rtLZ9uIL_bfG99ZAy_bD4bhHZ63CiE8AcluhWOquZ7kmrWN3m05EacGFMvU-ysh0IYlFdiBrjbEPbWK_eqf7GWySUqzeksbWF8vNCRL3L39Xsqg3vPzScFZYHLTuOJfuo3273MO33LQq6bXbyIj9RPBS6yhCqcCYIw4HybUPWV8rvQabRv23H3y83Ph-bycRs7pjNUBsd5JB48gEv7wc4gU05a5VeQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcHNyM2pEd2pOelFReGpmV2F3SXZGa0l4c1FJLy8yVlRGVnZDZW9oWTg0bnZPRXhuSXlWbU5EeFBGUWNCOTZwSUdzOFQ2WFNZclZLZHRqWXJ0V2piWitzOE13UWZtaXgvMzBTV09XRDFsdDgzYXpFOVNuaTFtemJxSmR6ZDVvL1hFODFGYnk1TUkwUUFLVUl6TGs0R3JKdk5wUnVoai9hc0hncXkzeHJ2L0VrUlJVRVlNQ3YyZ1lxKzg3WDU0U3Y1ZTNoUE1Ya2tuS1F4ZHRjZ3FOSFcxT2poZlB2aHUyZ0hyekRENXhsU1hmU0I3U2VXNWx6TnJMR2xVOHhYV0RKVWZndkxZN2NKcmY5OVhSeDQ0SGNFQ0YvZHVaK3c9PQ">
+				<gx:ImageUrl>https://doc-0k-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/6o35hg83jpqu24bngdb598al5g/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALopvcFLfNzm50rrpJEvpiLeqPDXSycvLsZ23WQ14sTcoBnZZ925HawI72qu36HmPOIHURtF7tJez9szF7e2ML5Buz67lV-U2QvT4ywDq5tttwshKMZTvsHNFutdrOa4o1OA6Q79QrjTYNh86mhXMBgw5Jk1lhmAL0i0mxTRwGWOG5QlcvsRI3h2yTJvQx-FpPR_2AEdL7yhsf--E7mxITByaFt_X6GzImBywqRxtDuBvBZIEQg0uz5ONowvN6xleq0o7GNt_RJ-rjLNJfwhKNXcaKIemw?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<LineString>
+			<coordinates>
+				18.06119778940375,59.32495187783023,81.55824911356896 18.05788528487106,59.32573957302743,80.64462397534712 18.05581378935868,59.32559002981566,79.73099883712527 18.01622504865627,59.32271993061041,77.90374856068159 18.00698700911607,59.32052440801916,76.99012342245973 17.99763637188459,59.3182090295385,76.07649828423789 17.97835968889688,59.31497535770858,74.24924800779421 17.90802230511223,59.29825145391644,66.94024690201948 17.83277795011308,59.26034238623138,52.32224469047001 17.78524517416601,59.26044920143743,48.66774413758264 17.73559078829413,59.26619000146815,45.01324358469527 17.72530145017144,59.26621065194301,44.09961844647342 17.7198277556016,59.26611389996297,43.64280587736251 17.71403860481347,59.26773057359249,43.18599330825158 17.69246486117385,59.27205438462622,42.27236817002973 17.66719662922751,59.27406166741537,41.35874303180789 17.60281829913414,59.29282327504585,37.70424247892053 17.50297125954878,59.42026463814987,23.08624026737105 17.22352031672573,59.36452517036995,-35.38576857882687 17.09516294870865,59.47097445024373,-0.02440254340796422 16.56309942530217,59.60451963183322,118.7346147119539 16.48068698445937,59.42139666854352,68.06378439634443 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="02716400D31333681A62">
+		<name>x  Resa med s/s &quot; Bror&quot; juni 1923 inritad på karta</name>
+		<description><![CDATA[<div>En dramatisk resa från Petrograd till Horsens. Resan inritad på karta till&nbsp; nödhamn&nbsp; Visby juni 1923<br></div>]]></description>
+		<LookAt>
+			<longitude>22.96174848027338</longitude>
+			<latitude>59.26579419218648</latitude>
+			<altitude>31.22531533575725</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1008115.04948929</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0525BFEE76136C7D5A43</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcXBkRzkzdC9Kck94Qk5SOURkenlPVU56bXVRVzZ5QlhBLy9oMVNTYjF5amsrbGUwUHREalFveUdMcWFxMDIrajh5ZTYzY2pTa000c2RoSmo2ZTBMbjdUSVJvYjNSZCtUcmlTTE5CODRNb0NUWEFtUHd5VkR1OVJZSFRVN3Y0ZFdpei9UOXI0SzE3QjBoS0tzSHptakhDMUhJNlJlRzNlWWV0eDVSSlkzdGdNRUpmZ2lXb0E0QUNKRStqRG5HUmR6UWw3S2o0UnFoWDZtL2NXdjhEOEtWVlZUV2NuTVcvL0N3MnNMa2xsQ0UyOE1KZi84cHJrSUEyT2lIOHd3djRoKy82aTltZEx2aEgxbUpmRHRCRUJuRi9nREkwbUE9PQ">
+				<gx:ImageUrl>https://doc-10-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/3e4u6dhh8pj0uh3mvf4vcs274k/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALrPyDQ9iA1uAhOvCzf9vdSQFcizSRTscbXSjyFHG262iKA9hiVKMW9Rcfeg13pw92rqjdK45-0FBqQJnAnQCM86nuiIDD55xZRV3_h5R0Csp58_ltroVDSxZRFc6_u8AwgIgrO5Mw5qA8wE6vPtI8H8Tbm7UtS_96yFgqr0GAW1pPeWJGTcrnhlHtVoG4Tq0YLdTbqi_WwzHjMuCFbSKY71ZBtbNCgDLNXdoAbd6RE4K33-IYSXAzcBVW5vhpiTtGmNDY9F7tDHId7VDxFXAxzL4qonxA?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<LineString>
+			<coordinates>
+				30.20943871372221,60.00562386839722,390.3070361050613 21.24903188918627,59.30078715102506,244.2187908723751 19.31678004452462,58.21459216593571,184.0371286617685 17.45666795089882,57.52896497692275,-76.08369428531778 18.37494428220236,57.71794028845625,223.0685873190717 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0E619A0E84132FE78B90">
+		<name>x Petrograd - Visby - Horsens (1923)</name>
+		<description><![CDATA[<div>Lördag 16 juni 1923.<br></div><div>Sent i går afton inkom i Visby hamn ångaren "Bror", vilken på resa från Petrograd till Horsens i Danmark med last av foderkakor, blivit läck och måste söka hamn.<br></div><div><br></div><div>Ångare föres av kapten Palmgren. Avfärden från Petrograd skedde för åtta dagar sedan och resan har varit ganska svår med upprepade oväder. Tvärs Visby visade ångaren tecken till läckage.<br></div><div><br></div><div>Med på resan med s/s "Bror" var Gustaf Gabriels son Hjalle (15 år).&nbsp; I Horsens skriver Hjalle ett kort till sin syster Karin och berättar att de mår bra.<br></div>]]></description>
+		<LookAt>
+			<longitude>30.25075279231148</longitude>
+			<latitude>59.91450349506921</latitude>
+			<altitude>5.180813614717302</altitude>
+			<heading>64.14812483638845</heading>
+			<tilt>70.64823633447344</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3541.167823949363</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_1EF9E04429136C7D5A36</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcGJEWktDdzlZZHpoc3AwbUJxNFZPUkNtNWVOb2t4WUxOY3Vlb3UxMEFwMlNnQXp2T2swY0NTMi9Md05QSElRalZGZnlmdVpUdWZVRUZBUGxCdFIrbnkrZHBrSU9NWjZBY1dYcUFjb05iNTY4azRjUzBEaFFlUWhJVUtyRmJERkwzZEluS3NycUl1ek1pRm9CRGlJRlNxT25DUmFtV0dPaS9kbzNrWTh3bnlpbGhBOG1iOGNad3IxUU0wcS93OE5pQWljMW5qdUxPR213azJqbU1BUG9vL3pJTU1WaDQxZFkvZTQwVWRzV3JVOVVYN203WmRYNkVGRkQ5anlJbjZ1L0w5R2prVXZGZE85bFJZd1cxcGZtcUFraW14K2c9PQ">
+				<gx:ImageUrl>https://doc-14-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/omo06997bhu3alhtgb841homo4/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALq4dJVhF9AmoM9rX1y1zwQKsTWLiOupXBDFc7MXnlrHFTOjL-eSvfVOizgskomqWX4VC9RwdtrmBSz8nFM4Dp6GAUHllFRYS8QCTQG4enczIHbcMgm3SPdJ8C1b6j56YXGmDO6CsAmZbN61rtPT5KaG6VAtFx4779uDM_etQMyVKVsSUdwNpai2q5y-O3pi1OV17Q7IYX3sfzhIbCcdgVkKA160TGg43wBosC9L4h1k196f3JakPRPYIhKGBPNdi4bLq_q3PsODpaJ7DTDEa15X0tktZw?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcUYrcmlLb3c4aVlhcUJqMzZyc0trWDlpNWJKdFpwdFNVRjRrZnIyRnBVZ3U2L282RW1LZUwwWW9DY0JBb0EvRklsM1hRTGJOaVhDNXk5T0JmRzVGL1VBSHZKMmhKYndQZHN2UUE1SGJvM29tMXFLUkYyYnZYV0tBNWZnWjlDYTF3NWU4djl3aDdtQk9EaTBla0hCam1nRGF1Sis4ei9HTnJkSDBzNmhwWll2a3dkN2M1b1F5R2JhRWVtSTNSeGpHc09tQUxncnVIL2xDQ0R6UE8rMHRWR0t1WnNFbS92Y0FsQkdsU2NvYnVMNHNwRDhUbXAvUXZ2cHI3N0pyNHk0alBhOWd0Z1ZpYU8yWW01NHZYYjM2Y2d5dUw5emc9PQ_0">
+				<gx:ImageUrl>https://doc-0k-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/ib6prfu5ccgqm27jp82s33tjqc/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALpoAqKLiN1pZk6P2pnLAmm4VtwFp3bBn644Hj3fatVLsanOlRfYW-TJWsTljgX7xTnxGcW5vFUK3OJbBUFO6968MO_NMTp4HKFwcF5ePnON-R4u_zqu2glA5tXrRItfMyulJnjX4r81FMu3p3xHJQy1E1ZsreHgHdtDaViiPijAD8A77Xi6l8h1BiMBPBqsjIdSwGPr2iWuYOBNZFZjyCHgv8NZs9fIwW7EdpVWSw2uu4m7ECHWEYkQgVe1BXqeHTh6tSWSgAmmv4wtniG5GIBGFLq0LQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcXdmOTFReGpoMFlDZmd6SVdrZUEvaElZVEROcWlxOVc0aWxIL1BZYWFXYjk0NkJGdlRpZWlKYmZTdVJySTMzV3lvSmZBNWU1THpzMHBVY2JVbCtNbjk1WlV5MVlZM3REK05lM3BXSWxtamlGOXlYN1hUTnZCTzZ5dEVZRUc5SVcvTUk2S2hUTTNtRnM2RG5xdDdYMitWN0sxaElQTXp1SUV4RFp2SXNzSTAwRnFUN0h6eUtMRFE3ckFrQU1JSnNxWkJJdUNjZmR2aU5IbXh3OXVRd3N4UGVVbkcwQ3BCMWhxMUl4SnRGdkV2MzF0bGRDYzZ0cmNlaWM5YjF5RFBQNkt0S1pvRzg2eWhOU004Z1NJR0V6enhzM28rWEE9PQ">
+				<gx:ImageUrl>https://doc-14-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/j5ert66a9n0g4pkh90o04kp8dc/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALrEGOWMgYXq4_SohSbbVh1YNq2_TB73nacEP53nQWBAOx8-pAsVl7oQnblTAQUFlSWmlO_Llj29brTO0IbqjzvmAx1a6ru3xiv9OOtzmMjtQxNSTmM_eLBI-JlfknNpuC71a-mGJKY0DwwA7AH4phNEhPnyvwq8X7vUmRqZdTf2jCGse6NUwnvans4n1be4OBcAMEdGLdd4KkRK0WU2cl2LeudSUx42tOD9krjEkFmFCa7Mzpk1aYCVNKZkuilOm1jweWZPdqEvcZyQFlCujVUb7CIzLQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>30.25847404951866,59.91598271823734,6.700554965793786</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D94E36D0213627C72B0">
+		<name>s/s &quot;Prins Carl&quot;</name>
+		<description><![CDATA[<p>Gustaf Palmgren tjänstgjorde på "<b>Prins Car</b>l" som styrman från 1901 till 1906. Han&nbsp; han kom ombord ett år efter det drama som skedde 1900 i Arboga.<br></p><div><span>Sommaren 1900 släpptes Filip Nordlund fri från Långholmen.&nbsp;&nbsp;En månad efter sin frigivning gick han ombord på "Prins Carl" i Arboga. På väg till Stockholm drog han pistol, sköt ihjäl fem människor
+och skadade nio, några av dem allvarligt.  Dådet utfördes enbart av önskan att döda. Att han inte lyckades genomföra hela sin plan berodde på att ombordvarande på "<b>Prins Car</b>l" lyckats uppmärksamma passagerare ombord på&nbsp; " Köping"&nbsp;att något inte stod rätt till. Köping skyndade till undsättning, varpå Nordlund försökte skrämmas genom att avlossa åtskilliga revolverskott. När detta inte gav önskat resultat valde han att istället fly i livbåten med de 845 kronor han lyckats stjäla från kapten Rönnlund. Skeppskassan fick han aldrig fatt i, och det blev heller inte någon tid över för honom att stjäla från passagerarna.&nbsp;<br>&nbsp;<a href="https://stockholmskallan.stockholm.se/post/617">stockholmskallan.stockholm.se/post/617</a></span></div><div><br></div><div><span>&nbsp;"Köping" döps 1906 om till "Ragvald"&nbsp;</span><br></div><div><br></div><div><span>För sina brott dömdes Nordlund till döden (avrättning genom halshuggning). Domen verkställdes i Västerås den 10 december år 1900.&nbsp;&nbsp;<span>&nbsp;</span>Detta kom att bli riksskarprättare Dahlmans sista avrättning och den näst sista i Sverige.</span><br></div><div><br></div><div><br></div><div><br></div>]]></description>
+		<gx:mid>/m/02p3hfq</gx:mid>
+		<gx:fid>0x465c271781ad6a0d:0x400fef341e48210</gx:fid>
+		<LookAt>
+			<longitude>16.15515630281347</longitude>
+			<latitude>59.52143374766269</latitude>
+			<altitude>46.24197953899314</altitude>
+			<heading>-85.25989850900852</heading>
+			<tilt>48.96808590503373</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>69610.01619849354</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E8007EC36136C7D5A44</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcUo3bnRaTTNCQm1pWTBKLytRaHpvTTVzTnZSRFUrQnRzUS8wRktyeDdJZmpYTDJZWWJDY3Q3RkpqUTJEVnZlUjhrVVNHcGFtOVdHUEY3YlM2ZFRoMTdRTlkwYzU0RmFqc3ZhKzgyQlE3RXpmamhxNmluR3M2dGhiVFNqbnlrYjZ2S09hNkhkSitwQW1XWlkraE5EM3VpZDN2Uysra0RrWWVYeDhvRGs0Vml4N24yd1V5bWJYQ3JxT0h1K1duTGVlNi9DcWFwYkUzQ1F2QlQzbElMRXNEMmZKbTM5ZkNGVk9iNWliRmJxZGVsVXY2MUl4by9iWXNPL3RqRDE1L3ZBeFUvTXlPbnlIQUhrUFVCblVUcG5PWkxLZkovbHc9PQ_0">
+				<gx:ImageUrl>https://doc-0g-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/03uldhssb7ldr1q3c5sng292ig/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALrZKrd63088Gm-AoNK9CXw563_ioPkCaa7ExT5FC9_QmxuPzYS3vYeIS-rNHwh1kr5PtyQfOczag5h9ejrllLFQuIqUdodUZePREKsX-9Z4cHzYzRwm7vfKS5j_QutsHT6rPoZMW_bRT0asbQNAax3gM605G0HRsr3F46lf8Ad183qt9HGVXMlDBYABzfacfV2a4u5k_33sLv_JakBcEzUr1A2Rx0738QL7jtovBu1ap5IjWEbUU5PfxrRea-wf3knlOVntGUkCcJwmQZEnOx0pp25ENQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMb1lwRDlwTnNjeU5uVk5zN2k4TzYrVzArNmt3SGhuUUliUm82VTBxRjQ1NXBYd1ZQVytLNis3dFpuS0JlUHltY0xIWWZENVpFcUsyMUNqWG1wdjFoNHRxTHA2T0hJL1N0bXBiU2FielFMd2dEWU9sVFU0UnVLQklHN0N4WTcxeUJtMTRYd2FUanhhWVVZN1hFaWkwcC9DM2tCV29rK2MyWHkwT2ltcXhXVFkzRHJUR0laMUoxdnJYdTRPd2ZHdnN3d3Rkd0hvM3F0RllIK0w2QmtsVFJMNjhUa3VwV1IvNmVWdk9PTXdaVlBxRGt0RHRndzh4YWZtQjllTDJrY2ZMU0JIcjh4ejB0ZVUxL1V0Z3EvQjJEamZKVXE2SWc9PQ">
+				<gx:ImageUrl>https://doc-0o-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/32jeut8a2ubkpp2p77solc2of4/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALrkAJCFCp-6fhbzdunTYeKxRHxqMght8gBlPDk58VilgbGk7gGh3jxGDv2-aAzt_HofBD49rUxsk3o0orPswdStZYKkCNWm00YQaoCvzZxrbIUas1dOR_XUqZtQoBie0I1a7kAMvdDZh9ML21lZy_x8Z1fUhP2iDNWonRjBzTkBKIPrO9pT6XdHN_1ulvbaGdeNH72QMxhdECEspXYFjah8q6qwhSl3wTgXQi189tp4024QKmpIMVq92NMWGxOEhbH11fsmv_fZoecBPeUyKXd1Poj0SA?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>15.8381748,59.39368829999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03179916451362051159">
+		<name>s/s &quot;Ragvald&quot; historia och vidare öde</name>
+		<description><![CDATA[<div>Byggd&nbsp; 1884&nbsp; på&nbsp;<span>Södra Varvet, W. Lindbergs Verkstads- &nbsp;Varfs AB. Stockholms&nbsp; Stora Skeppsvarf,&nbsp;&nbsp;vid Tegelviken på Södermalm. </span><br></div><div><span>Levererad som&nbsp;</span><b><span>Murena</span></b><span>&nbsp;till Stockholms Fiskhandels AB, Stockholm. Fartyget byggs som ångfisksump. Trafik som fiskleveransfartyg mellan Sverige och Tyskland .&nbsp;Såld till löjtnant G Wallenberg, Stockholm för 20.000 kr 1888 och omdöpt till&nbsp;</span><b><span>Delfin</span></b><span>. Ombyggd med en anläggning för att kunna ta levande fisk utan att den skadas under sjögång. </span><br></div><div><br></div><div><span>1893 säljs hon till Stockholms Transport och Bogserings AB, Stockholm , omdöpt till "<b>Köping" (</b>samma fartyg som kommer till undsättning vid dramat 1900 ombord på "Prins Carl"). "Köping" byggs om till last- och passagerarfartyg&nbsp;vid Ekensbergs varv. &nbsp;Ombyggd 1898, förlängd till 29,71 m och bredd 5,66 m. Går i nattrafik mellan Stockholm och Köping och senare mellan Stockholm och Arboga.&nbsp;D<span>öps om till "</span><b><span>Ragvald"</span></b> 1906.</span><br></div><div><br></div><div><span>Hon säljs 1909 till Vesterås Rederi AB, (G.Palmgren är delägare)&nbsp; "Ragvald" trafikerar Västerås - Torshälla . Säljs i februari 1917 till Eskilstuna Nya Rederi AB Trafik som lastbåt på traden Hallsta - Stockholm - Göteborg / från 1919&nbsp;traden Eskilstuna - Västerås - Göteborg. Säljs 1920 till&nbsp;Westerås - Torshälla Ångbåts AB. </span><br></div><div><span>Rammar 1933 en turistmotorbåt &nbsp;nära Liljeholmsbron &nbsp;och 13 sept 1939&nbsp;&nbsp;kantrar "Ragvald" vid Klara Strand när man med hjälp av fartygets lastbom ska ta ombord en mindre bil. Vatten rinner in genom ventilerna och fartyget sjunker.</span><br></div><div><br></div><div>1951 säljs "Ragvald"&nbsp;<span> till AB Skånska Cementgjuteriet, Malmö för 35.000 kr. Byggs om till logementsfartyg.</span><br></div><div><br></div><div><span>Skanska säljer fartyget 1978 till en privatperson och 1983 köper Leif Duveborg, Ola Eiken, &nbsp;Torbjörn Eriksson och Jon Eiken, "Ragvald" för 120.000 kr. Hon har därefter legat vid Söder Mälarstrand, Stockholm. Nuvarande ägare&nbsp; (från 2009) är&nbsp; Fredrik Hofgaard (fotograf) och Tobias Hylander.</span><br></div><div><br></div><div><div>I annons 2009 vid försäljningen uppges att fartyget &nbsp;delvis är renoverat invändigt och har ca 300m2 invändig yta i 3 plan.<br></div><div>Fartyget är utrustad med centralvärme och övrigt erfoderligt för att "vakt ombord" skall ha det drägligt.<br></div></div><div><span>Fredrik Hofgaard har 2020 adress&nbsp;<b>c/o</b><span>&nbsp;</span>M/S Ragvald&nbsp;Söder Mälarstrand 24 X&nbsp;11825 Stockholm</span><br></div><div><br></div><div>Klicka på länken så tar vi en promenad längs Söder Mälarstrand</div><div><a href="https://earth.google.com/web/@59.32068905,18.0445023,2.67898965a,0d,36.57062825y,293.15880397h,87.26938239t,0r/data=IhoKFkNYZzZSQXlsQk9YcVEzVk5Za0w2QlEQAjInCiUKIwohMThGb3E2UVEwei1qV0ZqMmNncDFxYjJZektJQjVFMjNFOgMKATA?authuser=0">earth.google.com/web/@59.32068905,18.0445023,2.67898965a,0d,36.57062825y,293.15880397h,87.26938239t,0r/data=IhoKFkNYZzZSQXlsQk9YcVEzVk5Za0w2QlEQAjInCiUKIwohMThGb3E2UVEwei1qV0ZqMmNncDFxYjJZektJQjVFMjNFOgMKATA?authuser=0</a><br></div><table border="0" rules="all"><tbody><tr><td colspan="3"><p><br></p></td></tr></tbody></table><div><br></div>]]></description>
+		<Camera>
+			<gx:ViewerOptions>
+				<gx:option name="streetview"></gx:option>
+				<gx:streetViewPanoId>CXg6RAylBOXqQ3VNYkL6BQ</gx:streetViewPanoId>
+			</gx:ViewerOptions>
+			<longitude>18.04450230091928</longitude>
+			<latitude>59.32068904798405</latitude>
+			<altitude>2.67898964881897</altitude>
+			<heading>293.1588039680462</heading>
+			<tilt>87.26938239150492</tilt>
+			<roll>0</roll>
+			<gx:fovy>36.57062825246106</gx:fovy>
+			<altitudeMode>absolute</altitudeMode>
+		</Camera>
+		<styleUrl>#__managed_style_0BA3E90776136C7D5A45</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcGNHL1F1QTlBaEdWa2dydlVwQmp6dHNhZXZBTnkrNkg2eFo5bkJZQXFVeW9QQk1teVp4bG5mdXpDTlg2MlJJYWtiT3RjMk0zZXdsMXdQQjZSMUgzdWk1S0VxbG5ZMUJwdmFkSXpMc280a3h6NzBXUTZWUmNwaHAvWUk1NzFGd3J4TkFvOURxR0FYUSsvb2hTWHpkWlVaSkdQdFFHUlZmdWdTVjlvV0VCbTg0RDk1QkhlODBLOGFQM0YxdXc0eVhJbmxZVVVPMmJVMVpWdFJNNUZYOHpIeFQ2UjFURHFIa2hOb1FyK0RvdUVZaU40ZnVUdXA4clZMMU9KMGJUWWsrN2FwL21QOFRNU2JCeUZaVy9JU0JDNTdib2ZtVWc9PQ_0">
+				<gx:ImageUrl>https://doc-14-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/v78bbusv9kl4pcrrd6na6kpk4o/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALpcwYFyBxchp-LaQywjTc8FiNg8y86Ci3icyFwI6Fi-m-ujsbLwrfT7ww2H7o2pv5oFekqYzJMtVaZL4UK7Jux_nP4oIqEweWEuZOzwlDx3lPzt0Iz0eVZ5bIgJqKWrAsfVzJGM01WQ8n5avaIBcsmIsuTqjUYdXm6I3tORnU0z49DxnnReTbfBfJRwyk9ruEBPklDuup0K1KFPMUB-YJWT1vTnqyHzjbIgXhU0yFMCWymkLRlrl9mdPsykSp2q8Iu2nZbpSVuxTzlrl01qfHpGWjnjow?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcmNET204NUZJVWJCVzRFaHZ1TFI3dG00YVVVaVIrNXdnNmhjTzY5c3QwS1d1Qm9lb0NYRnJMUHIvaWpubm0yWmE4QlQzclJGdERBOVBJbU1Gb0dHVjBBSHZmN1I3RGZaY1VyeUg5U0MvNGZjb2xEeDdxdFN6UWlXd0IxRGVtWWVRYU43NHI2ak9MYzB2aG5RYUluaXEraFBzWVZNVTNVQjloaXVMbmk5ajMrRzdZM3IrV2JJOHJxVURDdkI4ZFp1ekgveWRmMXlkT0dCSjRPMm1yaTV6ODZmS2Y5SUowUmJPaUNwd3kzQUU3eFRwNStYQXlyS1g4NEJjb3ZJVUVqMG1TS0pteW43ZWRZWkQ3blp2S1U3c2VXM0FSVlE9PQ">
+				<gx:ImageUrl>https://doc-10-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/82ukmn4uakgi526o27q0lt0shg/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALr7oIFQxHl7q7JBWtS58IH_-UzODayYXeXG-5Y9_LfasmB2J1WEEiyGhmcwWYx8qb7Ru4bUeS0PAsUy18Rmmsk12oZUnwipIZXPM47D0SICvyBoQjrDX6Gzh1bKxZNgNnjVX6TzxKQCa3I5Ue_G5sPeivia6cTRzLCeyG5njCB2XLZg4h7BvY-SZkI8-w8tDmkIGY3sRfN2LPkTRFEIUD_rFwmw39Dxx4s2FgqGcRyNsQG6ZJd2bsL27WSEB_dmjVh0xL5K5rQxdU6I0gxfl5OaR7X84g?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcm9EM2tuczdRMCtxOGNTSkI5ekt6c3U2WlpYdnplSWNHbThRRFJCRmR5WEJxdGZNb01QeVM1Nm5XcEJKMTlSd0R5TlNoQ0FOaWRHU01ibE5WbGJHN1V4VERTbEp3MlVnVk1pOGJBcWkyYTNTbVBQNmJXL1ZxTm9leEJNNkUzN2FDZHFUVkljdnVSNjdkWXNDMU00VUM1QXpiRmVxYzFRbnZrUkFBY0JXcHBJVjUyMnVBZk80cmhrUGE5UUNOY1NpVGM5MXZJZHBOVGV2dTQzdWx0Wkx0VWpBZTNnV0pkMlo4aFJBOVpPRklwNDRRYW1kVW9JemJGaWlxSUR6alVtcE0wR1RjaG9kYnBaeVVaeDFTbnZFQ0hmby9adnc9PQ_0">
+				<gx:ImageUrl>https://doc-04-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/uc55s09kpbrcqpsj3u22ab3hig/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALpc68gJCjr-xp2UYqWVPLuR1_comILSDz4giN9ETDA3jUo8iCUcjvBXU8STBcOjVOCCg-EB4_rljUO13nAiXUlv8NFBvO5jqHkviF5oD6bEo7dkZWu7Y9RaM7lNny2UYodBzfMV001BaUkcHauSzWObl3C_NshN3IvhGvM_8Zrjv736qWVuvBNgu66d74CR1fGkeuTsED_ksZLtbXqozCrjIW5tIZ0GLgRmRcD7hZLvOYmP8jYYK238DpS2itEwKDItvusktiddpWOKdoARhlzwwshmIA?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUYyVEFMckpmdnVWeFo1MGVhemhkV0Z2ZkYzV1BGUVlBOS9nSWlWSGx5cmt4QVNoQys3dVJackpjelpmYTVJb2Vwd1ZPUjFtR0MxemhhcnBkdFlQdW1CQUtVa3d5c1dvYS9TSTFYVGpkUkNza0RjRGhEdFFGazdaQTU2K2tKUFlHRlplZ0QyNjQ0RjRwd2V0TUlOZ1d0U1RIZ1FwdTlFaG9jTHkreVhzRnJhQ0YrejhVQTlZRnZ5cGlkbm52TU0wUFNIVGljTkpZaTd6NXI3bkQ1WDFvWjJ3Z1NqQU1sVE9WODcwc0dDZjd6SS9LejA4b1FPSSt0UWlWSGp6L2FEZDd6Z2w3dzR2c2hDSXl0c2h6TVpqMXRUMG5FZGxFQ3FyMnc9PQ">
+				<gx:ImageUrl>https://doc-08-10-mymaps.googleusercontent.com/untrusted/hostedimage/q67a2tgil9n045r7eh8ch0qlt0/2sjfufv1ikc35v9qk0m7d7ab1c/1590062041750/bjiCv3O_MZ5jf6hFD9WdK75WSWHmIzZo/11806447188979556106/5AF2TALpKHqUWqm7EUP-f_ga99TlNfDrn_RqRgLokViEMwGmXDA15996lCvT_QgLF_RvOhaJIvJKzVMkz8Q3FSkn9i5Wc344r6k1yXkbmW2nCfzq4vA_bOFwx2lPXNeRb9pYLpyXcEZM3JB7nC1YlQHg0bg1VRZBwCl93oePUgLxU5aptBoN-Kn2SLy4UQCzz8HrSKsawc5___T54_ooSENRW-OGG3AUbMKzXUNXlhLSlZx7L7QSrSipiFdTSYmuUv6wOmnvR9epczMV8VJTNcxhnDF0o6CJWLA?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>18.05964253879481,59.32762156261532,-0.4399772611849116</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
