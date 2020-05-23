@@ -26,7 +26,7 @@ app.get('/onekml/', function (req,res){
     // Convert to 
     var converted = tj.kml(kml);
     var convertedWithStyles = tj.kml(kml, { styles: true });
-    res.send(convertedWithStyles.features[0])
+    res.send(convertedWithStyles.features[1])
     console.log("Someone is here... In the KML endpoint...");
     console.log(convertedWithStyles.features[0])
 })

@@ -1,9 +1,17 @@
+// This file is used to test out different things
+// Started with >npm test
+
 const dotenv = require('dotenv');
 const express = require('express');
 const bodyParser = require('body-parser'); // for shaping JSON objects
 const app = express();
 const port = 3000;
-
+// Use togeojson in nodejs
+// https://www.npmjs.com/package/@mapbox/togeojson
+var tj = require('togeojson'),
+    fs = require('fs'),
+    // node doesn't have xml parsing or a dom. use xmldom
+    DOMParser = require('xmldom').DOMParser;
 
 // Enable serving of static files stored in a directory
 // e.g. html, js and pictures. Here in ./public/...
@@ -11,10 +19,42 @@ const port = 3000;
 // server, e.g. index.html
 app.use(express.static('public'))
 
-// As we now serve the static file index.html from
-// ./public/index.html, this will not be executed anomore
-// but keeping it here as reference
-// app.get('/', (req,res) => console.log("Hello World!"));
+// One endpoint we just write back some stuff for
+app.get('/onekml/', function (req,res){
+    // Read KML-file using DOM Parser
+    var kml = new DOMParser().parseFromString(fs.readFileSync('./public/GustafGabrielPalmgren.kml', 'utf8'));
+    // Convert to 
+    var converted = tj.kml(kml);
+    var convertedWithStyles = tj.kml(kml, { styles: true });
+    
+    // To start with, hardcoding the feature in the kml-file
+    // to work with
+    var featureid = 2;
+    var toreturn = "<H1>"+convertedWithStyles.features[featureid].properties.description+"</H1>"
+
+    res.send(toreturn)
+    //res.send(convertedWithStyles.features[featureid].properties.description)
+    console.log("Someone is here... In the KML endpoint...");
+    console.log(convertedWithStyles.features[featureid].properties.description)
+})
+
+// Send back gthe full KML
+app.get('/fullkml/', function (req,res){
+    // Read KML-file using DOM Parser
+    var kml = new DOMParser().parseFromString(fs.readFileSync('./public/GustafGabrielPalmgren.kml', 'utf8'));
+    // Convert to 
+    var converted = tj.kml(kml);
+    var convertedWithStyles = tj.kml(kml, { styles: true });
+    res.send(convertedWithStyles)
+    console.log("Someone is here... In the KML endpoint...");
+    console.log(convertedWithStyles)
+})
+
+
+
+
+
+
 
 // This endpoint only prints out something in the console
 app.get('/endpoint2/', (req,res) => console.log("Hello Endpoint 2!"));
@@ -23,23 +63,6 @@ app.get('/endpoint2/', (req,res) => console.log("Hello Endpoint 2!"));
 app.get('/view/', function (req,res){
     res.send('Hello Mr.View!');
     console.log("Someone is here... In the view endpoint...");
-})
-
-// One endpoint we just write back some stuff for
-app.get('/theugly/', function (req,res){
-    var uglyfile = "public/ugly.html"
-    // Send the html-file in the public directory
-    // Adding optional parameter to specify the
-    // root of node so that files can be found
-    res.sendFile(uglyfile, {root : __dirname});
-    console.log("Someone wants ugly...");
-})
-
-app.get('/thedata/', function (req,res){
-    var thedatajson = "public/thedata.json"
-    //res.sendFile(thedatajson, {root : __dirname});
-    res.send('{"this":2, "that":22}');
-    console.log("Oops, sent out the datafile.json")
 })
 
 app.listen(port, () => console.log("Example app listening on port: "+ port));
